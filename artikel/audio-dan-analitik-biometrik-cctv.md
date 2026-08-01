@@ -3,7 +3,8 @@ article_id: CCT-10-06
 title: "Audio dan analitik biometrik pada CCTV: pemeriksaan wajib"
 slug: "audio-dan-analitik-biometrik-cctv"
 description: "Establish a verifiable lawful purpose, proportionate coverage, access rules, retention, and disclosure process."
-status: outline
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2026-01-10"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -14,58 +15,13 @@ reader_address: "Sobat Tukang.co.id"
 final_route: "/artikel/audio-dan-analitik-biometrik-cctv.html"
 technical_review: required
 sources:
-  - "https://www.ilo.org/topics-and-sectors/occupational-safety-and-health-guide-labour-inspectors-and-other/how-can-occupational-safety-and-health-be-managed/controlling-risks"
-  - "https://www.ilo.org/publications/5-step-guide-employers-workers-and-their-representatives-conducting"
-  - "https://bnsp.go.id/"
-  - "https://www.iso.org/files/live/sites/isoorg/files/archive/pdf/en/iso_45001_-briefing_note.pdf"
-  - "https://www.iso.org/standard/70017.html"
-  - "https://peraturan.bpk.go.id/Details/5263/pp-no-50-tahun-2012"
-  - "https://peraturan.bpk.go.id/Details/45288/uu-no-8-tahun-1999"
-  - "https://jdih.kemendag.go.id/pdf/Regulasi/2019/PP%20Nomor%2080%20Tahun%202019.pdf"
   - "https://peraturan.bpk.go.id/Details/229798/uu-no-27-tahun-2022"
   - "https://www.iso.org/standard/62542.html"
-  - "https://peraturan.bpk.go.id/Details/47614/uu-no-1-tahun-1970"
-  - "https://peraturan.bpk.go.id/Details/145984/permenaker-no-12-tahun-2015"
-  - "https://peraturan.bpk.go.id/Details/351282/permenaker-no-11-tahun-2026"
-  - "https://jdih.pu.go.id/detail-dokumen/PermenPUPR-nomor-10-tahun-2021-Pedoman-Sistem-Manajemen-Keselamatan-Konstruksi"
-  - "https://www.ilo.org/publications/safety-and-health-construction-revised-edition"
-  - "https://www.iso.org/standard/67851.html"
-  - "https://kemkes.go.id/id/layanan/psc-119"
   - "https://webstore.iec.ch/en/publication/7353"
-  - "https://peraturan.bpk.go.id/Details/229798/uu-no-27-tahun-2022%20"
+  - "https://www.ilo.org/topics-and-sectors/occupational-safety-and-health-guide-labour-inspectors-and-other/how-can-occupational-safety-and-health-be-managed/controlling-risks"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
-
-# Audio dan analitik biometrik pada CCTV: pemeriksaan wajib
-
-## Assignment lock
-
-- **Writer task:** Expand this file into one complete article answering: “Audio dan analitik biometrik pada CCTV: pemeriksaan wajib”
-- **Reader and situation:** Establish a verifiable lawful purpose, proportionate coverage, access rules, retention, and disclosure process.
-- **Reader outcome:** Establish a verifiable lawful purpose, proportionate coverage, access rules, retention, and disclosure process.
-- **Primary intent:** Identify heightened privacy and legal checks before enabling sensitive features.
-- **Reader community:** `Tukang.co.id`
-- **Primary friendly address:** `Sobat Tukang.co.id`
-- **Natural variants:** `Kawan Tukang.co.id` and `Teman Tukang.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** No assumption that audio or biometrics are permitted; requires specialist and current-law review.
-- **Final public route:** `/artikel/audio-dan-analitik-biometrik-cctv.html`
-- **Appointed CMS date:** `2026-01-10` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
-
-## Opening instructions
-
-- Open with the exact short salutation: **“Halo, Sobat Tukang.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Audio dan analitik biometrik pada CCTV: pemeriksaan wajib**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Sobat Tukang.co.id`, `Kawan Tukang.co.id`, or `Teman Tukang.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-001`
@@ -76,199 +32,81 @@ sources:
 - **Selection basis:** filename/source metadata identifies `CCTV Merk ZKTECO` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
+# Audio dan analitik biometrik pada CCTV: pemeriksaan wajib
 
-## Evidence packet
+Halo, Sobat Tukang.co.id!
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+Mengaktifkan mikrofon atau analitik biometrik pada CCTV bukan sekadar mencentang fitur di aplikasi. Keduanya mengubah jenis data yang dikumpulkan dan siapa yang mungkin terdampak. Jawaban amannya: jangan aktifkan sebelum tujuan yang sah, kebutuhan yang terukur, pemberitahuan, pembatasan akses, masa simpan, serta prosedur pengungkapan ditulis dan ditinjau. Undang-Undang Pelindungan Data Pribadi (UU PDP) perlu dibaca bersama fakta lokasi dan peran pengelola; artikel ini tidak dapat menetapkan dasar pemrosesan untuk proyek tertentu ([UU No. 27 Tahun 2022](https://peraturan.bpk.go.id/Details/229798/uu-no-27-tahun-2022)).
 
-### KR-01
+Audio menangkap percakapan, sedangkan biometrik dapat menghubungkan ciri tubuh atau perilaku dengan identitas. Keduanya berpotensi memengaruhi pekerja, tamu, anak, atau orang yang hanya lewat. Jika tujuan, dasar hukum, atau penanggung jawab belum jelas, biarkan fitur tetap mati dan minta [NEEDS CURRENT LEGAL AND PRIVACY REVIEW] sebelum melanjutkan.
 
-- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
-- **Purpose for this article:** Freeze the verified editorial scope for `cctv.tukang.co.id` and prevent family research from overriding this project's actual catalog boundaries.
-- **Safe grounded facts:** The repository plans 20 parent topics and 120 briefs. Planning documents do not prove a workplace, product, person, service, certificate, or control is safe or compliant.
-- **Limits:** Reconcile only against the frozen local catalog when its canonical commit changes.
+![Ilustrasi CCTV Merk ZKTECO](/wp-content/uploads/2023/08/CCTV-Merk-ZKTECO.jpg)
 
-### KR-05
-
-- **Original sources:** [ILO controlling risks](https://www.ilo.org/topics-and-sectors/occupational-safety-and-health-guide-labour-inspectors-and-other/how-can-occupational-safety-and-health-be-managed/controlling-risks), [ILO five-step risk-assessment guide](https://www.ilo.org/publications/5-step-guide-employers-workers-and-their-representatives-conducting).
-- **Purpose for this article:** Ground a lean, repeatable risk cycle rather than paperwork volume or PPE-first advice.
-- **Safe grounded facts:** A generic matrix does not determine likelihood, consequence, exposure, acceptability, or residual risk for a site.
-- **Limits:** Complex or high-consequence risks require discipline-specific methods, evidence, competence, and approval.
-
-### KR-19
-
-- **Original sources:** [BNSP official site](https://bnsp.go.id/), [ISO 45001 briefing note](https://www.iso.org/files/live/sites/isoorg/files/archive/pdf/en/iso_45001_-briefing_note.pdf).
-- **Purpose for this article:** Ground role profiles, training needs, credential verification, practical assessment, authorization, supervision, and refresh after change.
-- **Safe grounded facts:** Scope, issuer, scheme, level, date/expiry, identity, practical context, language/literacy, supervision, and change determine what evidence means.
-- **Limits:** Verify the current regulator/issuer record and job-specific legal requirements; never authenticate a person or grant authorization from an article.
-
-### KR-20
-
-- **Original sources:** [ISO 19011:2018 record](https://www.iso.org/standard/70017.html), [PP No. 50 Tahun 2012](https://peraturan.bpk.go.id/Details/5263/pp-no-50-tahun-2012).
-- **Purpose for this article:** Ground scope, competence, independence, sampling, field evidence, findings, actions, effectiveness, and management review.
-- **Safe grounded facts:** Activity counts and injury rates alone do not prove risk control; definitions, denominators, exposure, reporting quality, severity, leading evidence, and decision use matter.
-- **Limits:** Do not claim audit independence, conformity, control effectiveness, or statistical improvement without a defined method and original evidence.
-
-### KR-21
-
-- **Original sources:** [UU No. 8 Tahun 1999](https://peraturan.bpk.go.id/Details/45288/uu-no-8-tahun-1999), [PP No. 80 Tahun 2019](https://jdih.kemendag.go.id/pdf/Regulasi/2019/PP%20Nomor%2080%20Tahun%202019.pdf).
-- **Purpose for this article:** Replace price-only selection and marketplace claims with comparable, retrievable evidence.
-- **Safe grounded facts:** A logo, test excerpt, certificate image, seller rating, or “standard-compliant” phrase does not prove the delivered model or installed system conforms.
-- **Limits:** No fabricated stock, price, client, approval, certificate, warranty, availability, or legal entitlement.
-
-### KR-23
-
-- **Original sources:** [UU No. 27 Tahun 2022](https://peraturan.bpk.go.id/Details/229798/uu-no-27-tahun-2022), [ISO 15489-1:2016 record](https://www.iso.org/standard/62542.html).
-- **Purpose for this article:** Ground approvals, versions, distribution, field access, retention, evidence provenance, migration, and personal-data boundaries.
-- **Safe grounded facts:** Legal register, risk assessment, permit, inspection, training, credential, incident, health record, corrective action, and audit evidence have different owners and sensitivity.
-- **Limits:** Retention, access, lawful basis, breach response, health data, litigation hold, and regulator submission require current legal and records/privacy review.
-
-### KR-24
-
-- **Original sources:** [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md), [UU No. 8 Tahun 1999](https://peraturan.bpk.go.id/Details/45288/uu-no-8-tahun-1999).
-- **Purpose for this article:** Keep evergreen education separate from changing `safety.co.id` offers and proof.
-- **Safe grounded facts:** Every live claim needs an owner, original record, scope, date, limitations, and refresh trigger.
-- **Limits:** If proof is absent, keep the article neutral and preserve the evidence gap.
-
-### KR-02
-
-- **Original sources:** [UU No. 1 Tahun 1970](https://peraturan.bpk.go.id/Details/47614/uu-no-1-tahun-1970).
-- **Purpose for this article:** Establish the national foundation without converting one law into a complete site obligation register.
-- **Safe grounded facts:** Applicability depends on the actual workplace, activity, people, equipment, material, and implementing rules; a web article cannot determine compliance.
-- **Limits:** Use current consolidated law and sector/local rules; obtain Indonesian K3/legal review for a definitive duty.
-
-### KR-11
-
-- **Original sources:** [Permenaker No. 12 Tahun 2015](https://peraturan.bpk.go.id/Details/145984/permenaker-no-12-tahun-2015), [Permenaker No. 11 Tahun 2026](https://peraturan.bpk.go.id/Details/351282/permenaker-no-11-tahun-2026).
-- **Purpose for this article:** Ground competence, de-energization, hazardous-energy control, temporary supply, wet conditions, inspection, and emergency boundaries.
-- **Safe grounded facts:** Source identification, one-line documentation, isolation, absence-of-voltage verification, grounding/protection, environment, equipment condition, and authorization are distinct evidence.
-- **Limits:** No live-work, switching, test, protection setting, grounding, arc-energy, temporary wiring, or design procedure.
-
-### KR-16
-
-- **Original sources:** [Permen PUPR No. 10 Tahun 2021 official record](https://jdih.pu.go.id/detail-dokumen/PermenPUPR-nomor-10-tahun-2021-Pedoman-Sistem-Manajemen-Keselamatan-Konstruksi), [ILO Safety and Health in Construction code](https://www.ilo.org/publications/safety-and-health-construction-revised-edition).
-- **Purpose for this article:** Ground SMKK, design risk, procurement, RKK interfaces, temporary states, contractors, public/occupied-site protection, and handover.
-- **Safe grounded facts:** Client, designer, contractor, subcontractor, supervisor, competent person, worker, and public interfaces change across phases and simultaneous work.
-- **Limits:** No excavation, temporary-works, scaffold, lifting, electrical, traffic, structural, or public-protection design without project evidence and competent discipline review.
-
-### KR-18
-
-- **Original sources:** [ISO 22320:2018 record](https://www.iso.org/standard/67851.html), [Kemenkes PSC 119](https://kemkes.go.id/id/layanan/psc-119).
-- **Purpose for this article:** Ground command, communications, warning, evacuation/accountability, accessibility, first-aid coverage, external liaison, drills, and review.
-- **Safe grounded facts:** Alarm, incident command, evacuation, shelter, muster/accountability, technical rescue, first aid, medical handoff, business continuity, and recovery have distinct owners.
-- **Limits:** No public emergency script, rescue technique, medical diagnosis/treatment, staffing number, response time, or drill proof from this file.
-
-### KR-36
-
-- **Original sources:** [IEC 62676-4 application-guideline record](https://webstore.iec.ch/en/publication/7353).
-- **Purpose for this article:** Ground requirements, scene purpose, selection, placement, installation, commissioning, maintenance, testing, and objective evaluation.
-- **Safe grounded facts:** Resolution, megapixels, camera count, or a product demo alone does not prove useful coverage, identification, retention, alerting, or incident outcomes.
-- **Limits:** Use the current edition, documented operational requirement, measured scenes and light, selected performance criteria, installation records, acceptance tests, and periodic review.
-
-### KR-40
-
-- **Original sources:** [Indonesia Personal Data Protection Law 27/2022](https://peraturan.bpk.go.id/Details/229798/uu-no-27-tahun-2022%20).
-- **Purpose for this article:** Ground purpose, coverage, notice, access, retention, disclosure, processors, rights, incident response, and deletion.
-- **Safe grounded facts:** A warning sign, owner consent, security purpose, or cloud contract alone does not prove proportionality, lawful basis, access control, retention, disclosure, or rights handling.
-- **Limits:** Obtain current legal review for the actual controller/processor, people and locations; document necessity, alternatives, fields of view, retention, access/export, requests, incidents, and deletion.
-
-## Evidence gates
-
-- **TOPIC-GATE:** EG-01, EG-02, EG-03, EG-04, EG-05, EG-07, EG-08, EG-09, EG-10, EG-11, EG-12.
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/kota/jual-pasang-cctv-yosowilangun/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/kota/jual-pasang-cctv-yalimo/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/kota/jual-pasang-cctv-yahukimo/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/kota/jual-pasang-cctv-wuryantoro/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/kota/jual-pasang-cctv-wungu/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/kota/jual-pasang-cctv-wuluhan/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `CCT-10-04` → `/artikel/kebijakan-akses-dan-retensi-rekaman-cctv.html` — Kebijakan akses dan retensi rekaman CCTV
-- `CCT-10-05` → `/artikel/berbagi-dan-mengungkapkan-rekaman-cctv.html` — Aturan berbagi dan mengungkapkan rekaman CCTV
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+Aset lokal proyek; ilustrasi ini bukan dokumentasi proyek tertentu dan tidak boleh dipakai sebagai bukti kinerja.
 
 ## Hasil akhir dan prasyarat
 
-- **Purpose:** Nyatakan hasil yang ingin dicapai, siapa yang berwenang, data awal, alat/dokumen, dan kondisi yang harus tersedia.
-- **Tie back to this article:** Keep the explanation specific to “Audio dan analitik biometrik pada CCTV: pemeriksaan wajib”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Hasil yang dicari bukan “CCTV paling pintar”, melainkan keputusan yang bisa diaudit: fitur apa yang aktif, untuk tujuan apa, pada area mana, berapa lama data disimpan, dan siapa yang boleh melihat atau mengekspornya. Pemilik atau pengelola lokasi menunjuk pengambil keputusan; penasihat privasi/hukum menilai dasar pemrosesan; dan tim teknis hanya mengonfigurasi setelah persetujuan tertulis.
 
-## Langkah 1 — tetapkan scope
+Siapkan peta kamera dan mikrofon, daftar area serta kelompok orang yang terekam, spesifikasi fungsi analitik, alur data (perangkat, cloud, dan integrasi), rancangan pemberitahuan, matriks hak akses, jadwal retensi, serta rencana penghapusan dan penanganan permintaan subjek data. Tanpa data awal itu, klaim “proporsional” belum bisa diverifikasi.
 
-- **Purpose:** Jelaskan objek, batas pekerjaan, antarmuka, risiko, serta hal yang sengaja tidak dikerjakan.
-- **Tie back to this article:** Keep the explanation specific to “Audio dan analitik biometrik pada CCTV: pemeriksaan wajib”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+## Langkah 1 — tetapkan ruang lingkup
+
+Mulai dari pertanyaan operasional yang sempit. Apakah audio diperlukan untuk mendeteksi kata panggilan darurat, atau cukup video dan tombol panik? Apakah biometrik dipakai untuk verifikasi satu pintu dengan daftar pengguna yang telah menyetujui, atau untuk mengenali semua orang yang lewat? Alternatif yang kurang invasif harus dibandingkan sebelum memilih fitur sensitif.
+
+Batasi bidang pandang dan zona dengar ke area yang benar-benar terkait tujuan. Jangan memasukkan ruang istirahat, ruang ibadah, kamar mandi, atau percakapan pribadi hanya karena kamera mengarah ke sana. Tetapkan pula antarmuka dengan keamanan gedung, HR, vendor cloud, dan aparat; masing-masing memerlukan peran serta batas akses berbeda. [NEEDS PROJECT-SPECIFIC NECESSITY AND ALTERNATIVES RECORD] bila analisis kebutuhan belum tersedia.
+
+Untuk pengadaan, minta model perangkat, versi firmware, lokasi pemrosesan, pilihan mematikan audio, kemampuan masking, log akses, dan metode penghapusan. Pedoman aplikasi CCTV IEC menekankan bahwa kebutuhan operasional, pemilihan, pemasangan, pengujian, dan evaluasi harus dibuktikan; jumlah kamera atau demo vendor saja tidak membuktikan cakupan yang berguna ([IEC 62676-4](https://webstore.iec.ch/en/publication/7353)).
 
 ## Langkah 2 — kumpulkan dan cocokkan bukti
 
-- **Purpose:** Susun dokumen, observasi, data, produk, atau standar yang harus cocok dengan kasus.
-- **Tie back to this article:** Keep the explanation specific to “Audio dan analitik biometrik pada CCTV: pemeriksaan wajib”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Pasangkan setiap tujuan dengan bukti yang dapat diambil kembali. Untuk audio, catat alasan perekaman, titik mikrofon, apakah suara direkam terus atau hanya saat kejadian, dan bagaimana pemberitahuan diberikan. Untuk biometrik, catat jenis templat, sumber daftar referensi, proses pendaftaran dan pencabutan, ambang keputusan, serta pilihan verifikasi manual ketika sistem keliru. Jangan menyimpulkan akurasi dari brosur atau cuplikan uji yang tidak menggambarkan lokasi Anda.
+
+Buat register pemrosesan: pemilik keputusan, operator harian, prosesor atau penyedia cloud, kategori data, penerima, lokasi penyimpanan, retensi, dan pemicu penghapusan. Prinsip pengelolaan arsip mengharuskan versi, distribusi, akses, provenance (asal-usul), dan migrasi tercatat; rekaman insiden tidak boleh bercampur tanpa aturan dengan rekaman rutin ([ISO 15489-1:2016](https://www.iso.org/standard/62542.html)).
+
+Uji juga bukti manusia dan prosesnya: siapa yang diberi otorisasi, bagaimana identitasnya diverifikasi, kapan haknya ditinjau ulang, dan apakah setiap akses menghasilkan log. Analisis risiko sebaiknya berulang—identifikasi bahaya, nilai paparan dan konsekuensi, pilih pengendalian, lalu cek sisa risiko—bukan sekadar mengisi matriks generik ([ILO, controlling risks](https://www.ilo.org/topics-and-sectors/occupational-safety-and-health-guide-labour-inspectors-and-other/how-can-occupational-safety-and-health-be-managed/controlling-risks)).
 
 ## Langkah 3 — jalankan urutan kerja
 
-- **Purpose:** Berikan urutan konseptual yang dapat diikuti tanpa berubah menjadi instruksi teknis berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Audio dan analitik biometrik pada CCTV: pemeriksaan wajib”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Urutan yang dapat dipertanggungjawabkan adalah sebagai berikut:
 
-## Hold point dan kondisi berhenti
+1. Tulis tujuan dan alternatif yang lebih ringan, lalu minta peninjauan hukum serta privasi terkini.
+2. Petakan zona, subjek, aliran data, vendor, dan titik ekspor. Hapus fungsi yang tidak diperlukan.
+3. Rancang pemberitahuan yang mudah dilihat dan dipahami; jelaskan tujuan, pengelola, kontak, retensi, serta cara mengajukan permintaan.
+4. Terapkan akses minimum: akun pribadi, autentikasi kuat, peran terpisah untuk melihat, mengekspor, dan menghapus, serta log yang ditinjau berkala.
+5. Uji di kondisi nyata yang disepakati. Catat area, pencahayaan, suara latar, kejadian salah deteksi, waktu, dan hasil; jangan menggeneralisasi hasil uji ke lokasi lain.
+6. Aktifkan bertahap setelah berita acara penerimaan ditandatangani. Jadwalkan peninjauan ketika tujuan, perangkat, vendor, atau tata letak berubah.
 
-- **Purpose:** Nyatakan kapan pekerjaan tidak boleh diteruskan tanpa review, tes, atau persetujuan.
-- **Tie back to this article:** Keep the explanation specific to “Audio dan analitik biometrik pada CCTV: pemeriksaan wajib”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kawan Tukang.co.id, “aktif secara default” adalah keputusan desain, bukan kewajiban. Jika perangkat tidak dapat membatasi mikrofon atau biometrik sesuai ruang lingkup, pilih konfigurasi lain atau tunda pengadaan.
 
-## Verifikasi hasil dan handover
+## Titik berhenti dan kondisi berhenti
 
-- **Purpose:** Buat checklist penerimaan, rekaman, tindak lanjut, dan pemicu koreksi.
-- **Tie back to this article:** Keep the explanation specific to “Audio dan analitik biometrik pada CCTV: pemeriksaan wajib”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Hentikan aktivasi bila salah satu pemeriksaan berikut gagal: dasar pemrosesan belum disetujui; pemberitahuan tidak menjangkau orang yang terekam; retensi hanya mengikuti setelan vendor; akun bersama masih dipakai; ekspor dapat dilakukan tanpa pencatatan; prosesor cloud belum jelas; atau tidak ada jalur untuk mengoreksi dan menghapus data. Kebocoran, permintaan subjek data, atau sengketa juga memerlukan prosedur insiden dan penasihat yang berwenang.
 
-## Objection or shortcut to address
+Jangan menganggap persetujuan satu orang meliputi semua orang di area. Jangan mengaktifkan pengenalan wajah untuk “berjaga-jaga”, dan jangan merekam audio sebagai pengganti penyelidikan keselamatan tanpa tujuan yang terdokumentasi. [NEEDS CONTROLLER/PROCESSOR, LAWFUL BASIS, RETENTION, AND DISCLOSURE REVIEW] harus tetap terlihat sampai pemilik proyek mengisinya dengan bukti aktual.
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+## Verifikasi hasil dan serah terima
 
-## Required conclusion
+Sebelum serah terima, minta paket berikut:
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+- peta area, tujuan tiap fitur, dan daftar area yang dikecualikan;
+- konfigurasi final, versi perangkat lunak, lokasi pemrosesan, serta bukti fitur sensitif dapat dimatikan;
+- daftar pengguna dan peran, bukti uji akses, log ekspor, serta jadwal tinjauan;
+- naskah pemberitahuan, kontak permintaan data, retensi per kategori, dan bukti penghapusan uji;
+- hasil uji lapangan dengan batasan, kejadian salah deteksi, tindakan korektif, dan tanggal evaluasi ulang;
+- kontak pemilik sistem, vendor, dan jalur eskalasi insiden.
 
-## Draft completion checklist
+Periksa satu skenario dari awal sampai akhir: orang meminta akses rekaman tentang dirinya, operator mencari kejadian, atasan menyetujui ekspor, lalu salinan dihapus sesuai jadwal. Jika satu langkah hanya bergantung pada ingatan operator atau akun vendor, serah terima belum selesai. Teman Tukang.co.id, simpan keputusan dan batasannya bersama konfigurasi; perubahan firmware atau tujuan memicu penilaian ulang.
 
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Sobat Tukang.co.id!` and uses friendly `Tukang.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+## Jalan pintas yang sering gagal
+
+Jalan pintasnya adalah membeli kamera yang mencantumkan “AI face recognition dan audio”, memasang tanda CCTV, lalu menyerahkan semua setelan kepada installer. Cara ini gagal karena label produk tidak menjawab siapa pengendali data, mengapa suara diperlukan, berapa lama templat biometrik disimpan, atau siapa yang dapat mengunduhnya. Tanda dan kontrak cloud saja tidak membuktikan proporsionalitas maupun kendali akses.
+
+Alternatif yang lebih aman: tulis kebutuhan terlebih dahulu, minta vendor memetakan setiap fungsi ke kebutuhan itu, lakukan uji terbatas, dan tahan aktivasi sampai review hukum/privasi serta penerimaan teknis selesai.
+
+## Kesimpulan
+
+Pemeriksaan wajib untuk audio dan analitik biometrik CCTV adalah pemeriksaan tujuan, kebutuhan, pemberitahuan, akses, retensi, pengungkapan, keamanan, dan penghapusan—bukan pemeriksaan jumlah fitur. Ambil peta aliran data dan konfigurasi vendor ke penasihat hukum/privasi Indonesia, lalu minta berita acara uji dan persetujuan sebelum mengaktifkan apa pun.
+
+Aturan operasinya sederhana: bila tujuan atau bukti pengendalian belum dapat ditunjukkan, fitur sensitif tetap nonaktif. Untuk survei perangkat dan cakupan fisik setelah persetujuan privasi siap, Anda dapat menghubungi penyedia [jual-pasang CCTV di Yosowilangun](/kota/jual-pasang-cctv-yosowilangun/) atau [jual-pasang CCTV di Yalimo](/kota/jual-pasang-cctv-yalimo/) sesuai lokasi; rute itu tidak menggantikan review hukum.

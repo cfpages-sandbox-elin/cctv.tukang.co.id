@@ -3,7 +3,8 @@ article_id: CCT-18-04
 title: "Menjaga rekaman CCTV setelah insiden"
 slug: "menjaga-rekaman-cctv-setelah-insiden"
 description: "Take control of the system, understand warranty conditions, preserve incident material, and close the data lifecycle."
-status: outline
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2026-07-16"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -15,62 +16,20 @@ final_route: "/artikel/menjaga-rekaman-cctv-setelah-insiden.html"
 technical_review: required
 sources:
   - "https://www.ilo.org/topics-and-sectors/occupational-safety-and-health-guide-labour-inspectors-and-other/how-can-occupational-safety-and-health-be-managed/controlling-risks"
-  - "https://www.ilo.org/publications/5-step-guide-employers-workers-and-their-representatives-conducting"
-  - "https://bnsp.go.id/"
-  - "https://www.iso.org/files/live/sites/isoorg/files/archive/pdf/en/iso_45001_-briefing_note.pdf"
-  - "https://www.iso.org/standard/70017.html"
-  - "https://peraturan.bpk.go.id/Details/5263/pp-no-50-tahun-2012"
-  - "https://peraturan.bpk.go.id/Details/45288/uu-no-8-tahun-1999"
-  - "https://jdih.kemendag.go.id/pdf/Regulasi/2019/PP%20Nomor%2080%20Tahun%202019.pdf"
-  - "https://peraturan.bpk.go.id/Details/229798/uu-no-27-tahun-2022"
   - "https://www.iso.org/standard/62542.html"
-  - "https://peraturan.bpk.go.id/Details/47614/uu-no-1-tahun-1970"
-  - "https://peraturan.bpk.go.id/Details/145984/permenaker-no-12-tahun-2015"
-  - "https://peraturan.bpk.go.id/Details/351282/permenaker-no-11-tahun-2026"
-  - "https://jdih.pu.go.id/detail-dokumen/PermenPUPR-nomor-10-tahun-2021-Pedoman-Sistem-Manajemen-Keselamatan-Konstruksi"
-  - "https://www.ilo.org/publications/safety-and-health-construction-revised-edition"
-  - "https://www.iso.org/standard/67851.html"
-  - "https://kemkes.go.id/id/layanan/psc-119"
-  - "https://webstore.iec.ch/en/publication/7353"
-  - "https://www.onvif.org/profiles/profile-t/"
-  - "https://www.onvif.org/"
+  - "https://peraturan.bpk.go.id/Details/229798/uu-no-27-tahun-2022"
   - "https://csrc.nist.gov/pubs/ir/8259/r1/final"
-  - "https://pages.nist.gov/IoT-Device-Cybersecurity-Requirement-Catalogs/technical/"
-  - "https://peraturan.bpk.go.id/Details/229798/uu-no-27-tahun-2022%20"
-  - "https://webstore.iec.ch/en/publication/63699"
+  - "https://www.onvif.org/profiles/profile-t/"
+  - "https://bnsp.go.id/"
 ---
-
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
 
 # Menjaga rekaman CCTV setelah insiden
 
-## Assignment lock
+Halo, Teman Tukang.co.id! Setelah insiden, jangan langsung mematikan recorder, mencabut hard disk, atau mengirim potongan video lewat grup chat. Langkah pertama adalah membatasi perubahan pada sistem: tunjuk satu orang yang berwenang, catat waktu dan kondisi awal, lalu amankan salinan kerja tanpa menghapus materi asli. Rekaman yang masih utuh, metadata waktunya, dan catatan siapa yang mengaksesnya jauh lebih berguna daripada video pendek yang tidak jelas asalnya.
 
-- **Writer task:** Expand this file into one complete article answering: “Menjaga rekaman CCTV setelah insiden”
-- **Reader and situation:** Take control of the system, understand warranty conditions, preserve incident material, and close the data lifecycle.
-- **Reader outcome:** Take control of the system, understand warranty conditions, preserve incident material, and close the data lifecycle.
-- **Primary intent:** Preserve original material, metadata, access records, copies, and authorization.
-- **Reader community:** `Tukang.co.id`
-- **Primary friendly address:** `Teman Tukang.co.id`
-- **Natural variants:** `Sobat Tukang.co.id` and `Kawan Tukang.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Requires current legal/procedural advice; does not claim legal admissibility.
-- **Final public route:** `/artikel/menjaga-rekaman-cctv-setelah-insiden.html`
-- **Appointed CMS date:** `2026-07-16` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Urutan sederhananya: hentikan perubahan yang tidak perlu, dokumentasikan identitas sistem dan jam, simpan rekaman asli secara read-only bila fitur tersedia, buat salinan terverifikasi untuk pemeriksaan, dan batasi distribusi. Apa yang harus disimpan, berapa lama, dan kepada siapa boleh diberikan bergantung pada tujuan insiden, kebijakan organisasi, kontrak, serta aturan privasi yang berlaku. Karena itu artikel ini bukan penetapan keabsahan alat bukti; **[NEEDS LEGAL/PRIVACY REVIEW: konfirmasi dasar pemrosesan, retensi, permintaan akses, dan pengungkapan untuk kasus aktual]**.
 
-## Opening instructions
-
-- Open with the exact short salutation: **“Halo, Teman Tukang.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Menjaga rekaman CCTV setelah insiden**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Teman Tukang.co.id`, `Sobat Tukang.co.id`, or `Kawan Tukang.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-001`
@@ -81,222 +40,74 @@ sources:
 - **Selection basis:** filename/source metadata identifies `CCTV Merk ZKTECO` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
+![Ilustrasi CCTV Merk ZKTECO](/wp-content/uploads/2023/08/CCTV-Merk-ZKTECO.jpg)
 
-## Evidence packet
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
-
-### KR-01
-
-- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
-- **Purpose for this article:** Freeze the verified editorial scope for `cctv.tukang.co.id` and prevent family research from overriding this project's actual catalog boundaries.
-- **Safe grounded facts:** The repository plans 20 parent topics and 120 briefs. Planning documents do not prove a workplace, product, person, service, certificate, or control is safe or compliant.
-- **Limits:** Reconcile only against the frozen local catalog when its canonical commit changes.
-
-### KR-05
-
-- **Original sources:** [ILO controlling risks](https://www.ilo.org/topics-and-sectors/occupational-safety-and-health-guide-labour-inspectors-and-other/how-can-occupational-safety-and-health-be-managed/controlling-risks), [ILO five-step risk-assessment guide](https://www.ilo.org/publications/5-step-guide-employers-workers-and-their-representatives-conducting).
-- **Purpose for this article:** Ground a lean, repeatable risk cycle rather than paperwork volume or PPE-first advice.
-- **Safe grounded facts:** A generic matrix does not determine likelihood, consequence, exposure, acceptability, or residual risk for a site.
-- **Limits:** Complex or high-consequence risks require discipline-specific methods, evidence, competence, and approval.
-
-### KR-19
-
-- **Original sources:** [BNSP official site](https://bnsp.go.id/), [ISO 45001 briefing note](https://www.iso.org/files/live/sites/isoorg/files/archive/pdf/en/iso_45001_-briefing_note.pdf).
-- **Purpose for this article:** Ground role profiles, training needs, credential verification, practical assessment, authorization, supervision, and refresh after change.
-- **Safe grounded facts:** Scope, issuer, scheme, level, date/expiry, identity, practical context, language/literacy, supervision, and change determine what evidence means.
-- **Limits:** Verify the current regulator/issuer record and job-specific legal requirements; never authenticate a person or grant authorization from an article.
-
-### KR-20
-
-- **Original sources:** [ISO 19011:2018 record](https://www.iso.org/standard/70017.html), [PP No. 50 Tahun 2012](https://peraturan.bpk.go.id/Details/5263/pp-no-50-tahun-2012).
-- **Purpose for this article:** Ground scope, competence, independence, sampling, field evidence, findings, actions, effectiveness, and management review.
-- **Safe grounded facts:** Activity counts and injury rates alone do not prove risk control; definitions, denominators, exposure, reporting quality, severity, leading evidence, and decision use matter.
-- **Limits:** Do not claim audit independence, conformity, control effectiveness, or statistical improvement without a defined method and original evidence.
-
-### KR-21
-
-- **Original sources:** [UU No. 8 Tahun 1999](https://peraturan.bpk.go.id/Details/45288/uu-no-8-tahun-1999), [PP No. 80 Tahun 2019](https://jdih.kemendag.go.id/pdf/Regulasi/2019/PP%20Nomor%2080%20Tahun%202019.pdf).
-- **Purpose for this article:** Replace price-only selection and marketplace claims with comparable, retrievable evidence.
-- **Safe grounded facts:** A logo, test excerpt, certificate image, seller rating, or “standard-compliant” phrase does not prove the delivered model or installed system conforms.
-- **Limits:** No fabricated stock, price, client, approval, certificate, warranty, availability, or legal entitlement.
-
-### KR-23
-
-- **Original sources:** [UU No. 27 Tahun 2022](https://peraturan.bpk.go.id/Details/229798/uu-no-27-tahun-2022), [ISO 15489-1:2016 record](https://www.iso.org/standard/62542.html).
-- **Purpose for this article:** Ground approvals, versions, distribution, field access, retention, evidence provenance, migration, and personal-data boundaries.
-- **Safe grounded facts:** Legal register, risk assessment, permit, inspection, training, credential, incident, health record, corrective action, and audit evidence have different owners and sensitivity.
-- **Limits:** Retention, access, lawful basis, breach response, health data, litigation hold, and regulator submission require current legal and records/privacy review.
-
-### KR-24
-
-- **Original sources:** [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md), [UU No. 8 Tahun 1999](https://peraturan.bpk.go.id/Details/45288/uu-no-8-tahun-1999).
-- **Purpose for this article:** Keep evergreen education separate from changing `safety.co.id` offers and proof.
-- **Safe grounded facts:** Every live claim needs an owner, original record, scope, date, limitations, and refresh trigger.
-- **Limits:** If proof is absent, keep the article neutral and preserve the evidence gap.
-
-### KR-02
-
-- **Original sources:** [UU No. 1 Tahun 1970](https://peraturan.bpk.go.id/Details/47614/uu-no-1-tahun-1970).
-- **Purpose for this article:** Establish the national foundation without converting one law into a complete site obligation register.
-- **Safe grounded facts:** Applicability depends on the actual workplace, activity, people, equipment, material, and implementing rules; a web article cannot determine compliance.
-- **Limits:** Use current consolidated law and sector/local rules; obtain Indonesian K3/legal review for a definitive duty.
-
-### KR-11
-
-- **Original sources:** [Permenaker No. 12 Tahun 2015](https://peraturan.bpk.go.id/Details/145984/permenaker-no-12-tahun-2015), [Permenaker No. 11 Tahun 2026](https://peraturan.bpk.go.id/Details/351282/permenaker-no-11-tahun-2026).
-- **Purpose for this article:** Ground competence, de-energization, hazardous-energy control, temporary supply, wet conditions, inspection, and emergency boundaries.
-- **Safe grounded facts:** Source identification, one-line documentation, isolation, absence-of-voltage verification, grounding/protection, environment, equipment condition, and authorization are distinct evidence.
-- **Limits:** No live-work, switching, test, protection setting, grounding, arc-energy, temporary wiring, or design procedure.
-
-### KR-16
-
-- **Original sources:** [Permen PUPR No. 10 Tahun 2021 official record](https://jdih.pu.go.id/detail-dokumen/PermenPUPR-nomor-10-tahun-2021-Pedoman-Sistem-Manajemen-Keselamatan-Konstruksi), [ILO Safety and Health in Construction code](https://www.ilo.org/publications/safety-and-health-construction-revised-edition).
-- **Purpose for this article:** Ground SMKK, design risk, procurement, RKK interfaces, temporary states, contractors, public/occupied-site protection, and handover.
-- **Safe grounded facts:** Client, designer, contractor, subcontractor, supervisor, competent person, worker, and public interfaces change across phases and simultaneous work.
-- **Limits:** No excavation, temporary-works, scaffold, lifting, electrical, traffic, structural, or public-protection design without project evidence and competent discipline review.
-
-### KR-18
-
-- **Original sources:** [ISO 22320:2018 record](https://www.iso.org/standard/67851.html), [Kemenkes PSC 119](https://kemkes.go.id/id/layanan/psc-119).
-- **Purpose for this article:** Ground command, communications, warning, evacuation/accountability, accessibility, first-aid coverage, external liaison, drills, and review.
-- **Safe grounded facts:** Alarm, incident command, evacuation, shelter, muster/accountability, technical rescue, first aid, medical handoff, business continuity, and recovery have distinct owners.
-- **Limits:** No public emergency script, rescue technique, medical diagnosis/treatment, staffing number, response time, or drill proof from this file.
-
-### KR-36
-
-- **Original sources:** [IEC 62676-4 application-guideline record](https://webstore.iec.ch/en/publication/7353).
-- **Purpose for this article:** Ground requirements, scene purpose, selection, placement, installation, commissioning, maintenance, testing, and objective evaluation.
-- **Safe grounded facts:** Resolution, megapixels, camera count, or a product demo alone does not prove useful coverage, identification, retention, alerting, or incident outcomes.
-- **Limits:** Use the current edition, documented operational requirement, measured scenes and light, selected performance criteria, installation records, acceptance tests, and periodic review.
-
-### KR-38
-
-- **Original sources:** [ONVIF Profile T](https://www.onvif.org/profiles/profile-t/), [ONVIF conformant-product guidance](https://www.onvif.org/).
-- **Purpose for this article:** Ground streaming, imaging, events, metadata, PTZ, HTTPS, audio, device/client roles, and procurement verification.
-- **Safe grounded facts:** An ONVIF logo, protocol checkbox, or same-brand test does not prove every optional feature, recorder/client compatibility, cyber hardening, or lifecycle support.
-- **Limits:** Verify exact product/firmware, conformant profile and role, mandatory versus conditional features, tested workflows, certificates, updates, and support horizon.
-
-### KR-39
-
-- **Original sources:** [NISTIR 8259 Rev. 1](https://csrc.nist.gov/pubs/ir/8259/r1/final), [NIST IoT capability catalog](https://pages.nist.gov/IoT-Device-Cybersecurity-Requirement-Catalogs/technical/).
-- **Purpose for this article:** Ground identity, secure configuration, data protection, logical access, updates, state awareness, secure operation, procurement, and retirement.
-- **Safe grounded facts:** Changing a default password alone does not establish inventory, segmentation, protected interfaces/data, signed updates, logging, vulnerability response, or secure disposal.
-- **Limits:** Create a use-case profile; verify firmware/support, accounts/roles, protocols, encryption, network exposure, update and backup/restore, monitoring, incident process, and decommissioning.
-
-### KR-40
-
-- **Original sources:** [Indonesia Personal Data Protection Law 27/2022](https://peraturan.bpk.go.id/Details/229798/uu-no-27-tahun-2022%20).
-- **Purpose for this article:** Ground purpose, coverage, notice, access, retention, disclosure, processors, rights, incident response, and deletion.
-- **Safe grounded facts:** A warning sign, owner consent, security purpose, or cloud contract alone does not prove proportionality, lawful basis, access control, retention, disclosure, or rights handling.
-- **Limits:** Obtain current legal review for the actual controller/processor, people and locations; document necessity, alternatives, fields of view, retention, access/export, requests, incidents, and deletion.
-
-### KR-41
-
-- **Original sources:** [IEC 60364-1:2025](https://webstore.iec.ch/en/publication/63699).
-- **Purpose for this article:** Ground mains/SELV/PoE boundaries, protection, earthing, UPS, cable pathways, fire interfaces, resilience, verification, and changes.
-- **Safe grounded facts:** A PoE budget, UPS runtime label, cable category, or continuity test does not prove electrical safety, bandwidth, retention, failover, fire stopping, or resilience.
-- **Limits:** Require competent electrical/network design, actual loads/routes/environment, separation and protection, product compatibility, verification tests, labels/as-builts, failover tests, and change control. ## Topic-family coverage matrix | Topic family | Main evidence records | Safe ground for the article set | Remaining gate before definitive drafting | | --- | --- | --- | --- | | `CCT-01` | KR-01, KR-05, KR-19, KR-20, KR-21, KR-23, KR-24, KR-02, KR-11, KR-16, KR-18, KR-36, KR-40 | Use the reviewed cctv.tukang.co.id evidence to ground “Security planning and project brief” through exact system identity, measured requirements and conditions, applicable current rules/standards, manufacturer or authority evidence, competent design/work, verification, records, lifecycle controls, and explicit uncertainty. | EG-01, EG-02, EG-03, EG-04, EG-05, EG-07, EG-08, EG-09, EG-10, EG-11, EG-12. | | `CCT-02` | KR-01, KR-05, KR-19, KR-20, KR-21, KR-23, KR-24, KR-02, KR-11, KR-16, KR-18, KR-36, KR-38 | Use the reviewed cctv.tukang.co.id evidence to ground “Camera and system fundamentals” through exact system identity, measured requirements and conditions, applicable current rules/standards, manufacturer or authority evidence, competent design/work, verification, records, lifecycle controls, and explicit uncertainty. | EG-01, EG-02, EG-03, EG-04, EG-05, EG-07, EG-08, EG-09, EG-10, EG-11, EG-12. | | `CCT-03` | KR-01, KR-05, KR-19, KR-20, KR-21, KR-23, KR-24, KR-02, KR-11, KR-16, KR-18, KR-36, KR-37, KR-40 | Use the reviewed cctv.tukang.co.id evidence to ground “Coverage and placement” through exact system identity, measured requirements and conditions, applicable current rules/standards, manufacturer or authority evidence, competent design/work, verification, records, lifecycle controls, and explicit uncertainty. | EG-01, EG-02, EG-03, EG-04, EG-05, EG-07, EG-08, EG-09, EG-10, EG-11, EG-12. | | `CCT-04` | KR-01, KR-05, KR-19, KR-20, KR-21, KR-23, KR-24, KR-02, KR-11, KR-16, KR-18, KR-36, KR-37 | Use the reviewed cctv.tukang.co.id evidence to ground “Image quality and optics” through exact system identity, measured requirements and conditions, applicable current rules/standards, manufacturer or authority evidence, competent design/work, verification, records, lifecycle controls, and explicit uncertainty. | EG-01, EG-02, EG-03, EG-04, EG-05, EG-07, EG-08, EG-09, EG-10, EG-11, EG-12. | | `CCT-05` | KR-01, KR-05, KR-19, KR-20, KR-21, KR-23, KR-24, KR-02, KR-11, KR-16, KR-18, KR-36, KR-38, KR-39, KR-40 | Use the reviewed cctv.tukang.co.id evidence to ground “Recording, storage, and retention” through exact system identity, measured requirements and conditions, applicable current rules/standards, manufacturer or authority evidence, competent design/work, verification, records, lifecycle controls, and explicit uncertainty. | EG-01, EG-02, EG-03, EG-04, EG-05, EG-07, EG-08, EG-09, EG-10, EG-11, EG-12. | | `CCT-06` | KR-01, KR-05, KR-19, KR-20, KR-21, KR-23, KR-24, KR-02, KR-11, KR-16, KR-18, KR-36, KR-38, KR-39, KR-41 | Use the reviewed cctv.tukang.co.id evidence to ground “Network architecture and PoE” through exact system identity, measured requirements and conditions, applicable current rules/standards, manufacturer or authority evidence, competent design/work, verification, records, lifecycle controls, and explicit uncertainty. | EG-01, EG-02, EG-03, EG-04, EG-05, EG-07, EG-08, EG-09, EG-10, EG-11, EG-12. | | `CCT-07` | KR-01, KR-05, KR-19, KR-20, KR-21, KR-23, KR-24, KR-02, KR-11, KR-16, KR-18, KR-36, KR-41 | Use the reviewed cctv.tukang.co.id evidence to ground “Electrical power and resilience” through exact system identity, measured requirements and conditions, applicable current rules/standards, manufacturer or authority evidence, competent design/work, verification, records, lifecycle controls, and explicit uncertainty. | EG-01, EG-02, EG-03, EG-04, EG-05, EG-07, EG-08, EG-09, EG-10, EG-11, EG-12. | | `CCT-08` | KR-01, KR-05, KR-19, KR-20, KR-21, KR-23, KR-24, KR-02, KR-11, KR-16, KR-18, KR-36, KR-41 | Use the reviewed cctv.tukang.co.id evidence to ground “Cabling and pathways” through exact system identity, measured requirements and conditions, applicable current rules/standards, manufacturer or authority evidence, competent design/work, verification, records, lifecycle controls, and explicit uncertainty. | EG-01, EG-02, EG-03, EG-04, EG-05, EG-07, EG-08, EG-09, EG-10, EG-11, EG-12. | | `CCT-09` | KR-01, KR-05, KR-19, KR-20, KR-21, KR-23, KR-24, KR-02, KR-11, KR-16, KR-18, KR-36, KR-39 | Use the reviewed cctv.tukang.co.id evidence to ground “CCTV cybersecurity” through exact system identity, measured requirements and conditions, applicable current rules/standards, manufacturer or authority evidence, competent design/work, verification, records, lifecycle controls, and explicit uncertainty. | EG-01, EG-02, EG-03, EG-04, EG-05, EG-07, EG-08, EG-09, EG-10, EG-11, EG-12. | | `CCT-10` | KR-01, KR-05, KR-19, KR-20, KR-21, KR-23, KR-24, KR-02, KR-11, KR-16, KR-18, KR-36, KR-40 | Use the reviewed cctv.tukang.co.id evidence to ground “Privacy, legality, and governance” through exact system identity, measured requirements and conditions, applicable current rules/standards, manufacturer or authority evidence, competent design/work, verification, records, lifecycle controls, and explicit uncertainty. | EG-01, EG-02, EG-03, EG-04, EG-05, EG-07, EG-08, EG-09, EG-10, EG-11, EG-12. | | `CCT-11` | KR-01, KR-05, KR-19, KR-20, KR-21, KR-23, KR-24, KR-02, KR-11, KR-16, KR-18, KR-36, KR-41 | Use the reviewed cctv.tukang.co.id evidence to ground “Installation and mounting” through exact system identity, measured requirements and conditions, applicable current rules/standards, manufacturer or authority evidence, competent design/work, verification, records, lifecycle controls, and explicit uncertainty. | EG-01, EG-02, EG-03, EG-04, EG-05, EG-07, EG-08, EG-09, EG-10, EG-11, EG-12. | | `CCT-12` | KR-01, KR-05, KR-19, KR-20, KR-21, KR-23, KR-24, KR-02, KR-11, KR-16, KR-18, KR-36, KR-37, KR-38, KR-41 | Use the reviewed cctv.tukang.co.id evidence to ground “Commissioning and acceptance” through exact system identity, measured requirements and conditions, applicable current rules/standards, manufacturer or authority evidence, competent design/work, verification, records, lifecycle controls, and explicit uncertainty. | EG-01, EG-02, EG-03, EG-04, EG-05, EG-07, EG-08, EG-09, EG-10, EG-11, EG-12. | | `CCT-13` | KR-01, KR-05, KR-19, KR-20, KR-21, KR-23, KR-24, KR-02, KR-11, KR-16, KR-18, KR-36, KR-37, KR-38, KR-39, KR-40 | Use the reviewed cctv.tukang.co.id evidence to ground “Monitoring, alerts, and integration” through exact system identity, measured requirements and conditions, applicable current rules/standards, manufacturer or authority evidence, competent design/work, verification, records, lifecycle controls, and explicit uncertainty. | EG-01, EG-02, EG-03, EG-04, EG-05, EG-07, EG-08, EG-09, EG-10, EG-11, EG-12. | | `CCT-14` | KR-01, KR-05, KR-19, KR-20, KR-21, KR-23, KR-24, KR-02, KR-11, KR-16, KR-18, KR-36, KR-37, KR-40, KR-41 | Use the reviewed cctv.tukang.co.id evidence to ground “Deployment contexts” through exact system identity, measured requirements and conditions, applicable current rules/standards, manufacturer or authority evidence, competent design/work, verification, records, lifecycle controls, and explicit uncertainty. | EG-01, EG-02, EG-03, EG-04, EG-05, EG-07, EG-08, EG-09, EG-10, EG-11, EG-12. | | `CCT-15` | KR-01, KR-05, KR-19, KR-20, KR-21, KR-23, KR-24, KR-02, KR-11, KR-16, KR-18, KR-36, KR-37, KR-39, KR-41 | Use the reviewed cctv.tukang.co.id evidence to ground “Maintenance and troubleshooting” through exact system identity, measured requirements and conditions, applicable current rules/standards, manufacturer or authority evidence, competent design/work, verification, records, lifecycle controls, and explicit uncertainty. | EG-01, EG-02, EG-03, EG-04, EG-05, EG-07, EG-08, EG-09, EG-10, EG-11, EG-12. | | `CCT-16` | KR-01, KR-05, KR-19, KR-20, KR-21, KR-23, KR-24, KR-02, KR-11, KR-16, KR-18, KR-36, KR-38, KR-39, KR-40 | Use the reviewed cctv.tukang.co.id evidence to ground “Procurement and quotation” through exact system identity, measured requirements and conditions, applicable current rules/standards, manufacturer or authority evidence, competent design/work, verification, records, lifecycle controls, and explicit uncertainty. | EG-01, EG-02, EG-03, EG-04, EG-05, EG-07, EG-08, EG-09, EG-10, EG-11, EG-12. | | `CCT-17` | KR-01, KR-05, KR-19, KR-20, KR-21, KR-23, KR-24, KR-02, KR-11, KR-16, KR-18, KR-36, KR-38, KR-41 | Use the reviewed cctv.tukang.co.id evidence to ground “Standards, competence, and documentation” through exact system identity, measured requirements and conditions, applicable current rules/standards, manufacturer or authority evidence, competent design/work, verification, records, lifecycle controls, and explicit uncertainty. | EG-01, EG-02, EG-03, EG-04, EG-05, EG-07, EG-08, EG-09, EG-10, EG-11, EG-12. | | `CCT-18` | KR-01, KR-05, KR-19, KR-20, KR-21, KR-23, KR-24, KR-02, KR-11, KR-16, KR-18, KR-36, KR-38, KR-39, KR-40, KR-41 | Use the reviewed cctv.tukang.co.id evidence to ground “Handover, warranty, and incidents” through exact system identity, measured requirements and conditions, applicable current rules/standards, manufacturer or authority evidence, competent design/work, verification, records, lifecycle controls, and explicit uncertainty. | EG-01, EG-02, EG-03, EG-04, EG-05, EG-07, EG-08, EG-09, EG-10, EG-11, EG-12. | Coverage result: **18/18 topic families mapped; 0 families without a starting evidence set.** ## Cross-catalog fact bank 1. A management system, legal duty, risk assessment, engineered control, permit, competence record, inspection, and audit prove different things. 2. Control selection starts with eliminating or controlling the hazard at source; PPE does not repair a weak design. 3. A generic article cannot approve a real site, task, worker, product, chemical, machine, lift, electrical system, confined space, height system, or fire strategy. 4. Indonesian technical K3 status must be rechecked against Permenaker 11/2026 before quoting provisions. 5. A certificate image does not prove issuer, current status, scope, identity match, delivered product, installation quality, or system performance. 6. Emergency planning must match credible scenarios, people, accessibility, on-site capability, communications, external responders, and drills. 7. An exposure observation is not a measured assessment; a measured exposure is not a diagnosis or fitness decision. 8. Activity counts and injury rates alone do not establish control effectiveness or culture. 9. Controlled documents direct current work; records preserve evidence of what occurred. 10. Product, service, price, credential, client, case, warranty, and outcome claims require dated operator-approved evidence. ## Evidence gaps and publication gates | Gate | Affected topic families | Resolution required | | --- | --- | --- | | `EG-01` Actual workplace, task, people, interfaces, environment, baseline, and current conditions | `CCT-01`, `CCT-02`, `CCT-03`, `CCT-04`, `CCT-05`, `CCT-06`, `CCT-07`, `CCT-08`, `CCT-09`, `CCT-10`, `CCT-11`, `CCT-12`, `CCT-13`, `CCT-14`, `CCT-15`, `CCT-16`, `CCT-17`, `CCT-18` | Dated site/task survey, affected-person consultation, scope, assumptions, change check, and accountable owner | | `EG-02` Technical design, capacity, geometry, rating, spacing, load, protection, or acceptance | `CCT-01`, `CCT-02`, `CCT-03`, `CCT-04`, `CCT-05`, `CCT-06`, `CCT-07`, `CCT-08`, `CCT-09`, `CCT-10`, `CCT-11`, `CCT-12`, `CCT-13`, `CCT-14`, `CCT-15`, `CCT-16`, `CCT-17`, `CCT-18` | Current full code/standard, design basis, calculations, product/system evidence, competent design, and approval | | `EG-03` Work method, control sequence, equipment, permit, isolation, test, inspection, or return to service | `CCT-01`, `CCT-02`, `CCT-03`, `CCT-04`, `CCT-05`, `CCT-06`, `CCT-07`, `CCT-08`, `CCT-09`, `CCT-10`, `CCT-11`, `CCT-12`, `CCT-13`, `CCT-14`, `CCT-15`, `CCT-16`, `CCT-17`, `CCT-18` | Site-specific assessment and approved method, manufacturer instructions, competent roles, hold points, records, and supervision | | `EG-04` Rescue, emergency action, evacuation, first aid, medical response, or public-service capability | `CCT-01`, `CCT-02`, `CCT-03`, `CCT-04`, `CCT-05`, `CCT-06`, `CCT-07`, `CCT-08`, `CCT-09`, `CCT-10`, `CCT-11`, `CCT-12`, `CCT-13`, `CCT-14`, `CCT-15`, `CCT-16`, `CCT-17`, `CCT-18` | Credible scenarios, trained team, compatible equipment, accessibility, drill evidence, clinical/emergency review, and confirmed liaison | | `EG-05` Electrical energy, lifting configuration, machinery intervention, atmosphere, hot work, or SIMOPS | `CCT-01`, `CCT-02`, `CCT-03`, `CCT-04`, `CCT-05`, `CCT-06`, `CCT-07`, `CCT-08`, `CCT-09`, `CCT-10`, `CCT-11`, `CCT-12`, `CCT-13`, `CCT-14`, `CCT-15`, `CCT-16`, `CCT-17`, `CCT-18` | Discipline-specific hazard evidence, isolation/interface plan, authorized competence, field verification, and change controls | | `EG-06` Confined-space identity, atmosphere, ventilation, testing, entry, standby, or rescue | `CCT-01`, `CCT-02`, `CCT-03`, `CCT-04`, `CCT-05`, `CCT-06`, `CCT-07`, `CCT-08`, `CCT-09`, `CCT-10`, `CCT-11`, `CCT-12`, `CCT-13`, `CCT-14`, `CCT-15`, `CCT-16`, `CCT-17`, `CCT-18` | Current consolidated law, actual space/configuration/contents, competent assessment, calibrated testing plan, permit system, and viable rescue plan | | `EG-07` Fire scenario, occupancy, active/passive system, egress, impairment, or authority acceptance | `CCT-01`, `CCT-02`, `CCT-03`, `CCT-04`, `CCT-05`, `CCT-06`, `CCT-07`, `CCT-08`, `CCT-09`, `CCT-10`, `CCT-11`, `CCT-12`, `CCT-13`, `CCT-14`, `CCT-15`, `CCT-16`, `CCT-17`, `CCT-18` | Building/fire strategy, current PUPR/local rules and full standards, drawings, commissioning/maintenance evidence, fire engineer, and AHJ review | | `EG-08` Exposure, symptom, health surveillance, diagnosis, fitness, treatment, psychosocial assessment, or personal data | `CCT-01`, `CCT-02`, `CCT-03`, `CCT-04`, `CCT-05`, `CCT-06`, `CCT-07`, `CCT-08`, `CCT-09`, `CCT-10`, `CCT-11`, `CCT-12`, `CCT-13`, `CCT-14`, `CCT-15`, `CCT-16`, `CCT-17`, `CCT-18` | Qualified occupational-health/hygiene/clinical assessment, lawful basis, consent/access controls, current evidence, and emergency escalation where needed | | `EG-09` Product, model, certificate, standard edition, marking, manufacturer instruction, compatibility, or system performance | `CCT-01`, `CCT-02`, `CCT-03`, `CCT-04`, `CCT-05`, `CCT-06`, `CCT-07`, `CCT-08`, `CCT-09`, `CCT-10`, `CCT-11`, `CCT-12`, `CCT-13`, `CCT-14`, `CCT-15`, `CCT-16`, `CCT-17`, `CCT-18` | Exact identity and scope match, original issuer/manufacturer source, current validity, installation/configuration evidence, inspection/test, and competent acceptance | | `EG-10` Legal applicability, reporting, licence, credential, role, regulator, audit, or compliance | `CCT-01`, `CCT-02`, `CCT-03`, `CCT-04`, `CCT-05`, `CCT-06`, `CCT-07`, `CCT-08`, `CCT-09`, `CCT-10`, `CCT-11`, `CCT-12`, `CCT-13`, `CCT-14`, `CCT-15`, `CCT-16`, `CCT-17`, `CCT-18` | Current consolidated Indonesian sources, entity/site/activity match, official record, and qualified K3/legal review | | `EG-11` Incident/case, photograph, interview, worker report, culture result, metric, or health/disciplinary record | `CCT-01`, `CCT-02`, `CCT-03`, `CCT-04`, `CCT-05`, `CCT-06`, `CCT-07`, `CCT-08`, `CCT-09`, `CCT-10`, `CCT-11`, `CCT-12`, `CCT-13`, `CCT-14`, `CCT-15`, `CCT-16`, `CCT-17`, `CCT-18` | Original provenance, permission/lawful basis, de-identification, method/denominator, limitations, current legal/privacy review, and publication approval | | `EG-12` Service, shop item, price, stock, availability, response, client, warranty, guarantee, or commercial outcome | `CCT-01`, `CCT-02`, `CCT-03`, `CCT-04`, `CCT-05`, `CCT-06`, `CCT-07`, `CCT-08`, `CCT-09`, `CCT-10`, `CCT-11`, `CCT-12`, `CCT-13`, `CCT-14`, `CCT-15`, `CCT-16`, `CCT-17`, `CCT-18` | Dated operator-approved commercial record with owner, scope, exclusions, evidence, effective period, and refresh date | ## Source-refresh triggers Recheck immediately when Indonesian K3, construction, health, privacy, consumer, product, electrical, fire, environmental, or local rules change; when a standard or manufacturer document changes; when the site/task/people/equipment/material differ; when an article introduces a number, procedure, certificate, safety, compliance, performance, medical, price, case, or warranty claim; or six months after the verification date. ## Next authorized stage The later outline and constrained-writing-instruction stage may use this file only when separately authorized. Article drafting, Markdown article creation, HTML hydration, publication dating, sitemap generation, deployment, and Google Search Console submission are intentionally **not performed in this research stage**.
-
-## Evidence gates
-
-- **TOPIC-GATE:** EG-01, EG-02, EG-03, EG-04, EG-05, EG-07, EG-08, EG-09, EG-10, EG-11, EG-12.
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/kota/jual-pasang-cctv-yosowilangun/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/kota/jual-pasang-cctv-yalimo/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/kota/jual-pasang-cctv-yahukimo/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/kota/jual-pasang-cctv-wuryantoro/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/kota/jual-pasang-cctv-wungu/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/kota/jual-pasang-cctv-wuluhan/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `CCT-18-02` → `/artikel/membaca-syarat-garansi-cctv.html` — Membaca syarat garansi CCTV sebelum klaim
-- `CCT-18-03` → `/artikel/mencatat-dan-melaporkan-defect-cctv.html` — Mencatat dan melaporkan defect sistem CCTV
-- `CCT-18-05` → `/artikel/bukti-retensi-dan-penghapusan-rekaman-cctv.html` — Membuktikan retensi dan penghapusan rekaman CCTV
-- `CCT-18-06` → `/artikel/pelatihan-operator-dan-latihan-respons-cctv.html` — Pelatihan operator dan latihan respons CCTV
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+*Aset lokal situs; gambar ini bukan dokumentasi proyek tertentu.*
 
 ## Jawaban singkat dan salah paham utama
 
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Menjaga rekaman CCTV setelah insiden”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Menjaga rekaman berarti menjaga **materi asli, konteks, dan jejak pengelolaannya**. Materi asli adalah berkas atau segmen yang dihasilkan recorder; konteks mencakup kamera, kanal, zona waktu, pengaturan, dan rentang waktu; jejak pengelolaan mencakup siapa menyalin, kapan, dengan alat apa, dan ke mana salinan disimpan. Memotong video agar mudah dibagikan boleh dilakukan sebagai salinan kerja, tetapi jangan menggantikannya dengan sumber asli.
+
+Salah paham yang sering merugikan adalah mengira satu file MP4 sudah cukup. Ekspor dapat menghilangkan metadata, mengubah zona waktu, atau tidak menunjukkan apakah file berasal dari kamera yang benar. Prinsip pengelolaan rekaman menuntut informasi yang dapat ditemukan, dipahami, dan dipertahankan sepanjang siklus hidupnya; kerangka [ISO 15489-1](https://www.iso.org/standard/62542.html) membantu melihat rekaman sebagai objek yang memiliki konteks, kontrol akses, retensi, dan pemusnahan terdokumentasi.
 
 ## Definisi dan batas objek
 
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Menjaga rekaman CCTV setelah insiden”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Objek yang dibahas ialah rekaman insiden pada kamera dan recorder yang benar-benar berada dalam penguasaan Anda, beserta metadata, log akses, salinan, dan keputusan retensinya. “Asli” di sini berarti salinan pertama yang diekspor atau media sumber yang tidak diedit; bukan klaim bahwa isinya otomatis sah atau benar. “Retensi” berarti masa simpan yang ditetapkan berdasarkan tujuan dan risiko, bukan angka universal untuk semua lokasi.
+
+Artikel ini tidak menentukan siapa yang bersalah, memastikan video dapat diterima di pengadilan, menginstruksikan penyitaan perangkat, atau menetapkan kewajiban hukum organisasi. Rekaman CCTV dapat memuat data pribadi. [UU Pelindungan Data Pribadi](https://peraturan.bpk.go.id/Details/229798/uu-no-27-tahun-2022) mengharuskan penilaian atas tujuan, akses, pengungkapan, keamanan, dan penghapusan; penerapannya harus dicocokkan dengan peran pengendali/prosesor dan kondisi kasus. Bila insiden melibatkan pekerja, pelanggan, atau area publik, minta peninjauan hukum dan privasi sebelum membagikan materi.
 
 ## Cara kerjanya
 
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Menjaga rekaman CCTV setelah insiden”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Gunakan alur berikut dan catat setiap perpindahan:
+
+1. **Tunjuk pengendali awal.** Satu operator mencatat siapa yang melapor, kapan insiden diketahui, kamera atau kanal yang diduga relevan, serta siapa yang diberi otorisasi. Jangan membuat akun bersama. Praktik identitas dan akses yang tertib sejalan dengan panduan keamanan perangkat IoT [NISTIR 8259 Rev. 1](https://csrc.nist.gov/pubs/ir/8259/r1/final).
+2. **Bekukan konteks, bukan seluruh operasi tanpa alasan.** Catat jam recorder, zona waktu, status penyimpanan, perubahan konfigurasi terakhir, dan apakah sistem sedang menimpa rekaman lama. Jika perlu mengisolasi perangkat untuk mencegah penghapusan, lakukan sesuai prosedur organisasi dan instruksi vendor; jangan mencabut daya secara serampangan karena dapat merusak data atau menghilangkan log.
+3. **Tentukan rentang waktu dan kamera.** Simpan beberapa menit sebelum dan sesudah kejadian agar urutan sebab-akibat tidak dipotong. Catat kanal, nama kamera, resolusi yang diekspor, format, dan metode ekspor. Jika sistem mendukung metadata atau watermark, simpan juga berkas pendampingnya.
+4. **Buat salinan kerja terpisah.** Simpan salinan asli pada media dengan akses terbatas. Buat hash (sidik digital berkas) bila organisasi memiliki alat dan prosedur yang tervalidasi, lalu catat nilai hash, nama berkas, ukuran, waktu, dan operator. Hash membantu mendeteksi perubahan; ia tidak membuktikan isi video atau keabsahan hukum.
+5. **Catat perpindahan dan pemeriksaan.** Setiap akses, penyalinan, pemutaran, atau pengiriman dicatat dalam log sederhana: identitas, waktu, tujuan, media, dan tindakan. Pemeriksaan risiko yang baik memang perlu membedakan kondisi awal, kontrol, dan tindakan lanjutan, bukan sekadar mengumpulkan formulir ([ILO, controlling risks](https://www.ilo.org/topics-and-sectors/occupational-safety-and-health-guide-labour-inspectors-and-other/how-can-occupational-safety-and-health-be-managed/controlling-risks)).
+6. **Tutup siklusnya.** Setelah kebutuhan insiden, kewajiban retensi, dan permintaan yang sah berakhir, dokumentasikan keputusan penghapusan atau anonimisasi. Jangan menyimpan salinan di ponsel pribadi atau cloud pribadi hanya karena lebih cepat.
 
 ## Faktor yang mengubah hasil
 
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Menjaga rekaman CCTV setelah insiden”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Hasil ekspor dan keputusan retensi dipengaruhi oleh jam sistem, zona waktu, sinkronisasi, mode perekaman, kapasitas penyimpanan, overwrite, dan kesehatan media. Kamera yang benar pada kanal yang salah dapat membuat pencarian menyesatkan. Fitur interoperabilitas juga tidak otomatis menjamin hasil yang sama pada setiap recorder; klaim dukungan harus dicek terhadap model, firmware, peran, dan fitur yang benar-benar diuji, bukan sekadar logo protokol ([ONVIF Profile T](https://www.onvif.org/profiles/profile-t/)).
+
+Kondisi akses mengubah risiko. Kata sandi bersama, akun mantan operator, port yang terbuka, atau ekspor melalui perangkat tak terenkripsi memperluas kemungkinan perubahan dan kebocoran. Sobat Tukang.co.id, perlakukan kredensial, log, dan video sebagai satu paket pengendalian: cabut akses yang tidak lagi diperlukan, aktifkan autentikasi yang tersedia, dan simpan daftar siapa yang masih berwenang. Jangan mengubah konfigurasi saat investigasi kecuali perubahan itu dicatat dan memang diperlukan untuk mencegah kehilangan.
+
+Tujuan penggunaan juga menentukan masa simpan. Permintaan dari korban, perusahaan asuransi, regulator, atau aparat dapat memiliki prosedur berbeda. Kebijakan internal tidak boleh dipakai untuk mengabaikan permintaan yang sah, tetapi permintaan lisan pun jangan langsung dipenuhi tanpa memeriksa identitas, ruang lingkup, dan otorisasinya. **[NEEDS CASE-SPECIFIC REVIEW: tentukan retensi, dasar pengungkapan, dan respons permintaan untuk lokasi serta pihak yang terlibat]**.
 
 ## Contoh keputusan praktis
 
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Menjaga rekaman CCTV setelah insiden”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Misalkan operator melihat kejadian pada pukul 14.10 dari kamera gerbang. Ia tidak tahu apakah jam recorder tepat dan sistem menimpa data setiap hari. Keputusan yang aman bukan langsung mengirim potongan 30 detik, melainkan:
+
+| Pertanyaan | Jika jawabannya belum jelas | Keputusan sementara |
+| --- | --- | --- |
+| Jam recorder dan zona waktu sudah dicatat? | Belum | Foto layar status, catat waktu rujukan, lalu minta pemeriksaan teknis. |
+| Rentang sebelum-sesudah kejadian tersedia? | Tidak | Bekukan media dan eskalasi; jangan menyimpulkan urutan dari potongan pendek. |
+| File asli, metadata, dan log ekspor tersimpan? | Tidak | Buat ekspor ulang sesuai prosedur, simpan salinan terpisah, dan catat kegagalan. |
+| Peminta memiliki otorisasi? | Tidak jelas | Tahan pengiriman, verifikasi identitas dan dasar permintaan. |
+| Sistem masih menimpa rekaman? | Ya | Aktifkan langkah preservasi yang disetujui pemilik sistem; jangan melakukan tindakan listrik atau forensik tanpa kompetensi. |
+
+Jika polisi atau penasihat hukum meminta perangkat asli, catat serah-terima dan minta instruksi tertulis tentang ruang lingkupnya. Jika hanya perlu meninjau, berikan salinan kerja yang diberi label, bukan mengubah media sumber. Untuk pengelola yang memakai operator bersertifikat, verifikasi identitas, ruang lingkup, dan masa berlaku melalui penerbit atau catatan resmi; situs [BNSP](https://bnsp.go.id/) adalah titik awal verifikasi, bukan bukti bahwa seseorang otomatis berwenang pada sistem Anda.
+
+Jika Anda membutuhkan pemeriksaan atau penggantian perangkat setelah preservasi selesai, mulai dari [halaman utama Tukang.co.id](/) untuk menjelaskan kebutuhan dan batas akses. Untuk lokasi yang memang berada di Dau, Anda dapat melihat [opsi jual-pasang CCTV di Dau](/kota/jual-pasang-cctv-dau/) sebagai langkah mencari penyedia; rute itu bukan bukti bahwa penyedia tertentu menangani atau menilai insiden Anda.
 
 ## Kesalahan umum dan cara memeriksanya
 
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Menjaga rekaman CCTV setelah insiden”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+- **Memotong lalu menghapus sumber.** Tanyakan: di mana file sebelum dipotong, siapa menyimpannya, dan apakah checksum atau catatan ekspor tersedia?
+- **Mengandalkan timestamp layar.** Bandingkan jam recorder dengan sumber waktu yang dicatat dan dokumentasikan selisihnya; jangan memperbaiki timestamp dengan edit video.
+- **Menggunakan flashdisk atau akun pribadi.** Periksa pemilik media, izin akses, enkripsi yang tersedia, serta rencana pengembaliannya.
+- **Mengubah password tanpa mencatat dampak.** Catat akun yang dinonaktifkan, waktu perubahan, dan apakah perubahan memutus akses pemantauan yang masih diperlukan.
+- **Menganggap kamera yang sama selalu menghasilkan file yang sama.** Verifikasi model, firmware, format ekspor, dan keberadaan metadata pada sistem aktual.
+- **Menyimpan selamanya.** Tetapkan pemilik keputusan retensi, tanggal tinjau, dasar penyimpanan, dan cara penghapusan yang dapat dicatat.
 
-## Objection or shortcut to address
+Kawan Tukang.co.id, bila salah satu jawaban itu “tidak tahu”, tandai sebagai ketidakpastian. Jangan menutup celah dengan narasi yakin atau menyebut video “pasti valid”. Minta pemeriksaan teknis, hukum, atau privasi sesuai jenis celahnya.
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+## Jalan pintas yang perlu dihindari
 
-## Required conclusion
+Shortcut yang paling menggoda adalah mengirim video lewat aplikasi pesan agar semua pihak segera melihatnya. Cara itu memang cepat, tetapi dapat membuat banyak salinan tanpa kendali, menghapus konteks, dan meninggalkan data pribadi di perangkat yang tidak dikelola. Alternatifnya: simpan sumber dan salinan kerja pada lokasi yang dikendalikan organisasi, kirim tautan berizin dengan masa berlaku bila tersedia, dan catat penerima serta tujuan pengiriman. Kecepatan tetap bisa dicapai tanpa kehilangan jejak.
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+## Langkah penutup
 
-## Draft completion checklist
-
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Teman Tukang.co.id!` and uses friendly `Tukang.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Menjaga rekaman CCTV setelah insiden berarti mengamankan sumber, konteks, metadata, log akses, salinan, dan keputusan retensi secara berurutan. Hari ini, tunjuk pengendali, catat status recorder dan jamnya, ekspor rentang yang relevan tanpa mengedit sumber, simpan salinan terbatas, lalu minta tinjauan teknis serta hukum/privasi untuk kasus nyata. Aturan operasionalnya sederhana: **jangan hapus, ubah, atau bagikan sebelum asal, otorisasi, tujuan, dan masa simpan setiap salinan tercatat**.

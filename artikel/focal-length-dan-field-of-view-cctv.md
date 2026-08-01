@@ -1,9 +1,10 @@
 ---
 article_id: CCT-04-01
+writing_contract_version: "native-id-v2"
 title: "Memilih focal length dan field of view CCTV"
 slug: "focal-length-dan-field-of-view-cctv"
 description: "Judge whether a proposed camera and configuration can produce useful images in the target scene."
-status: outline
+status: draft
 publication_date: "2025-07-27"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -14,58 +15,11 @@ reader_address: "Teman Tukang.co.id"
 final_route: "/artikel/focal-length-dan-field-of-view-cctv.html"
 technical_review: required
 sources:
-  - "https://www.ilo.org/topics-and-sectors/occupational-safety-and-health-guide-labour-inspectors-and-other/how-can-occupational-safety-and-health-be-managed/controlling-risks"
-  - "https://www.ilo.org/publications/5-step-guide-employers-workers-and-their-representatives-conducting"
-  - "https://bnsp.go.id/"
-  - "https://www.iso.org/files/live/sites/isoorg/files/archive/pdf/en/iso_45001_-briefing_note.pdf"
-  - "https://www.iso.org/standard/70017.html"
-  - "https://peraturan.bpk.go.id/Details/5263/pp-no-50-tahun-2012"
-  - "https://peraturan.bpk.go.id/Details/45288/uu-no-8-tahun-1999"
-  - "https://jdih.kemendag.go.id/pdf/Regulasi/2019/PP%20Nomor%2080%20Tahun%202019.pdf"
-  - "https://peraturan.bpk.go.id/Details/229798/uu-no-27-tahun-2022"
-  - "https://www.iso.org/standard/62542.html"
-  - "https://peraturan.bpk.go.id/Details/47614/uu-no-1-tahun-1970"
-  - "https://peraturan.bpk.go.id/Details/145984/permenaker-no-12-tahun-2015"
-  - "https://peraturan.bpk.go.id/Details/351282/permenaker-no-11-tahun-2026"
-  - "https://jdih.pu.go.id/detail-dokumen/PermenPUPR-nomor-10-tahun-2021-Pedoman-Sistem-Manajemen-Keselamatan-Konstruksi"
-  - "https://www.ilo.org/publications/safety-and-health-construction-revised-edition"
-  - "https://www.iso.org/standard/67851.html"
-  - "https://kemkes.go.id/id/layanan/psc-119"
   - "https://webstore.iec.ch/en/publication/7353"
-  - "https://webstore.iec.ch/en/publication/59704"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
-
 # Memilih focal length dan field of view CCTV
-
-## Assignment lock
-
-- **Writer task:** Expand this file into one complete article answering: “Memilih focal length dan field of view CCTV”
-- **Reader and situation:** Judge whether a proposed camera and configuration can produce useful images in the target scene.
-- **Reader outcome:** Judge whether a proposed camera and configuration can produce useful images in the target scene.
-- **Primary intent:** Relate lens choice to scene width and target detail.
-- **Reader community:** `Tukang.co.id`
-- **Primary friendly address:** `Teman Tukang.co.id`
-- **Natural variants:** `Sobat Tukang.co.id` and `Kawan Tukang.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Requires manufacturer calculators or field tests; not a universal lens-distance chart.
-- **Final public route:** `/artikel/focal-length-dan-field-of-view-cctv.html`
-- **Appointed CMS date:** `2025-07-27` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
-
-## Opening instructions
-
-- Open with the exact short salutation: **“Halo, Teman Tukang.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Memilih focal length dan field of view CCTV**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Teman Tukang.co.id`, `Sobat Tukang.co.id`, or `Kawan Tukang.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-001`
@@ -76,199 +30,75 @@ sources:
 - **Selection basis:** filename/source metadata identifies `CCTV Merk ZKTECO` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+Halo, Teman Tukang.co.id! Memilih focal length bukan soal mencari angka milimeter yang “paling bagus”. Pertanyaannya adalah: seberapa lebar area yang harus terlihat, dan detail apa yang harus tetap terbaca pada jarak tertentu? Lensa dengan focal length lebih pendek biasanya memberi field of view (sudut pandang) lebih lebar; focal length lebih panjang mempersempit sudut pandang dan membantu memusatkan perhatian pada area yang lebih jauh.
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+Jadi, pilih lensa setelah menetapkan tujuan tiap kamera—melihat konteks, memantau jalur, atau mengamati detail—lalu cocokkan dengan ukuran sensor, jarak ke target, tinggi pemasangan, dan kondisi cahaya. Tanpa ukuran scene dan uji gambar, tabel jarak universal dapat menyesatkan. Panduan aplikasi IEC 62676-4 menempatkan tujuan operasional, pemilihan, pemasangan, pengujian, dan evaluasi objektif sebagai rangkaian yang saling terkait ([IEC 62676-4](https://webstore.iec.ch/en/publication/7353)).
 
-### KR-01
+![Ilustrasi CCTV Merk ZKTECO](/wp-content/uploads/2023/08/CCTV-Merk-ZKTECO.jpg)
 
-- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
-- **Purpose for this article:** Freeze the verified editorial scope for `cctv.tukang.co.id` and prevent family research from overriding this project's actual catalog boundaries.
-- **Safe grounded facts:** The repository plans 20 parent topics and 120 briefs. Planning documents do not prove a workplace, product, person, service, certificate, or control is safe or compliant.
-- **Limits:** Reconcile only against the frozen local catalog when its canonical commit changes.
 
-### KR-05
-
-- **Original sources:** [ILO controlling risks](https://www.ilo.org/topics-and-sectors/occupational-safety-and-health-guide-labour-inspectors-and-other/how-can-occupational-safety-and-health-be-managed/controlling-risks), [ILO five-step risk-assessment guide](https://www.ilo.org/publications/5-step-guide-employers-workers-and-their-representatives-conducting).
-- **Purpose for this article:** Ground a lean, repeatable risk cycle rather than paperwork volume or PPE-first advice.
-- **Safe grounded facts:** A generic matrix does not determine likelihood, consequence, exposure, acceptability, or residual risk for a site.
-- **Limits:** Complex or high-consequence risks require discipline-specific methods, evidence, competence, and approval.
-
-### KR-19
-
-- **Original sources:** [BNSP official site](https://bnsp.go.id/), [ISO 45001 briefing note](https://www.iso.org/files/live/sites/isoorg/files/archive/pdf/en/iso_45001_-briefing_note.pdf).
-- **Purpose for this article:** Ground role profiles, training needs, credential verification, practical assessment, authorization, supervision, and refresh after change.
-- **Safe grounded facts:** Scope, issuer, scheme, level, date/expiry, identity, practical context, language/literacy, supervision, and change determine what evidence means.
-- **Limits:** Verify the current regulator/issuer record and job-specific legal requirements; never authenticate a person or grant authorization from an article.
-
-### KR-20
-
-- **Original sources:** [ISO 19011:2018 record](https://www.iso.org/standard/70017.html), [PP No. 50 Tahun 2012](https://peraturan.bpk.go.id/Details/5263/pp-no-50-tahun-2012).
-- **Purpose for this article:** Ground scope, competence, independence, sampling, field evidence, findings, actions, effectiveness, and management review.
-- **Safe grounded facts:** Activity counts and injury rates alone do not prove risk control; definitions, denominators, exposure, reporting quality, severity, leading evidence, and decision use matter.
-- **Limits:** Do not claim audit independence, conformity, control effectiveness, or statistical improvement without a defined method and original evidence.
-
-### KR-21
-
-- **Original sources:** [UU No. 8 Tahun 1999](https://peraturan.bpk.go.id/Details/45288/uu-no-8-tahun-1999), [PP No. 80 Tahun 2019](https://jdih.kemendag.go.id/pdf/Regulasi/2019/PP%20Nomor%2080%20Tahun%202019.pdf).
-- **Purpose for this article:** Replace price-only selection and marketplace claims with comparable, retrievable evidence.
-- **Safe grounded facts:** A logo, test excerpt, certificate image, seller rating, or “standard-compliant” phrase does not prove the delivered model or installed system conforms.
-- **Limits:** No fabricated stock, price, client, approval, certificate, warranty, availability, or legal entitlement.
-
-### KR-23
-
-- **Original sources:** [UU No. 27 Tahun 2022](https://peraturan.bpk.go.id/Details/229798/uu-no-27-tahun-2022), [ISO 15489-1:2016 record](https://www.iso.org/standard/62542.html).
-- **Purpose for this article:** Ground approvals, versions, distribution, field access, retention, evidence provenance, migration, and personal-data boundaries.
-- **Safe grounded facts:** Legal register, risk assessment, permit, inspection, training, credential, incident, health record, corrective action, and audit evidence have different owners and sensitivity.
-- **Limits:** Retention, access, lawful basis, breach response, health data, litigation hold, and regulator submission require current legal and records/privacy review.
-
-### KR-24
-
-- **Original sources:** [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md), [UU No. 8 Tahun 1999](https://peraturan.bpk.go.id/Details/45288/uu-no-8-tahun-1999).
-- **Purpose for this article:** Keep evergreen education separate from changing `safety.co.id` offers and proof.
-- **Safe grounded facts:** Every live claim needs an owner, original record, scope, date, limitations, and refresh trigger.
-- **Limits:** If proof is absent, keep the article neutral and preserve the evidence gap.
-
-### KR-02
-
-- **Original sources:** [UU No. 1 Tahun 1970](https://peraturan.bpk.go.id/Details/47614/uu-no-1-tahun-1970).
-- **Purpose for this article:** Establish the national foundation without converting one law into a complete site obligation register.
-- **Safe grounded facts:** Applicability depends on the actual workplace, activity, people, equipment, material, and implementing rules; a web article cannot determine compliance.
-- **Limits:** Use current consolidated law and sector/local rules; obtain Indonesian K3/legal review for a definitive duty.
-
-### KR-11
-
-- **Original sources:** [Permenaker No. 12 Tahun 2015](https://peraturan.bpk.go.id/Details/145984/permenaker-no-12-tahun-2015), [Permenaker No. 11 Tahun 2026](https://peraturan.bpk.go.id/Details/351282/permenaker-no-11-tahun-2026).
-- **Purpose for this article:** Ground competence, de-energization, hazardous-energy control, temporary supply, wet conditions, inspection, and emergency boundaries.
-- **Safe grounded facts:** Source identification, one-line documentation, isolation, absence-of-voltage verification, grounding/protection, environment, equipment condition, and authorization are distinct evidence.
-- **Limits:** No live-work, switching, test, protection setting, grounding, arc-energy, temporary wiring, or design procedure.
-
-### KR-16
-
-- **Original sources:** [Permen PUPR No. 10 Tahun 2021 official record](https://jdih.pu.go.id/detail-dokumen/PermenPUPR-nomor-10-tahun-2021-Pedoman-Sistem-Manajemen-Keselamatan-Konstruksi), [ILO Safety and Health in Construction code](https://www.ilo.org/publications/safety-and-health-construction-revised-edition).
-- **Purpose for this article:** Ground SMKK, design risk, procurement, RKK interfaces, temporary states, contractors, public/occupied-site protection, and handover.
-- **Safe grounded facts:** Client, designer, contractor, subcontractor, supervisor, competent person, worker, and public interfaces change across phases and simultaneous work.
-- **Limits:** No excavation, temporary-works, scaffold, lifting, electrical, traffic, structural, or public-protection design without project evidence and competent discipline review.
-
-### KR-18
-
-- **Original sources:** [ISO 22320:2018 record](https://www.iso.org/standard/67851.html), [Kemenkes PSC 119](https://kemkes.go.id/id/layanan/psc-119).
-- **Purpose for this article:** Ground command, communications, warning, evacuation/accountability, accessibility, first-aid coverage, external liaison, drills, and review.
-- **Safe grounded facts:** Alarm, incident command, evacuation, shelter, muster/accountability, technical rescue, first aid, medical handoff, business continuity, and recovery have distinct owners.
-- **Limits:** No public emergency script, rescue technique, medical diagnosis/treatment, staffing number, response time, or drill proof from this file.
-
-### KR-36
-
-- **Original sources:** [IEC 62676-4 application-guideline record](https://webstore.iec.ch/en/publication/7353).
-- **Purpose for this article:** Ground requirements, scene purpose, selection, placement, installation, commissioning, maintenance, testing, and objective evaluation.
-- **Safe grounded facts:** Resolution, megapixels, camera count, or a product demo alone does not prove useful coverage, identification, retention, alerting, or incident outcomes.
-- **Limits:** Use the current edition, documented operational requirement, measured scenes and light, selected performance criteria, installation records, acceptance tests, and periodic review.
-
-### KR-37
-
-- **Original sources:** [IEC 62676-6:2026](https://webstore.iec.ch/en/publication/59704).
-- **Purpose for this article:** Ground object/activity classification, scenarios, real-time versus forensic use, false outcomes, environment, grading, and acceptance.
-- **Safe grounded facts:** An AI label, sample clip, detection percentage, or vendor dashboard does not prove performance in the target scene, weather, crowd, lighting, or response workflow.
-- **Limits:** Define the task, test corpus/scenes, thresholds, false positive/negative consequences, environment, human review, privacy, drift monitoring, and acceptance method.
-
-## Evidence gates
-
-- **TOPIC-GATE:** EG-01, EG-02, EG-03, EG-04, EG-05, EG-07, EG-08, EG-09, EG-10, EG-11, EG-12.
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/kota/jual-pasang-cctv-yosowilangun/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/kota/jual-pasang-cctv-yalimo/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/kota/jual-pasang-cctv-yahukimo/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/kota/jual-pasang-cctv-wuryantoro/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/kota/jual-pasang-cctv-wungu/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/kota/jual-pasang-cctv-wuluhan/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `CCT-04-02` → `/artikel/pixel-density-cctv-dan-uji-lokasi.html` — Pixel density CCTV: menghitung lalu membuktikan di lokasi
-- `CCT-04-03` → `/artikel/menilai-cctv-low-light-dan-infrared.html` — CCTV malam hari: menilai low light dan infrared
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+*Aset lokal situs; gambar ini bukan dokumentasi proyek tertentu.*
 
 ## Jawaban singkat dan salah paham utama
 
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Memilih focal length dan field of view CCTV”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Focal length adalah panjang fokus lensa, dinyatakan dalam milimeter. Field of view (FOV) adalah lebar dan tinggi bagian scene yang masuk ke gambar dari posisi kamera. Keduanya berkaitan, tetapi bukan hal yang sama: focal length hanya salah satu penentu FOV. Sensor yang lebih kecil atau lebih besar, rasio aspek, serta posisi kamera ikut mengubah cakupan.
+
+Miskonsepsi yang sering muncul adalah “megapiksel tinggi pasti bisa melihat lebih jauh”. Resolusi membantu mempertahankan detail, tetapi kamera beresolusi tinggi tetap dapat gagal bila lensa terlalu lebar untuk target kecil, kamera terlalu jauh, atau kontras dan cahaya buruk. Sebaliknya, lensa terlalu sempit dapat menghilangkan konteks sehingga seseorang masuk frame tanpa diketahui dari arah kedatangannya. Sobat Tukang.co.id, keputusan lensa harus dimulai dari tugas pengamatan, bukan dari angka pada kotak produk.
+
+Jika data berikut belum tersedia—lebar area, jarak terdekat dan terjauh, tinggi kamera, ukuran sensor, serta detail minimum yang dibutuhkan—kesimpulan akhir belum aman dibuat: **[NEEDS DATA SCENE DAN KALKULATOR MANUFAKTUR/UJI LAPANGAN]**.
 
 ## Definisi dan batas objek
 
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Memilih focal length dan field of view CCTV”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Dalam artikel ini, “memilih lensa” berarti menilai apakah kombinasi kamera-lensa dapat menghasilkan gambar yang berguna di scene sasaran. “Berguna” harus diterjemahkan: apakah operator hanya perlu mengetahui ada aktivitas, mengikuti pergerakan, atau mengenali ciri objek pada rekaman?
+
+Yang tidak dibahas adalah tabel pasti bahwa focal length tertentu selalu cocok untuk jarak tertentu. Dua kamera dengan focal length sama dapat memberi cakupan berbeda karena ukuran sensor dan desain optiknya berbeda. Artikel ini juga tidak menggantikan perhitungan pixel density, penilaian low-light, desain jaringan, retensi rekaman, atau persetujuan proyek. Masing-masing perlu data dan pengujian sendiri.
 
 ## Cara kerjanya
 
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Memilih focal length dan field of view CCTV”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Urutkan keputusan dari scene ke lensa. Pertama, gambar denah sederhana: tandai titik kamera, batas area, garis pandang, dan target yang perlu diamati. Kedua, ukur jarak kamera ke target utama serta lebar area yang harus masuk frame. Ketiga, masukkan ukuran sensor dan pilihan focal length ke kalkulator pabrikan. Kalkulator itu memberi perkiraan FOV; baca hasilnya pada jarak yang benar, bukan pada contoh pemasaran.
+
+Secara optik, ketika focal length dinaikkan pada sensor yang sama, sudut pandang menyempit sehingga objek mengisi frame lebih besar. Ketika focal length diturunkan, cakupan melebar tetapi detail target yang sama menempati porsi frame lebih kecil. Lensa varifokal memberi ruang penyetelan, namun posisi cincin zoom bukan bukti bahwa hasil sudah memenuhi tujuan. Setelah kamera dipasang, arahkan ke scene nyata, rekam pada siang dan malam yang relevan, lalu periksa bagian frame yang menjadi dasar keputusan.
+
+Pastikan tepi frame tidak terpotong oleh dinding, kanopi, rak, atau kendaraan yang berpindah. Perubahan sudut beberapa derajat dapat memindahkan area penting keluar gambar. Catat focal length aktual, tinggi pemasangan, jarak target, dan waktu pengujian agar hasil dapat diulang saat kamera dipindah atau pencahayaan berubah.
 
 ## Faktor yang mengubah hasil
 
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Memilih focal length dan field of view CCTV”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Ukuran sensor mengubah cakupan dan karakter gambar pada focal length yang sama. Jangan membandingkan angka milimeter lintas model tanpa membaca spesifikasi sensor dan format gambar. Rasio aspek juga berpengaruh: frame yang lebih tinggi dapat membantu melihat orang berdiri, sedangkan frame lebih lebar membantu koridor, tetapi keduanya harus sesuai tujuan.
+
+Jarak dan sudut pemasangan menentukan perspektif. Kamera sangat tinggi mungkin memberi gambaran area luas, tetapi wajah atau label di permukaan vertikal dapat menjadi terlalu kecil atau miring. Kamera yang menghadap sumber cahaya dapat kehilangan detail melalui silau dan rentang dinamis terbatas. Kaca, hujan, debu, serta perubahan siang-malam menambah ketidakpastian yang tidak terlihat pada brosur.
+
+Pertimbangkan gerakan dan tumpang tindih. Pintu yang sering terbuka, forklift, atau daun pohon dapat menutup target sesaat. Pada area panjang, satu lensa sempit mungkin memberi detail di ujung tetapi meninggalkan titik buta di dekat kamera. Membagi scene menjadi dua kamera dengan tujuan jelas kadang lebih dapat diuji daripada memaksa satu kamera mencakup semuanya—namun jumlah kamera bukan jaminan hasil.
+
+Terakhir, definisikan kriteria penerimaan. Tulis target yang harus terlihat, kondisi cahaya pengujian, bagian frame yang diperiksa, dan siapa yang menyetujui. IEC 62676-4 menekankan kebutuhan operasional, dokumentasi pemasangan, pengujian, serta evaluasi; demo produk saja tidak membuktikan kinerja di scene Anda ([IEC 62676-4](https://webstore.iec.ch/en/publication/7353)).
 
 ## Contoh keputusan praktis
 
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Memilih focal length dan field of view CCTV”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Gunakan skenario bersyarat berikut, bukan sebagai ukuran baku:
+
+| Tujuan scene | Kecenderungan pilihan | Pemeriksaan sebelum menyetujui |
+| --- | --- | --- |
+| Melihat konteks halaman atau persimpangan | FOV lebih lebar, focal length lebih pendek | Pastikan target utama masih menempati bagian frame yang cukup dan tepi tidak terdistorsi berlebihan. |
+| Mengikuti satu jalur masuk yang panjang | FOV lebih sempit, focal length lebih panjang | Pastikan area dekat kamera tidak menjadi titik buta dan target terjauh tetap terlihat pada cahaya terburuk. |
+| Memantau pintu dengan jarak berubah-ubah | Varifokal dapat membantu penyetelan | Kunci posisi setelah uji; dokumentasikan focal length, sudut, dan batas frame. |
+
+Misalnya denah menunjukkan pintu berada jauh di ujung koridor, sementara operator juga perlu melihat siapa yang datang dari samping. Lensa sempit mungkin membantu pintu tetapi mengorbankan kedatangan dari samping; lensa lebar memberi konteks tetapi membuat detail pintu lebih kecil. Solusinya bukan menebak angka, melainkan membandingkan dua konfigurasi pada kalkulator pabrikan dan rekaman uji dengan kriteria yang sama. Jika keputusan menyangkut identifikasi atau keselamatan, minta peninjauan teknis proyek sebelum pembelian.
 
 ## Kesalahan umum dan cara memeriksanya
 
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Memilih focal length dan field of view CCTV”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kesalahan pertama adalah membeli berdasarkan megapiksel atau testimoni penjual saja. Minta lembar spesifikasi model yang benar, ukuran sensor, rentang focal length, dan diagram FOV. Cocokkan model pada penawaran dengan unit yang akan dipasang; foto sertifikat atau logo tidak membuktikan konfigurasi terpasang.
 
-## Objection or shortcut to address
+Kesalahan kedua adalah memakai jarak perkiraan dari denah tanpa mengukur di lokasi. Ukur ulang setelah bracket terpasang karena tinggi dan kemiringan berubah. Ambil tangkapan layar kalkulator pabrikan dan tandai asumsi yang digunakan.
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+Kesalahan ketiga adalah menguji hanya siang hari. Ulangi pada kondisi pencahayaan yang paling menantang, termasuk lampu latar atau area gelap yang memang terjadi. Jangan menyebut hasil “jelas” tanpa menyimpan rekaman uji dan kriteria penilaiannya.
 
-## Required conclusion
+Kesalahan keempat adalah menganggap zoom digital menggantikan focal length. Zoom digital memperbesar piksel yang sudah direkam; ia tidak menambah detail yang tidak masuk sensor. Kawan Tukang.co.id, bila target keluar frame sejak awal, pengaturan perangkat lunak tidak dapat mengembalikan informasinya.
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+## Jalan pintas yang perlu dihindari
 
-## Draft completion checklist
+Shortcut yang tampak praktis adalah memasang satu lensa sudut lebar untuk seluruh lokasi agar daftar belanja ringkas. Cara ini memang dapat mempercepat pemasangan, tetapi mekanismenya jelas: cakupan melebar dan ukuran target di frame mengecil. Di ujung area, detail yang dibutuhkan bisa hilang; di dekat kamera, distorsi dan penghalang dapat menambah titik buta. Alternatif yang lebih dapat dipertanggungjawabkan adalah membagi tujuan per kamera, menguji pilihan lensa pada scene nyata, lalu menyimpan catatan penerimaan. Bila data scene belum lengkap, tunda keputusan dan tandai **[NEEDS REVIEW TEKNIS SEBELUM PEMBELIAN]**.
 
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Teman Tukang.co.id!` and uses friendly `Tukang.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+## Kesimpulan
+
+Memilih focal length dan field of view CCTV berarti mencocokkan lebar scene dengan detail target pada posisi, sensor, dan cahaya yang benar. Mulailah dari tujuan operasional, ukur scene, gunakan kalkulator pabrikan, dan buktikan melalui uji lapangan yang terdokumentasi. Teman Tukang.co.id, langkah berikutnya adalah membuat satu lembar per kamera berisi denah, jarak, tinggi, sensor, focal length, kondisi cahaya, tangkapan kalkulator, dan hasil uji. Untuk menyiapkan kunjungan atau pemasangan di lokasi tertentu, Anda dapat membandingkan informasi layanan [pasang CCTV di Yosowilangun](/kota/jual-pasang-cctv-yosowilangun/) dan [pasang CCTV di Yalimo](/kota/jual-pasang-cctv-yalimo/), sambil tetap meminta pengukuran scene yang spesifik. Tanpa bukti itu, pilihan lensa tetap perkiraan—bukan persetujuan desain atau jaminan kinerja.

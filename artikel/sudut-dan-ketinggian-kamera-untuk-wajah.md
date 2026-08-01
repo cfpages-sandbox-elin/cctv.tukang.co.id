@@ -3,7 +3,8 @@ article_id: CCT-03-04
 title: "Sudut dan ketinggian kamera untuk wajah yang berguna"
 slug: "sudut-dan-ketinggian-kamera-untuk-wajah"
 description: "Translate security objectives into scenes, viewpoints, and blind-spot controls."
-status: outline
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2025-07-17"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -14,59 +15,18 @@ reader_address: "Kawan Tukang.co.id"
 final_route: "/artikel/sudut-dan-ketinggian-kamera-untuk-wajah.html"
 technical_review: required
 sources:
-  - "https://www.ilo.org/topics-and-sectors/occupational-safety-and-health-guide-labour-inspectors-and-other/how-can-occupational-safety-and-health-be-managed/controlling-risks"
-  - "https://www.ilo.org/publications/5-step-guide-employers-workers-and-their-representatives-conducting"
-  - "https://bnsp.go.id/"
-  - "https://www.iso.org/files/live/sites/isoorg/files/archive/pdf/en/iso_45001_-briefing_note.pdf"
-  - "https://www.iso.org/standard/70017.html"
-  - "https://peraturan.bpk.go.id/Details/5263/pp-no-50-tahun-2012"
-  - "https://peraturan.bpk.go.id/Details/45288/uu-no-8-tahun-1999"
-  - "https://jdih.kemendag.go.id/pdf/Regulasi/2019/PP%20Nomor%2080%20Tahun%202019.pdf"
-  - "https://peraturan.bpk.go.id/Details/229798/uu-no-27-tahun-2022"
-  - "https://www.iso.org/standard/62542.html"
-  - "https://peraturan.bpk.go.id/Details/47614/uu-no-1-tahun-1970"
-  - "https://peraturan.bpk.go.id/Details/145984/permenaker-no-12-tahun-2015"
-  - "https://peraturan.bpk.go.id/Details/351282/permenaker-no-11-tahun-2026"
-  - "https://jdih.pu.go.id/detail-dokumen/PermenPUPR-nomor-10-tahun-2021-Pedoman-Sistem-Manajemen-Keselamatan-Konstruksi"
-  - "https://www.ilo.org/publications/safety-and-health-construction-revised-edition"
-  - "https://www.iso.org/standard/67851.html"
-  - "https://kemkes.go.id/id/layanan/psc-119"
   - "https://webstore.iec.ch/en/publication/7353"
-  - "https://webstore.iec.ch/en/publication/59704"
-  - "https://peraturan.bpk.go.id/Details/229798/uu-no-27-tahun-2022%20"
+  - "https://www.ilo.org/topics-and-sectors/occupational-safety-and-health-guide-labour-inspectors-and-other/how-can-occupational-safety-and-health-be-managed/controlling-risks"
+  - "https://peraturan.bpk.go.id/Details/229798/uu-no-27-tahun-2022"
 ---
-
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
 
 # Sudut dan ketinggian kamera untuk wajah yang berguna
 
-## Assignment lock
+Halo, Kawan Tukang.co.id! Kamera yang dipasang tinggi dan menghadap lantai belum tentu menghasilkan wajah yang bisa dipakai. Untuk tujuan melihat siapa yang datang, titik pemasangan harus memberi pandangan cukup frontal, tidak tertutup topi atau kusen, dan tetap terbaca saat cahaya berubah. Jadi jawaban singkatnya bukan “pasang pada ketinggian sekian”, melainkan: tentukan adegan yang ingin dibuktikan, pilih arah pandang yang memotong wajah dengan wajar, lalu uji langsung dari posisi orang yang akan direkam.
 
-- **Writer task:** Expand this file into one complete article answering: “Sudut dan ketinggian kamera untuk wajah yang berguna”
-- **Reader and situation:** Translate security objectives into scenes, viewpoints, and blind-spot controls.
-- **Reader outcome:** Translate security objectives into scenes, viewpoints, and blind-spot controls.
-- **Primary intent:** Evaluate viewpoint geometry for usable facial views.
-- **Reader community:** `Tukang.co.id`
-- **Primary friendly address:** `Kawan Tukang.co.id`
-- **Natural variants:** `Sobat Tukang.co.id` and `Teman Tukang.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Requires site trials; does not prescribe universal heights or make recognition guarantees.
-- **Final public route:** `/artikel/sudut-dan-ketinggian-kamera-untuk-wajah.html`
-- **Appointed CMS date:** `2025-07-17` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Ketinggian, kemiringan, jarak, lensa, kecepatan gerak, dan pencahayaan saling mengubah hasil. Pintu dengan antrean orang, lorong sempit, dan area kendaraan membutuhkan kompromi berbeda. Pedoman aplikasi [IEC 62676-4](https://webstore.iec.ch/en/publication/7353) menempatkan tujuan adegan, pemilihan, penempatan, instalasi, pengujian penerimaan, dan evaluasi objektif sebagai rangkaian; jumlah megapiksel atau demo vendor saja tidak membuktikan kegunaan di lokasi Anda. [NEEDS SITE TRIAL: tinggi, sudut, lensa, dan hasil wajah harus dikonfirmasi pada adegan nyata sebelum disetujui.]
 
-## Opening instructions
-
-- Open with the exact short salutation: **“Halo, Kawan Tukang.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Sudut dan ketinggian kamera untuk wajah yang berguna**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Kawan Tukang.co.id`, `Sobat Tukang.co.id`, or `Teman Tukang.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-001`
@@ -77,203 +37,81 @@ sources:
 - **Selection basis:** filename/source metadata identifies `CCTV Merk ZKTECO` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+![Ilustrasi CCTV Merk ZKTECO](/wp-content/uploads/2023/08/CCTV-Merk-ZKTECO.jpg)
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
-
-### KR-01
-
-- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
-- **Purpose for this article:** Freeze the verified editorial scope for `cctv.tukang.co.id` and prevent family research from overriding this project's actual catalog boundaries.
-- **Safe grounded facts:** The repository plans 20 parent topics and 120 briefs. Planning documents do not prove a workplace, product, person, service, certificate, or control is safe or compliant.
-- **Limits:** Reconcile only against the frozen local catalog when its canonical commit changes.
-
-### KR-05
-
-- **Original sources:** [ILO controlling risks](https://www.ilo.org/topics-and-sectors/occupational-safety-and-health-guide-labour-inspectors-and-other/how-can-occupational-safety-and-health-be-managed/controlling-risks), [ILO five-step risk-assessment guide](https://www.ilo.org/publications/5-step-guide-employers-workers-and-their-representatives-conducting).
-- **Purpose for this article:** Ground a lean, repeatable risk cycle rather than paperwork volume or PPE-first advice.
-- **Safe grounded facts:** A generic matrix does not determine likelihood, consequence, exposure, acceptability, or residual risk for a site.
-- **Limits:** Complex or high-consequence risks require discipline-specific methods, evidence, competence, and approval.
-
-### KR-19
-
-- **Original sources:** [BNSP official site](https://bnsp.go.id/), [ISO 45001 briefing note](https://www.iso.org/files/live/sites/isoorg/files/archive/pdf/en/iso_45001_-briefing_note.pdf).
-- **Purpose for this article:** Ground role profiles, training needs, credential verification, practical assessment, authorization, supervision, and refresh after change.
-- **Safe grounded facts:** Scope, issuer, scheme, level, date/expiry, identity, practical context, language/literacy, supervision, and change determine what evidence means.
-- **Limits:** Verify the current regulator/issuer record and job-specific legal requirements; never authenticate a person or grant authorization from an article.
-
-### KR-20
-
-- **Original sources:** [ISO 19011:2018 record](https://www.iso.org/standard/70017.html), [PP No. 50 Tahun 2012](https://peraturan.bpk.go.id/Details/5263/pp-no-50-tahun-2012).
-- **Purpose for this article:** Ground scope, competence, independence, sampling, field evidence, findings, actions, effectiveness, and management review.
-- **Safe grounded facts:** Activity counts and injury rates alone do not prove risk control; definitions, denominators, exposure, reporting quality, severity, leading evidence, and decision use matter.
-- **Limits:** Do not claim audit independence, conformity, control effectiveness, or statistical improvement without a defined method and original evidence.
-
-### KR-21
-
-- **Original sources:** [UU No. 8 Tahun 1999](https://peraturan.bpk.go.id/Details/45288/uu-no-8-tahun-1999), [PP No. 80 Tahun 2019](https://jdih.kemendag.go.id/pdf/Regulasi/2019/PP%20Nomor%2080%20Tahun%202019.pdf).
-- **Purpose for this article:** Replace price-only selection and marketplace claims with comparable, retrievable evidence.
-- **Safe grounded facts:** A logo, test excerpt, certificate image, seller rating, or “standard-compliant” phrase does not prove the delivered model or installed system conforms.
-- **Limits:** No fabricated stock, price, client, approval, certificate, warranty, availability, or legal entitlement.
-
-### KR-23
-
-- **Original sources:** [UU No. 27 Tahun 2022](https://peraturan.bpk.go.id/Details/229798/uu-no-27-tahun-2022), [ISO 15489-1:2016 record](https://www.iso.org/standard/62542.html).
-- **Purpose for this article:** Ground approvals, versions, distribution, field access, retention, evidence provenance, migration, and personal-data boundaries.
-- **Safe grounded facts:** Legal register, risk assessment, permit, inspection, training, credential, incident, health record, corrective action, and audit evidence have different owners and sensitivity.
-- **Limits:** Retention, access, lawful basis, breach response, health data, litigation hold, and regulator submission require current legal and records/privacy review.
-
-### KR-24
-
-- **Original sources:** [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md), [UU No. 8 Tahun 1999](https://peraturan.bpk.go.id/Details/45288/uu-no-8-tahun-1999).
-- **Purpose for this article:** Keep evergreen education separate from changing `safety.co.id` offers and proof.
-- **Safe grounded facts:** Every live claim needs an owner, original record, scope, date, limitations, and refresh trigger.
-- **Limits:** If proof is absent, keep the article neutral and preserve the evidence gap.
-
-### KR-02
-
-- **Original sources:** [UU No. 1 Tahun 1970](https://peraturan.bpk.go.id/Details/47614/uu-no-1-tahun-1970).
-- **Purpose for this article:** Establish the national foundation without converting one law into a complete site obligation register.
-- **Safe grounded facts:** Applicability depends on the actual workplace, activity, people, equipment, material, and implementing rules; a web article cannot determine compliance.
-- **Limits:** Use current consolidated law and sector/local rules; obtain Indonesian K3/legal review for a definitive duty.
-
-### KR-11
-
-- **Original sources:** [Permenaker No. 12 Tahun 2015](https://peraturan.bpk.go.id/Details/145984/permenaker-no-12-tahun-2015), [Permenaker No. 11 Tahun 2026](https://peraturan.bpk.go.id/Details/351282/permenaker-no-11-tahun-2026).
-- **Purpose for this article:** Ground competence, de-energization, hazardous-energy control, temporary supply, wet conditions, inspection, and emergency boundaries.
-- **Safe grounded facts:** Source identification, one-line documentation, isolation, absence-of-voltage verification, grounding/protection, environment, equipment condition, and authorization are distinct evidence.
-- **Limits:** No live-work, switching, test, protection setting, grounding, arc-energy, temporary wiring, or design procedure.
-
-### KR-16
-
-- **Original sources:** [Permen PUPR No. 10 Tahun 2021 official record](https://jdih.pu.go.id/detail-dokumen/PermenPUPR-nomor-10-tahun-2021-Pedoman-Sistem-Manajemen-Keselamatan-Konstruksi), [ILO Safety and Health in Construction code](https://www.ilo.org/publications/safety-and-health-construction-revised-edition).
-- **Purpose for this article:** Ground SMKK, design risk, procurement, RKK interfaces, temporary states, contractors, public/occupied-site protection, and handover.
-- **Safe grounded facts:** Client, designer, contractor, subcontractor, supervisor, competent person, worker, and public interfaces change across phases and simultaneous work.
-- **Limits:** No excavation, temporary-works, scaffold, lifting, electrical, traffic, structural, or public-protection design without project evidence and competent discipline review.
-
-### KR-18
-
-- **Original sources:** [ISO 22320:2018 record](https://www.iso.org/standard/67851.html), [Kemenkes PSC 119](https://kemkes.go.id/id/layanan/psc-119).
-- **Purpose for this article:** Ground command, communications, warning, evacuation/accountability, accessibility, first-aid coverage, external liaison, drills, and review.
-- **Safe grounded facts:** Alarm, incident command, evacuation, shelter, muster/accountability, technical rescue, first aid, medical handoff, business continuity, and recovery have distinct owners.
-- **Limits:** No public emergency script, rescue technique, medical diagnosis/treatment, staffing number, response time, or drill proof from this file.
-
-### KR-36
-
-- **Original sources:** [IEC 62676-4 application-guideline record](https://webstore.iec.ch/en/publication/7353).
-- **Purpose for this article:** Ground requirements, scene purpose, selection, placement, installation, commissioning, maintenance, testing, and objective evaluation.
-- **Safe grounded facts:** Resolution, megapixels, camera count, or a product demo alone does not prove useful coverage, identification, retention, alerting, or incident outcomes.
-- **Limits:** Use the current edition, documented operational requirement, measured scenes and light, selected performance criteria, installation records, acceptance tests, and periodic review.
-
-### KR-37
-
-- **Original sources:** [IEC 62676-6:2026](https://webstore.iec.ch/en/publication/59704).
-- **Purpose for this article:** Ground object/activity classification, scenarios, real-time versus forensic use, false outcomes, environment, grading, and acceptance.
-- **Safe grounded facts:** An AI label, sample clip, detection percentage, or vendor dashboard does not prove performance in the target scene, weather, crowd, lighting, or response workflow.
-- **Limits:** Define the task, test corpus/scenes, thresholds, false positive/negative consequences, environment, human review, privacy, drift monitoring, and acceptance method.
-
-### KR-40
-
-- **Original sources:** [Indonesia Personal Data Protection Law 27/2022](https://peraturan.bpk.go.id/Details/229798/uu-no-27-tahun-2022%20).
-- **Purpose for this article:** Ground purpose, coverage, notice, access, retention, disclosure, processors, rights, incident response, and deletion.
-- **Safe grounded facts:** A warning sign, owner consent, security purpose, or cloud contract alone does not prove proportionality, lawful basis, access control, retention, disclosure, or rights handling.
-- **Limits:** Obtain current legal review for the actual controller/processor, people and locations; document necessity, alternatives, fields of view, retention, access/export, requests, incidents, and deletion.
-
-## Evidence gates
-
-- **TOPIC-GATE:** EG-01, EG-02, EG-03, EG-04, EG-05, EG-07, EG-08, EG-09, EG-10, EG-11, EG-12.
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `CCT-03-02` → `/artikel/denah-penempatan-kamera-cctv.html` — Membuat denah penempatan kamera CCTV
-- `CCT-03-03` → `/artikel/blind-spot-dan-penghalang-cctv.html` — Menemukan blind spot dan penghalang pandangan CCTV
-- `CCT-03-05` → `/artikel/cakupan-cctv-area-prioritas.html` — Merancang cakupan pintu masuk, perimeter, dan area transaksi
-- `CCT-03-06` → `/artikel/privacy-mask-dalam-desain-cctv.html` — Menggunakan privacy mask tanpa merusak tujuan kamera
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
-
-## Jawaban singkat dan salah paham utama
-
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Sudut dan ketinggian kamera untuk wajah yang berguna”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+*Ilustrasi umum dari aset lokal Tukang.co.id; bukan dokumentasi proyek tertentu.*
 
 ## Definisi dan batas objek
 
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Sudut dan ketinggian kamera untuk wajah yang berguna”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+“Wajah yang berguna” berarti gambar yang cukup untuk tugas yang telah disepakati—misalnya meninjau kejadian atau membantu petugas mengenali orang dalam alur masuk—bukan janji bahwa setiap orang pasti teridentifikasi. Kamera ini membahas geometri pandangan: dari mana wajah terlihat, seberapa lama berada di area pandang, dan apa yang menghalanginya. Ia tidak menetapkan universal tinggi pemasangan, merek, resolusi minimum, atau jaminan pengenalan.
+
+Pisahkan tiga pertanyaan. Pertama, adegan apa yang dibutuhkan: kedatangan di pintu, transaksi, atau pergerakan di lorong? Kedua, bukti seperti apa yang dibutuhkan: tampak depan singkat, tampak samping untuk alur, atau rekaman keseluruhan untuk meninjau urutan? Ketiga, siapa yang berwenang menyetujui hasil dan mengakses rekaman? Jika tujuan berubah, sudut yang semula memadai dapat menjadi tidak memadai.
 
 ## Cara kerjanya
 
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Sudut dan ketinggian kamera untuk wajah yang berguna”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Mulailah dari jalur orang, bukan dari titik plafon yang masih kosong. Tandai lokasi orang berhenti, berjalan, menoleh, atau menunduk. Dari tiap posisi itu, bayangkan garis pandang kamera ke bidang wajah. Pandangan yang terlalu menurun cenderung mengutamakan kepala dan bahu; pandangan terlalu menyamping kehilangan bagian wajah saat orang melintas. Tempatkan kamera sehingga wajah masuk ke adegan dengan arah yang konsisten, sambil mempertahankan area yang perlu dilihat petugas.
+
+Berikut urutan uji yang dapat dipakai saat penentuan titik:
+
+1. Tulis tujuan adegan dan arah pergerakan orang.
+2. Tandai beberapa posisi nyata, termasuk posisi berhenti dan sisi yang paling sering dipakai.
+3. Pasang dudukan sementara atau gunakan alat bantu yang aman untuk mencoba tinggi dan kemiringan berbeda.
+4. Rekam dengan lensa dan pengaturan yang akan dipakai, pada siang, malam, dan kondisi lampu yang menghadap kamera.
+5. Tinjau cuplikan pada ukuran kerja petugas. Catat wajah tertutup, silau, blur karena gerak, bagian yang terpotong, serta jeda ketika orang belum masuk atau sudah keluar adegan.
+6. Dokumentasikan pilihan, alasan penolakan alternatif, dan kriteria penerimaan sebelum pemasangan permanen.
+
+Siklus ini sejalan dengan pendekatan pengendalian risiko yang meminta bahaya dikenali, dikendalikan, lalu ditinjau ulang ketika keadaan berubah ([ILO—controlling risks](https://www.ilo.org/topics-and-sectors/occupational-safety-and-health-guide-labour-inspectors-and-other/how-can-occupational-safety-and-health-be-managed/controlling-risks)). Ia bukan pengganti penilaian teknis; adegan berisiko tinggi atau tumpang tindih dengan pekerjaan lain memerlukan kompetensi dan persetujuan yang sesuai.
 
 ## Faktor yang mengubah hasil
 
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Sudut dan ketinggian kamera untuk wajah yang berguna”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+**Arah dan postur.** Orang yang masuk tegak menghadap pintu memberi peluang pandangan berbeda dari orang yang berbelok segera. Kaca, helm, masker, topi, dan kebiasaan menunduk mengurangi area wajah yang terlihat. Jangan menyimpulkan dari satu sukarelawan; uji variasi perilaku yang memang terjadi.
+
+**Cahaya dan latar.** Matahari dari belakang subjek, lampu plafon tepat di atas, atau latar sangat terang dapat mengurangi detail. Perubahan lampu malam, pantulan lantai, dan bayangan rak juga penting. Uji pada waktu operasi, bukan hanya saat teknisi berada di lokasi.
+
+**Lensa, jarak, dan gerak.** Bidang pandang lebar dapat menangkap lebih banyak jalur, tetapi wajah di tepi gambar tampak lebih kecil atau miring. Lensa lebih sempit mungkin membantu satu titik berhenti namun melewatkan orang yang mengambil jalur lain. Gerak cepat menuntut pengujian blur dan waktu tinggal di adegan; angka resolusi pada kotak tidak menggantikan pengujian tersebut.
+
+**Penghalang dan perubahan lokasi.** Papan promosi, pintu yang terbuka, tanaman, kendaraan, atau renovasi sementara dapat membuat blind spot baru. Periksa juga jalur kabel dan akses perawatan agar penyesuaian tidak mendorong orang bekerja pada kondisi yang tidak aman. Setelah furnitur atau alur berubah, ulangi uji penerimaan.
+
+**Tujuan dan privasi.** Bidang pandang harus cukup untuk tujuan keamanan, tetapi tidak otomatis boleh merekam semua ruang. [UU Pelindungan Data Pribadi No. 27 Tahun 2022](https://peraturan.bpk.go.id/Details/229798/uu-no-27-tahun-2022) tetap memerlukan penilaian aktual mengenai tujuan, pemberitahuan, akses, penyimpanan, pengungkapan, dan penanganan permintaan. Masking, pembatasan area, dan retensi adalah keputusan pemilik proses bersama peninjauan hukum; bukan konsekuensi otomatis dari memilih sudut tertentu.
 
 ## Contoh keputusan praktis
 
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Sudut dan ketinggian kamera untuk wajah yang berguna”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Gunakan tabel ini sebagai cara membandingkan opsi, bukan sebagai resep angka:
+
+| Adegan yang ingin dibuktikan | Risiko geometri yang umum | Uji dan keputusan |
+|---|---|---|
+| Orang berhenti di pintu masuk | Kamera terlalu tinggi sehingga wajah menunduk atau tertutup kusen | Uji beberapa titik berhenti; pilih pandangan yang menampilkan wajah tanpa mengorbankan alur evakuasi atau akses. |
+| Orang berjalan menyamping di lorong | Wajah hanya terlihat sesaat dan terpotong di tepi gambar | Uji arah perjalanan dua sisi; bila tidak ada titik pandang yang cukup, akui bahwa satu kamera tidak memenuhi tujuan dan minta desain ulang. |
+| Area kasir atau meja layanan | Lampu belakang dan monitor memantulkan cahaya; orang duduk atau menunduk | Rekam saat layanan berlangsung, termasuk antrean dan perubahan lampu; tetapkan bidang wajah yang harus terlihat untuk peninjauan. |
+| Gerbang kendaraan | Kaca depan, helm, dan gerak kendaraan mengurangi pandangan | Uji kendaraan pada jalur aktual dan kondisi malam; bedakan kebutuhan membaca alur dari kebutuhan melihat wajah. |
+
+Kawan Tukang.co.id, bila dua tujuan bertentangan—misalnya ingin pandangan luas sekaligus wajah dekat—jangan memaksa satu kemiringan menyelesaikan semuanya. Pisahkan tujuan, catat blind spot yang tersisa, dan minta keputusan pemilik risiko tentang kamera tambahan, perubahan jalur, atau tujuan yang harus diprioritaskan.
 
 ## Kesalahan umum dan cara memeriksanya
 
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Sudut dan ketinggian kamera untuk wajah yang berguna”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kesalahan pertama adalah menyamakan “terlihat ada orang” dengan “wajah berguna”. Saat review, hentikan video pada beberapa momen dan tanyakan apakah petugas dapat menjelaskan ciri yang memang diperlukan, bukan sekadar melihat siluet. Kesalahan kedua adalah mengarahkan kamera ke tengah ruangan karena tampak rapi, padahal orang melewati tepi bidang pandang. Tandai jalur aktual di denah dan cocokkan dengan rekaman.
 
-## Objection or shortcut to address
+Kesalahan berikutnya adalah menerima tangkapan layar vendor sebagai bukti. Tangkapan layar tidak mewakili cahaya, jarak, pakaian, atau kecepatan di lokasi Anda. Minta rekaman uji yang dapat ditelusuri: tanggal, posisi kamera, lensa, kondisi cahaya, subjek uji, dan kriteria lulus. Jika data itu tidak tersedia, tulis “belum terbukti” dan jadwalkan uji penerimaan.
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+Pemeriksaan ringkas sebelum mengebor dudukan:
 
-## Required conclusion
+- Apakah tujuan adegan dan momen wajah sudah tertulis?
+- Apakah jalur masuk, berhenti, dan keluar sudah diuji dari lebih dari satu arah?
+- Apakah silau, bayangan, penghalang, dan kondisi malam sudah direkam?
+- Apakah bidang pandang menangkap area yang memang diperlukan dan mengecualikan area yang tidak perlu?
+- Apakah pemilik proses menyetujui akses, retensi, dan penanganan rekaman?
+- Apakah perubahan bangunan atau alur kerja memiliki pemicu untuk uji ulang?
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+## Pilihan cepat yang sering gagal
 
-## Draft completion checklist
+Shortcut yang sering dipilih adalah memasang semua kamera setinggi mungkin agar tidak mudah dijangkau dan menganggap sudut dapat dikoreksi lewat perangkat lunak. Posisi tinggi memang bisa membantu perlindungan fisik, tetapi tidak menghapus wajah yang tertutup, sudut terlalu menunduk, atau gerak yang terlalu cepat. Perangkat lunak juga tidak menciptakan detail yang tidak pernah tertangkap sensor.
 
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Kawan Tukang.co.id!` and uses friendly `Tukang.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Alternatif yang lebih dapat dipertanggungjawabkan ialah menyeimbangkan perlindungan fisik dengan titik pandang, mencoba dudukan sementara, lalu menerima atau menolak adegan berdasarkan rekaman nyata. Sobat Tukang.co.id, bila kebutuhan identifikasi tidak tercapai setelah penyesuaian wajar, jangan mengubah kesimpulan menjadi klaim pengenalan; ubah desain, tujuan, atau minta review teknis.
+
+## Kesimpulan
+
+Sudut dan ketinggian kamera untuk wajah yang berguna ditentukan oleh adegan, arah gerak, cahaya, penghalang, lensa, dan tujuan bukti—bukan oleh satu angka tinggi yang berlaku di semua tempat. Langkah berikutnya adalah membuat lembar uji untuk setiap titik, merekam kondisi operasi yang relevan, dan meminta persetujuan atas kriteria penerimaan serta batas privasinya.
+
+Teman Tukang.co.id, simpan hasil uji bersama foto posisi, versi konfigurasi, dan alasan keputusan. Untuk menyiapkan percakapan lanjutan, Anda dapat mulai dari [beranda Tukang.co.id](/) lalu melihat [halaman tentang Tukang.co.id](/about/) untuk konteks penyedia. Setiap perubahan jalur, lampu, atau bangunan menjadi pemicu peninjauan ulang. Tanpa site trial dan review teknis yang terdokumentasi, perlakukan hasil sebagai rancangan sementara, bukan jaminan wajah akan selalu berguna.

@@ -3,7 +3,7 @@ article_id: CCT-05-03
 title: "Menghitung kapasitas penyimpanan dan retensi CCTV"
 slug: "kapasitas-penyimpanan-dan-retensi-cctv"
 description: "Size and evaluate recorders, storage, retention, redundancy, playback, and export."
-status: outline
+status: draft
 publication_date: "2025-08-28"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -13,63 +13,18 @@ reader_community: "Tukang.co.id"
 reader_address: "Teman Tukang.co.id"
 final_route: "/artikel/kapasitas-penyimpanan-dan-retensi-cctv.html"
 technical_review: required
+writing_contract_version: "native-id-v2"
 sources:
-  - "https://www.ilo.org/topics-and-sectors/occupational-safety-and-health-guide-labour-inspectors-and-other/how-can-occupational-safety-and-health-be-managed/controlling-risks"
-  - "https://www.ilo.org/publications/5-step-guide-employers-workers-and-their-representatives-conducting"
-  - "https://bnsp.go.id/"
-  - "https://www.iso.org/files/live/sites/isoorg/files/archive/pdf/en/iso_45001_-briefing_note.pdf"
-  - "https://www.iso.org/standard/70017.html"
-  - "https://peraturan.bpk.go.id/Details/5263/pp-no-50-tahun-2012"
-  - "https://peraturan.bpk.go.id/Details/45288/uu-no-8-tahun-1999"
-  - "https://jdih.kemendag.go.id/pdf/Regulasi/2019/PP%20Nomor%2080%20Tahun%202019.pdf"
-  - "https://peraturan.bpk.go.id/Details/229798/uu-no-27-tahun-2022"
-  - "https://www.iso.org/standard/62542.html"
-  - "https://peraturan.bpk.go.id/Details/47614/uu-no-1-tahun-1970"
-  - "https://peraturan.bpk.go.id/Details/145984/permenaker-no-12-tahun-2015"
-  - "https://peraturan.bpk.go.id/Details/351282/permenaker-no-11-tahun-2026"
-  - "https://jdih.pu.go.id/detail-dokumen/PermenPUPR-nomor-10-tahun-2021-Pedoman-Sistem-Manajemen-Keselamatan-Konstruksi"
-  - "https://www.ilo.org/publications/safety-and-health-construction-revised-edition"
-  - "https://www.iso.org/standard/67851.html"
-  - "https://kemkes.go.id/id/layanan/psc-119"
   - "https://webstore.iec.ch/en/publication/7353"
   - "https://www.onvif.org/profiles/profile-t/"
   - "https://www.onvif.org/"
   - "https://csrc.nist.gov/pubs/ir/8259/r1/final"
   - "https://pages.nist.gov/IoT-Device-Cybersecurity-Requirement-Catalogs/technical/"
-  - "https://peraturan.bpk.go.id/Details/229798/uu-no-27-tahun-2022%20"
+  - "https://www.iso.org/standard/62542.html"
+  - "https://peraturan.bpk.go.id/Details/229798/uu-no-27-tahun-2022"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
-
-# Menghitung kapasitas penyimpanan dan retensi CCTV
-
-## Assignment lock
-
-- **Writer task:** Expand this file into one complete article answering: “Menghitung kapasitas penyimpanan dan retensi CCTV”
-- **Reader and situation:** Size and evaluate recorders, storage, retention, redundancy, playback, and export.
-- **Reader outcome:** Size and evaluate recorders, storage, retention, redundancy, playback, and export.
-- **Primary intent:** Estimate storage from cameras, bitrate, schedule, and retention.
-- **Reader community:** `Tukang.co.id`
-- **Primary friendly address:** `Teman Tukang.co.id`
-- **Natural variants:** `Sobat Tukang.co.id` and `Kawan Tukang.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Shows assumptions and sensitivity; retention policy authority belongs to CCT-10.
-- **Final public route:** `/artikel/kapasitas-penyimpanan-dan-retensi-cctv.html`
-- **Appointed CMS date:** `2025-08-28` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
-
-## Opening instructions
-
-- Open with the exact short salutation: **“Halo, Teman Tukang.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Menghitung kapasitas penyimpanan dan retensi CCTV**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Teman Tukang.co.id`, `Sobat Tukang.co.id`, or `Kawan Tukang.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-001`
@@ -80,215 +35,73 @@ sources:
 - **Selection basis:** filename/source metadata identifies `CCTV Merk ZKTECO` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+# Menghitung kapasitas penyimpanan dan retensi CCTV
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+Halo, Teman Tukang.co.id! Kapasitas penyimpanan CCTV tidak bisa ditentukan dari jumlah kamera saja. Hitung kebutuhan data dari bitrate setiap kamera, berapa jam kamera merekam, jumlah hari retensi, lalu sisakan ruang untuk overhead, ekspor, dan pemulihan. Retensi yang tepat juga bukan angka universal: ia harus mengikuti tujuan pemantauan, kebutuhan pembuktian, dan keputusan pemilik sistem.
 
-### KR-01
+Rumus praktisnya: **kapasitas mentah (GB) = total bitrate (Mb/s) × 86.400 × jumlah hari ÷ 8.000**. Setelah itu tambahkan margin operasional dan cocokkan dengan kapasitas usable recorder, bukan kapasitas nominal pada label. Bitrate aktual, jadwal rekam, codec, audio, metadata, serta gerak di scene dapat mengubah hasil. IEC 62676-4 menekankan tujuan scene, kriteria kinerja, instalasi, pengujian penerimaan, dan peninjauan berkala—bukan demo produk atau megapiksel semata ([IEC 62676-4](https://webstore.iec.ch/en/publication/7353)).
 
-- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
-- **Purpose for this article:** Freeze the verified editorial scope for `cctv.tukang.co.id` and prevent family research from overriding this project's actual catalog boundaries.
-- **Safe grounded facts:** The repository plans 20 parent topics and 120 briefs. Planning documents do not prove a workplace, product, person, service, certificate, or control is safe or compliant.
-- **Limits:** Reconcile only against the frozen local catalog when its canonical commit changes.
+![Ilustrasi CCTV Merk ZKTECO](/wp-content/uploads/2023/08/CCTV-Merk-ZKTECO.jpg)
 
-### KR-05
 
-- **Original sources:** [ILO controlling risks](https://www.ilo.org/topics-and-sectors/occupational-safety-and-health-guide-labour-inspectors-and-other/how-can-occupational-safety-and-health-be-managed/controlling-risks), [ILO five-step risk-assessment guide](https://www.ilo.org/publications/5-step-guide-employers-workers-and-their-representatives-conducting).
-- **Purpose for this article:** Ground a lean, repeatable risk cycle rather than paperwork volume or PPE-first advice.
-- **Safe grounded facts:** A generic matrix does not determine likelihood, consequence, exposure, acceptability, or residual risk for a site.
-- **Limits:** Complex or high-consequence risks require discipline-specific methods, evidence, competence, and approval.
-
-### KR-19
-
-- **Original sources:** [BNSP official site](https://bnsp.go.id/), [ISO 45001 briefing note](https://www.iso.org/files/live/sites/isoorg/files/archive/pdf/en/iso_45001_-briefing_note.pdf).
-- **Purpose for this article:** Ground role profiles, training needs, credential verification, practical assessment, authorization, supervision, and refresh after change.
-- **Safe grounded facts:** Scope, issuer, scheme, level, date/expiry, identity, practical context, language/literacy, supervision, and change determine what evidence means.
-- **Limits:** Verify the current regulator/issuer record and job-specific legal requirements; never authenticate a person or grant authorization from an article.
-
-### KR-20
-
-- **Original sources:** [ISO 19011:2018 record](https://www.iso.org/standard/70017.html), [PP No. 50 Tahun 2012](https://peraturan.bpk.go.id/Details/5263/pp-no-50-tahun-2012).
-- **Purpose for this article:** Ground scope, competence, independence, sampling, field evidence, findings, actions, effectiveness, and management review.
-- **Safe grounded facts:** Activity counts and injury rates alone do not prove risk control; definitions, denominators, exposure, reporting quality, severity, leading evidence, and decision use matter.
-- **Limits:** Do not claim audit independence, conformity, control effectiveness, or statistical improvement without a defined method and original evidence.
-
-### KR-21
-
-- **Original sources:** [UU No. 8 Tahun 1999](https://peraturan.bpk.go.id/Details/45288/uu-no-8-tahun-1999), [PP No. 80 Tahun 2019](https://jdih.kemendag.go.id/pdf/Regulasi/2019/PP%20Nomor%2080%20Tahun%202019.pdf).
-- **Purpose for this article:** Replace price-only selection and marketplace claims with comparable, retrievable evidence.
-- **Safe grounded facts:** A logo, test excerpt, certificate image, seller rating, or “standard-compliant” phrase does not prove the delivered model or installed system conforms.
-- **Limits:** No fabricated stock, price, client, approval, certificate, warranty, availability, or legal entitlement.
-
-### KR-23
-
-- **Original sources:** [UU No. 27 Tahun 2022](https://peraturan.bpk.go.id/Details/229798/uu-no-27-tahun-2022), [ISO 15489-1:2016 record](https://www.iso.org/standard/62542.html).
-- **Purpose for this article:** Ground approvals, versions, distribution, field access, retention, evidence provenance, migration, and personal-data boundaries.
-- **Safe grounded facts:** Legal register, risk assessment, permit, inspection, training, credential, incident, health record, corrective action, and audit evidence have different owners and sensitivity.
-- **Limits:** Retention, access, lawful basis, breach response, health data, litigation hold, and regulator submission require current legal and records/privacy review.
-
-### KR-24
-
-- **Original sources:** [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md), [UU No. 8 Tahun 1999](https://peraturan.bpk.go.id/Details/45288/uu-no-8-tahun-1999).
-- **Purpose for this article:** Keep evergreen education separate from changing `safety.co.id` offers and proof.
-- **Safe grounded facts:** Every live claim needs an owner, original record, scope, date, limitations, and refresh trigger.
-- **Limits:** If proof is absent, keep the article neutral and preserve the evidence gap.
-
-### KR-02
-
-- **Original sources:** [UU No. 1 Tahun 1970](https://peraturan.bpk.go.id/Details/47614/uu-no-1-tahun-1970).
-- **Purpose for this article:** Establish the national foundation without converting one law into a complete site obligation register.
-- **Safe grounded facts:** Applicability depends on the actual workplace, activity, people, equipment, material, and implementing rules; a web article cannot determine compliance.
-- **Limits:** Use current consolidated law and sector/local rules; obtain Indonesian K3/legal review for a definitive duty.
-
-### KR-11
-
-- **Original sources:** [Permenaker No. 12 Tahun 2015](https://peraturan.bpk.go.id/Details/145984/permenaker-no-12-tahun-2015), [Permenaker No. 11 Tahun 2026](https://peraturan.bpk.go.id/Details/351282/permenaker-no-11-tahun-2026).
-- **Purpose for this article:** Ground competence, de-energization, hazardous-energy control, temporary supply, wet conditions, inspection, and emergency boundaries.
-- **Safe grounded facts:** Source identification, one-line documentation, isolation, absence-of-voltage verification, grounding/protection, environment, equipment condition, and authorization are distinct evidence.
-- **Limits:** No live-work, switching, test, protection setting, grounding, arc-energy, temporary wiring, or design procedure.
-
-### KR-16
-
-- **Original sources:** [Permen PUPR No. 10 Tahun 2021 official record](https://jdih.pu.go.id/detail-dokumen/PermenPUPR-nomor-10-tahun-2021-Pedoman-Sistem-Manajemen-Keselamatan-Konstruksi), [ILO Safety and Health in Construction code](https://www.ilo.org/publications/safety-and-health-construction-revised-edition).
-- **Purpose for this article:** Ground SMKK, design risk, procurement, RKK interfaces, temporary states, contractors, public/occupied-site protection, and handover.
-- **Safe grounded facts:** Client, designer, contractor, subcontractor, supervisor, competent person, worker, and public interfaces change across phases and simultaneous work.
-- **Limits:** No excavation, temporary-works, scaffold, lifting, electrical, traffic, structural, or public-protection design without project evidence and competent discipline review.
-
-### KR-18
-
-- **Original sources:** [ISO 22320:2018 record](https://www.iso.org/standard/67851.html), [Kemenkes PSC 119](https://kemkes.go.id/id/layanan/psc-119).
-- **Purpose for this article:** Ground command, communications, warning, evacuation/accountability, accessibility, first-aid coverage, external liaison, drills, and review.
-- **Safe grounded facts:** Alarm, incident command, evacuation, shelter, muster/accountability, technical rescue, first aid, medical handoff, business continuity, and recovery have distinct owners.
-- **Limits:** No public emergency script, rescue technique, medical diagnosis/treatment, staffing number, response time, or drill proof from this file.
-
-### KR-36
-
-- **Original sources:** [IEC 62676-4 application-guideline record](https://webstore.iec.ch/en/publication/7353).
-- **Purpose for this article:** Ground requirements, scene purpose, selection, placement, installation, commissioning, maintenance, testing, and objective evaluation.
-- **Safe grounded facts:** Resolution, megapixels, camera count, or a product demo alone does not prove useful coverage, identification, retention, alerting, or incident outcomes.
-- **Limits:** Use the current edition, documented operational requirement, measured scenes and light, selected performance criteria, installation records, acceptance tests, and periodic review.
-
-### KR-38
-
-- **Original sources:** [ONVIF Profile T](https://www.onvif.org/profiles/profile-t/), [ONVIF conformant-product guidance](https://www.onvif.org/).
-- **Purpose for this article:** Ground streaming, imaging, events, metadata, PTZ, HTTPS, audio, device/client roles, and procurement verification.
-- **Safe grounded facts:** An ONVIF logo, protocol checkbox, or same-brand test does not prove every optional feature, recorder/client compatibility, cyber hardening, or lifecycle support.
-- **Limits:** Verify exact product/firmware, conformant profile and role, mandatory versus conditional features, tested workflows, certificates, updates, and support horizon.
-
-### KR-39
-
-- **Original sources:** [NISTIR 8259 Rev. 1](https://csrc.nist.gov/pubs/ir/8259/r1/final), [NIST IoT capability catalog](https://pages.nist.gov/IoT-Device-Cybersecurity-Requirement-Catalogs/technical/).
-- **Purpose for this article:** Ground identity, secure configuration, data protection, logical access, updates, state awareness, secure operation, procurement, and retirement.
-- **Safe grounded facts:** Changing a default password alone does not establish inventory, segmentation, protected interfaces/data, signed updates, logging, vulnerability response, or secure disposal.
-- **Limits:** Create a use-case profile; verify firmware/support, accounts/roles, protocols, encryption, network exposure, update and backup/restore, monitoring, incident process, and decommissioning.
-
-### KR-40
-
-- **Original sources:** [Indonesia Personal Data Protection Law 27/2022](https://peraturan.bpk.go.id/Details/229798/uu-no-27-tahun-2022%20).
-- **Purpose for this article:** Ground purpose, coverage, notice, access, retention, disclosure, processors, rights, incident response, and deletion.
-- **Safe grounded facts:** A warning sign, owner consent, security purpose, or cloud contract alone does not prove proportionality, lawful basis, access control, retention, disclosure, or rights handling.
-- **Limits:** Obtain current legal review for the actual controller/processor, people and locations; document necessity, alternatives, fields of view, retention, access/export, requests, incidents, and deletion.
-
-## Evidence gates
-
-- **TOPIC-GATE:** EG-01, EG-02, EG-03, EG-04, EG-05, EG-07, EG-08, EG-09, EG-10, EG-11, EG-12.
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/kota/jual-pasang-cctv-yosowilangun/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/kota/jual-pasang-cctv-yalimo/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/kota/jual-pasang-cctv-yahukimo/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/kota/jual-pasang-cctv-wuryantoro/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/kota/jual-pasang-cctv-wungu/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/kota/jual-pasang-cctv-wuluhan/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `CCT-05-01` → `/artikel/fungsi-dvr-xvr-dan-nvr.html` — DVR, XVR, dan NVR: fungsi dan batas masing-masing
-- `CCT-05-02` → `/artikel/channel-dan-ekspansi-recorder-cctv.html` — Menghitung kebutuhan channel dan ruang ekspansi recorder
-- `CCT-05-04` → `/artikel/bitrate-codec-dan-rekam-gerak-cctv.html` — Bitrate, codec, dan rekam gerak: dampak pada penyimpanan
-- `CCT-05-05` → `/artikel/redundansi-penyimpanan-cctv-dan-raid.html` — Redundansi penyimpanan CCTV dan arti RAID
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+*Aset lokal situs; gambar ini bukan dokumentasi proyek tertentu.*
 
 ## Jawaban singkat dan salah paham utama
 
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Menghitung kapasitas penyimpanan dan retensi CCTV”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Mulailah dari kejadian yang harus bisa diputar kembali. Jika delapan kamera masing-masing rata-rata 4 Mb/s merekam terus selama 14 hari, hitungan awalnya 8 × 4 × 86.400 × 14 ÷ 8.000, sekitar 4.838 GB sebelum margin. Ini contoh hitung, bukan kapasitas pembelian. Kamera berbasis gerak atau bitrate yang berubah dapat menghasilkan angka berbeda.
+
+Salah paham yang mahal ialah menyamakan “hard disk 6 TB” dengan 6 TB yang seluruhnya siap direkam. Recorder membutuhkan ruang sistem, indeks, siklus tulis, ekspor, dan toleransi kegagalan. Periksa juga kemampuan menangani total incoming bitrate dan jumlah stream. Logo ONVIF membantu memeriksa interoperabilitas, tetapi tidak membuktikan semua fitur opsional dan alur playback pada kombinasi produk tertentu ([ONVIF Profile T](https://www.onvif.org/profiles/profile-t/), [panduan produk conformant ONVIF](https://www.onvif.org/)).
 
 ## Definisi dan batas objek
 
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Menghitung kapasitas penyimpanan dan retensi CCTV”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+**Kapasitas** adalah ruang untuk rekaman; **retensi** adalah lama rekaman dipertahankan sebelum ditimpa. Keduanya berbeda dari resolusi, jumlah channel, dan kecepatan jaringan. Artikel ini memberi metode estimasi, bukan kebijakan masa simpan perkara atau kewajiban hukum lokasi tertentu. Karena otoritas kebijakan berada di luar cakupan, minta **[NEEDS RETENTION POLICY REVIEW: pemilik proses/legal menetapkan tujuan, masa simpan, akses, dan pengecualian]**.
+
+Rekaman biasa, ekspor insiden, log akses, dan cadangan mempunyai pemilik serta risiko berbeda. ISO 15489-1 membahas pengelolaan rekod sepanjang siklus hidup; UU Pelindungan Data Pribadi membuat tujuan, akses, pengungkapan, dan penghapusan perlu ditinjau sesuai konteks ([ISO 15489-1](https://www.iso.org/standard/62542.html), [UU No. 27 Tahun 2022](https://peraturan.bpk.go.id/Details/229798/uu-no-27-tahun-2022)).
 
 ## Cara kerjanya
 
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Menghitung kapasitas penyimpanan dan retensi CCTV”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+1. **Kumpulkan input per kamera.** Catat bitrate target atau hasil pengukuran recorder. Pisahkan kamera 24 jam, kamera berjendela waktu, dan kamera deteksi gerak. Masukkan audio serta stream tambahan bila disimpan.
+2. **Ubah menjadi data harian.** Kalikan bitrate (Mb/s) dengan 86.400 detik, bagi 8.000 untuk pendekatan gigabyte desimal, lalu jumlahkan kamera dan kalikan hari retensi.
+3. **Tambahkan margin yang dapat dijelaskan.** Sisihkan ruang untuk variasi bitrate, indeks, ekspor, rekaman yang ditahan, dan pemulihan. Besarnya margin harus berasal dari uji dan kebijakan setempat, bukan persentase universal.
+4. **Cocokkan recorder dan media.** Periksa incoming throughput, jumlah disk, metode rekam, alarm, serta kapasitas nominal, usable, dan setelah redundansi.
+5. **Uji alur bukti.** Putar pada jam sibuk, cari berdasarkan waktu, ekspor klip, dan buka hasilnya. Catat timestamp, zona waktu, audio, metadata, serta jejak siapa yang mengekspor.
 
 ## Faktor yang mengubah hasil
 
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Menghitung kapasitas penyimpanan dan retensi CCTV”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Bitrate dipengaruhi scene ramai, pencahayaan rendah, noise, dan perubahan codec. Jadwal 24 jam berbeda dari jadwal kerja; pre-record dan post-record menambah durasi. Audio dan metadata ikut dihitung bila dibutuhkan untuk kejadian.
+
+Redundansi bukan cadangan. RAID atau disk ganda dapat membantu ketersediaan setelah kegagalan media, tetapi tidak otomatis melindungi dari penghapusan, ransomware, atau kesalahan operator. NIST memisahkan inventaris, akun/peran, perlindungan data, pembaruan, pemulihan, dan penghentian aman sebagai kemampuan yang perlu diverifikasi ([NISTIR 8259 Rev. 1](https://csrc.nist.gov/pubs/ir/8259/r1/final), [katalog kemampuan IoT NIST](https://pages.nist.gov/IoT-Device-Cybersecurity-Requirement-Catalogs/technical/)).
+
+Kriteria scene juga menentukan retensi. Kamera pintu masuk mungkin memerlukan detail pada jam tertentu; kamera area umum mungkin cukup untuk mengetahui alur. Gunakan scene terukur, kriteria objektif, catatan instalasi, dan acceptance test sebelum mengurangi retensi hanya karena angka kapasitas terlihat besar.
 
 ## Contoh keputusan praktis
 
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Menghitung kapasitas penyimpanan dan retensi CCTV”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+| Input | Contoh asumsi | Yang harus diverifikasi |
+|---|---:|---|
+| Jumlah kamera | 8 | Semua channel benar-benar merekam? |
+| Bitrate rata-rata | 4 Mb/s/kamera | CBR/VBR dan jam sibuk |
+| Jadwal | 24 jam/hari | Pre/post-record dan gerak |
+| Retensi target | 14 hari | Disetujui pemilik proses |
+| Hasil mentah | ±4.838 GB | Satuan dan ruang usable |
+
+Buat skenario rendah, tengah, dan tinggi dengan angka dari datasheet serta pengukuran Anda. Bandingkan masing-masing dengan usable setelah margin dan redundansi. Sobat Tukang.co.id, keputusan pengadaan sebaiknya memakai skenario tinggi yang dapat dijelaskan, bukan bitrate terbaik di brosur.
+
+Untuk ekspor, tentukan siapa yang boleh mengekspor, media tujuan, penamaan file, timestamp, dan masa simpan salinan insiden. Jika produk berbeda merek, uji playback dan ekspor pada kombinasi firmware yang akan dipasang; kesesuaian profil tidak menggantikan uji alur kerja.
+
+Setelah tabel selesai, dokumentasikan asumsi dalam lembar serah-terima: nama kamera atau zona, sumber bitrate, jadwal, versi firmware, tanggal pengukuran, dan siapa yang menyetujui retensi. Dokumen ini memudahkan penghitungan ulang ketika kamera ditambah, scene berubah, atau recorder diganti. Jika Anda masih menyusun kebutuhan perangkat, gunakan [panduan layanan pemasangan CCTV di Wungu](/kota/jual-pasang-cctv-wungu/) sebagai konteks untuk menyiapkan pertanyaan teknis kepada penyedia; halaman tersebut bukan pengganti verifikasi kapasitas sistem Anda.
 
 ## Kesalahan umum dan cara memeriksanya
 
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Menghitung kapasitas penyimpanan dan retensi CCTV”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Jangan memakai resolusi sebagai pengganti bitrate. Ukur bitrate aktual pada scene yang mewakili. Jangan menjumlahkan kapasitas disk tanpa memisahkan nominal, usable, redundansi, dan ruang kerja ekspor. Jangan menganggap deteksi gerak selalu menghemat data; periksa false trigger dan pre/post-record.
 
-## Objection or shortcut to address
+Jangan menghapus otomatis semua rekaman saat umur retensi tercapai tanpa mekanisme penahanan insiden. Tetapkan proses hold dan pemilik persetujuannya. Shortcut “beli disk terbesar yang muat” juga bisa gagal bila recorder tidak mendukung kapasitas atau throughput, atau ekspor tidak pernah diuji. Alternatifnya adalah lembar input per kamera, uji rekam-playback-ekspor, alarm kegagalan, lalu tinjauan teknis dan privasi. Kawan Tukang.co.id, area publik, akses pihak ketiga, dan permintaan penghapusan data memerlukan tinjauan hukum aktual.
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+Saat meminta penawaran, kirimkan bukan hanya jumlah kamera, melainkan bitrate per stream, pola rekam, hari retensi, kebutuhan ekspor, dan kondisi jaringan. Tanyakan batas recorder, perilaku ketika disk penuh, pemberitahuan kegagalan, metode pemulihan, serta bukti uji pada firmware yang ditawarkan. Untuk lokasi lain, [opsi layanan pemasangan CCTV di Wuluhan](/kota/jual-pasang-cctv-wuluhan/) dapat menjadi rujukan langkah berikutnya, tetapi keputusan akhir tetap bergantung pada survei dan persetujuan proyek.
 
-## Required conclusion
+## Kesimpulan dan langkah berikutnya
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+Hitung **total bitrate × durasi rekam × hari retensi**, tambahkan margin yang dapat dipertanggungjawabkan, lalu cocokkan dengan usable, kemampuan recorder, redundansi, dan uji playback-ekspor. Retensi adalah keputusan pemilik proses tentang tujuan, akses, penahanan insiden, dan privasi—bukan sekadar jumlah hari.
 
-## Draft completion checklist
-
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Teman Tukang.co.id!` and uses friendly `Tukang.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Buat tabel per kamera berisi bitrate terukur, jadwal, audio/metadata, tiga skenario, usable, dan hasil ekspor. Minta persetujuan masa simpan dari pemilik sistem dan pemeriksaan profesional untuk desain, keamanan, serta kepatuhan spesifik lokasi. Tanpa input proyek dan kebijakan yang disetujui, metode ini hanya estimasi, bukan jaminan recorder memenuhi kebutuhan Anda.

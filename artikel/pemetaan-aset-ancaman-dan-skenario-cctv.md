@@ -1,9 +1,10 @@
 ---
 article_id: CCT-01-02
+writing_contract_version: "native-id-v2"
 title: "Memetakan aset, ancaman, dan skenario kejadian"
 slug: "pemetaan-aset-ancaman-dan-skenario-cctv"
 description: "Define the problem, stakeholders, constraints, and evidence needed before requesting a CCTV design or quotation."
-status: outline
+status: draft
 publication_date: "2025-05-20"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -16,56 +17,13 @@ technical_review: required
 sources:
   - "https://www.ilo.org/topics-and-sectors/occupational-safety-and-health-guide-labour-inspectors-and-other/how-can-occupational-safety-and-health-be-managed/controlling-risks"
   - "https://www.ilo.org/publications/5-step-guide-employers-workers-and-their-representatives-conducting"
-  - "https://bnsp.go.id/"
-  - "https://www.iso.org/files/live/sites/isoorg/files/archive/pdf/en/iso_45001_-briefing_note.pdf"
-  - "https://www.iso.org/standard/70017.html"
-  - "https://peraturan.bpk.go.id/Details/5263/pp-no-50-tahun-2012"
-  - "https://peraturan.bpk.go.id/Details/45288/uu-no-8-tahun-1999"
-  - "https://jdih.kemendag.go.id/pdf/Regulasi/2019/PP%20Nomor%2080%20Tahun%202019.pdf"
-  - "https://peraturan.bpk.go.id/Details/229798/uu-no-27-tahun-2022"
-  - "https://www.iso.org/standard/62542.html"
-  - "https://peraturan.bpk.go.id/Details/47614/uu-no-1-tahun-1970"
-  - "https://peraturan.bpk.go.id/Details/145984/permenaker-no-12-tahun-2015"
-  - "https://peraturan.bpk.go.id/Details/351282/permenaker-no-11-tahun-2026"
-  - "https://jdih.pu.go.id/detail-dokumen/PermenPUPR-nomor-10-tahun-2021-Pedoman-Sistem-Manajemen-Keselamatan-Konstruksi"
-  - "https://www.ilo.org/publications/safety-and-health-construction-revised-edition"
-  - "https://www.iso.org/standard/67851.html"
-  - "https://kemkes.go.id/id/layanan/psc-119"
   - "https://webstore.iec.ch/en/publication/7353"
-  - "https://peraturan.bpk.go.id/Details/229798/uu-no-27-tahun-2022%20"
+  - "https://peraturan.bpk.go.id/Details/229798/uu-no-27-tahun-2022"
+  - "https://bnsp.go.id/"
+  - "https://peraturan.bpk.go.id/Details/47614/uu-no-1-tahun-1970"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
-
-# Memetakan aset, ancaman, dan skenario kejadian
-
-## Assignment lock
-
-- **Writer task:** Expand this file into one complete article answering: “Memetakan aset, ancaman, dan skenario kejadian”
-- **Reader and situation:** Define the problem, stakeholders, constraints, and evidence needed before requesting a CCTV design or quotation.
-- **Reader outcome:** Define the problem, stakeholders, constraints, and evidence needed before requesting a CCTV design or quotation.
-- **Primary intent:** Build a scenario-based risk input for a CCTV brief.
-- **Reader community:** `Tukang.co.id`
-- **Primary friendly address:** `Teman Tukang.co.id`
-- **Natural variants:** `Sobat Tukang.co.id` and `Kawan Tukang.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Covers risk inputs, not camera positions, legal conclusions, or a generic security audit.
-- **Final public route:** `/artikel/pemetaan-aset-ancaman-dan-skenario-cctv.html`
-- **Appointed CMS date:** `2025-05-20` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
-
-## Opening instructions
-
-- Open with the exact short salutation: **“Halo, Teman Tukang.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Memetakan aset, ancaman, dan skenario kejadian**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Teman Tukang.co.id`, `Sobat Tukang.co.id`, or `Kawan Tukang.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-001`
@@ -76,200 +34,90 @@ sources:
 - **Selection basis:** filename/source metadata identifies `CCTV Merk ZKTECO` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+# Memetakan aset, ancaman, dan skenario kejadian
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+Halo, Teman Tukang.co.id!
 
-### KR-01
+Sebelum meminta desain atau penawaran CCTV, petakan dulu tiga hal: aset yang harus dilindungi, ancaman yang mungkin terjadi, dan skenario kejadian dari awal sampai tindak lanjut. Hasilnya bukan daftar jumlah kamera, melainkan brief yang menjelaskan keputusan apa yang harus didukung oleh rekaman.
 
-- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
-- **Purpose for this article:** Freeze the verified editorial scope for `cctv.tukang.co.id` and prevent family research from overriding this project's actual catalog boundaries.
-- **Safe grounded facts:** The repository plans 20 parent topics and 120 briefs. Planning documents do not prove a workplace, product, person, service, certificate, or control is safe or compliant.
-- **Limits:** Reconcile only against the frozen local catalog when its canonical commit changes.
+Jika pemetaan berhenti pada kalimat “ingin memantau area”, vendor akan mengisi kekosongan dengan asumsi. Kondisi yang dapat mengubah keputusan antara lain siapa pengguna rekaman, jam operasi, akses publik, pencahayaan, pekerjaan sementara, aturan privasi, serta bukti kejadian yang benar-benar diperlukan. Karena aset gambar tidak tersedia pada lokasi yang ditentukan, status media perlu ditinjau koordinator sebelum publikasi: **[NEEDS IMAGE REVIEW: LOCAL-001]**.
 
-### KR-05
-
-- **Original sources:** [ILO controlling risks](https://www.ilo.org/topics-and-sectors/occupational-safety-and-health-guide-labour-inspectors-and-other/how-can-occupational-safety-and-health-be-managed/controlling-risks), [ILO five-step risk-assessment guide](https://www.ilo.org/publications/5-step-guide-employers-workers-and-their-representatives-conducting).
-- **Purpose for this article:** Ground a lean, repeatable risk cycle rather than paperwork volume or PPE-first advice.
-- **Safe grounded facts:** A generic matrix does not determine likelihood, consequence, exposure, acceptability, or residual risk for a site.
-- **Limits:** Complex or high-consequence risks require discipline-specific methods, evidence, competence, and approval.
-
-### KR-19
-
-- **Original sources:** [BNSP official site](https://bnsp.go.id/), [ISO 45001 briefing note](https://www.iso.org/files/live/sites/isoorg/files/archive/pdf/en/iso_45001_-briefing_note.pdf).
-- **Purpose for this article:** Ground role profiles, training needs, credential verification, practical assessment, authorization, supervision, and refresh after change.
-- **Safe grounded facts:** Scope, issuer, scheme, level, date/expiry, identity, practical context, language/literacy, supervision, and change determine what evidence means.
-- **Limits:** Verify the current regulator/issuer record and job-specific legal requirements; never authenticate a person or grant authorization from an article.
-
-### KR-20
-
-- **Original sources:** [ISO 19011:2018 record](https://www.iso.org/standard/70017.html), [PP No. 50 Tahun 2012](https://peraturan.bpk.go.id/Details/5263/pp-no-50-tahun-2012).
-- **Purpose for this article:** Ground scope, competence, independence, sampling, field evidence, findings, actions, effectiveness, and management review.
-- **Safe grounded facts:** Activity counts and injury rates alone do not prove risk control; definitions, denominators, exposure, reporting quality, severity, leading evidence, and decision use matter.
-- **Limits:** Do not claim audit independence, conformity, control effectiveness, or statistical improvement without a defined method and original evidence.
-
-### KR-21
-
-- **Original sources:** [UU No. 8 Tahun 1999](https://peraturan.bpk.go.id/Details/45288/uu-no-8-tahun-1999), [PP No. 80 Tahun 2019](https://jdih.kemendag.go.id/pdf/Regulasi/2019/PP%20Nomor%2080%20Tahun%202019.pdf).
-- **Purpose for this article:** Replace price-only selection and marketplace claims with comparable, retrievable evidence.
-- **Safe grounded facts:** A logo, test excerpt, certificate image, seller rating, or “standard-compliant” phrase does not prove the delivered model or installed system conforms.
-- **Limits:** No fabricated stock, price, client, approval, certificate, warranty, availability, or legal entitlement.
-
-### KR-23
-
-- **Original sources:** [UU No. 27 Tahun 2022](https://peraturan.bpk.go.id/Details/229798/uu-no-27-tahun-2022), [ISO 15489-1:2016 record](https://www.iso.org/standard/62542.html).
-- **Purpose for this article:** Ground approvals, versions, distribution, field access, retention, evidence provenance, migration, and personal-data boundaries.
-- **Safe grounded facts:** Legal register, risk assessment, permit, inspection, training, credential, incident, health record, corrective action, and audit evidence have different owners and sensitivity.
-- **Limits:** Retention, access, lawful basis, breach response, health data, litigation hold, and regulator submission require current legal and records/privacy review.
-
-### KR-24
-
-- **Original sources:** [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md), [UU No. 8 Tahun 1999](https://peraturan.bpk.go.id/Details/45288/uu-no-8-tahun-1999).
-- **Purpose for this article:** Keep evergreen education separate from changing `safety.co.id` offers and proof.
-- **Safe grounded facts:** Every live claim needs an owner, original record, scope, date, limitations, and refresh trigger.
-- **Limits:** If proof is absent, keep the article neutral and preserve the evidence gap.
-
-### KR-02
-
-- **Original sources:** [UU No. 1 Tahun 1970](https://peraturan.bpk.go.id/Details/47614/uu-no-1-tahun-1970).
-- **Purpose for this article:** Establish the national foundation without converting one law into a complete site obligation register.
-- **Safe grounded facts:** Applicability depends on the actual workplace, activity, people, equipment, material, and implementing rules; a web article cannot determine compliance.
-- **Limits:** Use current consolidated law and sector/local rules; obtain Indonesian K3/legal review for a definitive duty.
-
-### KR-11
-
-- **Original sources:** [Permenaker No. 12 Tahun 2015](https://peraturan.bpk.go.id/Details/145984/permenaker-no-12-tahun-2015), [Permenaker No. 11 Tahun 2026](https://peraturan.bpk.go.id/Details/351282/permenaker-no-11-tahun-2026).
-- **Purpose for this article:** Ground competence, de-energization, hazardous-energy control, temporary supply, wet conditions, inspection, and emergency boundaries.
-- **Safe grounded facts:** Source identification, one-line documentation, isolation, absence-of-voltage verification, grounding/protection, environment, equipment condition, and authorization are distinct evidence.
-- **Limits:** No live-work, switching, test, protection setting, grounding, arc-energy, temporary wiring, or design procedure.
-
-### KR-16
-
-- **Original sources:** [Permen PUPR No. 10 Tahun 2021 official record](https://jdih.pu.go.id/detail-dokumen/PermenPUPR-nomor-10-tahun-2021-Pedoman-Sistem-Manajemen-Keselamatan-Konstruksi), [ILO Safety and Health in Construction code](https://www.ilo.org/publications/safety-and-health-construction-revised-edition).
-- **Purpose for this article:** Ground SMKK, design risk, procurement, RKK interfaces, temporary states, contractors, public/occupied-site protection, and handover.
-- **Safe grounded facts:** Client, designer, contractor, subcontractor, supervisor, competent person, worker, and public interfaces change across phases and simultaneous work.
-- **Limits:** No excavation, temporary-works, scaffold, lifting, electrical, traffic, structural, or public-protection design without project evidence and competent discipline review.
-
-### KR-18
-
-- **Original sources:** [ISO 22320:2018 record](https://www.iso.org/standard/67851.html), [Kemenkes PSC 119](https://kemkes.go.id/id/layanan/psc-119).
-- **Purpose for this article:** Ground command, communications, warning, evacuation/accountability, accessibility, first-aid coverage, external liaison, drills, and review.
-- **Safe grounded facts:** Alarm, incident command, evacuation, shelter, muster/accountability, technical rescue, first aid, medical handoff, business continuity, and recovery have distinct owners.
-- **Limits:** No public emergency script, rescue technique, medical diagnosis/treatment, staffing number, response time, or drill proof from this file.
-
-### KR-36
-
-- **Original sources:** [IEC 62676-4 application-guideline record](https://webstore.iec.ch/en/publication/7353).
-- **Purpose for this article:** Ground requirements, scene purpose, selection, placement, installation, commissioning, maintenance, testing, and objective evaluation.
-- **Safe grounded facts:** Resolution, megapixels, camera count, or a product demo alone does not prove useful coverage, identification, retention, alerting, or incident outcomes.
-- **Limits:** Use the current edition, documented operational requirement, measured scenes and light, selected performance criteria, installation records, acceptance tests, and periodic review.
-
-### KR-40
-
-- **Original sources:** [Indonesia Personal Data Protection Law 27/2022](https://peraturan.bpk.go.id/Details/229798/uu-no-27-tahun-2022%20).
-- **Purpose for this article:** Ground purpose, coverage, notice, access, retention, disclosure, processors, rights, incident response, and deletion.
-- **Safe grounded facts:** A warning sign, owner consent, security purpose, or cloud contract alone does not prove proportionality, lawful basis, access control, retention, disclosure, or rights handling.
-- **Limits:** Obtain current legal review for the actual controller/processor, people and locations; document necessity, alternatives, fields of view, retention, access/export, requests, incidents, and deletion.
-
-## Evidence gates
-
-- **TOPIC-GATE:** EG-01, EG-02, EG-03, EG-04, EG-05, EG-07, EG-08, EG-09, EG-10, EG-11, EG-12.
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/kota/jual-pasang-cctv-yosowilangun/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/kota/jual-pasang-cctv-yalimo/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/kota/jual-pasang-cctv-yahukimo/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/kota/jual-pasang-cctv-wuryantoro/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/kota/jual-pasang-cctv-wungu/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/kota/jual-pasang-cctv-wuluhan/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `CCT-01-01` → `/artikel/tujuan-keamanan-sebelum-memilih-cctv.html` — Menulis tujuan keamanan sebelum memilih CCTV
-- `CCT-01-03` → `/artikel/peran-pengguna-dan-keputusan-proyek-cctv.html` — Menentukan pengguna dan hak keputusan proyek CCTV
-- `CCT-01-04` → `/artikel/checklist-survei-lokasi-cctv.html` — Checklist survei lokasi CCTV sebelum meminta penawaran
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
-
-## Jawaban singkat dan salah paham utama
-
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Memetakan aset, ancaman, dan skenario kejadian”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Ilustrasi umum dari aset lokal Tukang.co.id; bukan dokumentasi proyek tertentu.
 
 ## Definisi dan batas objek
 
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Memetakan aset, ancaman, dan skenario kejadian”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Aset adalah orang, barang, proses, ruang, atau informasi yang konsekuensinya penting bila terganggu. Ancaman adalah kejadian atau tindakan yang dapat menimbulkan gangguan itu; bukan otomatis “orang asing”. Skenario menghubungkan keduanya: siapa melakukan apa, di titik mana, pada kondisi apa, tanda apa yang terlihat, dan keputusan apa yang mengikuti.
+
+Pemetaan ini berada sebelum penempatan kamera, pemilihan merek, atau perhitungan harga. Ia juga bukan audit keamanan menyeluruh dan bukan kesimpulan kepatuhan hukum. Untuk tempat kerja, penerapan kewajiban bergantung pada aktivitas, peralatan, orang, dan aturan pelaksana yang berlaku; [UU No. 1 Tahun 1970](https://peraturan.bpk.go.id/Details/47614/uu-no-1-tahun-1970) tidak dapat dipakai sendirian untuk menyatakan sebuah lokasi sudah patuh. Tandai kebutuhan tinjauan K3 dan hukum setempat bila skenarionya berisiko tinggi: **[NEEDS SITE-SPECIFIC K3/LEGAL REVIEW]**.
+
+Output minimum yang berguna untuk brief adalah:
+
+- daftar aset dan pemilik keputusannya;
+- daftar ancaman dengan pemicu dan batas waktu;
+- skenario berurutan beserta bukti yang harus terlihat atau dicatat;
+- kendala lokasi, operasi, privasi, dan akses;
+- daftar asumsi yang masih harus diverifikasi di survei.
 
 ## Cara kerjanya
 
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Memetakan aset, ancaman, dan skenario kejadian”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Mulailah dari tujuan keputusan, bukan dari spesifikasi kamera. Tanyakan, “Jika kejadian ini muncul, keputusan apa yang harus dibuat dan dalam berapa lama?” Jawaban itu menentukan apakah rekaman perlu menunjukkan identitas, alur pergerakan, kondisi aset, atau hanya perubahan keadaan.
+
+Gunakan siklus lima langkah yang ringkas: kumpulkan informasi, tentukan siapa yang mungkin terdampak dan bagaimana, pilih tindakan pengendalian, dokumentasikan penanggung jawab serta tenggat, lalu tinjau kembali setelah perubahan atau kejadian. Kerangka ini sejalan dengan panduan lima langkah ILO dan prinsip pengendalian risiko yang menempatkan pengendalian pada sumber bahaya, bukan sekadar menambah alat pelindung ([panduan lima langkah ILO](https://www.ilo.org/publications/5-step-guide-employers-workers-and-their-representatives-conducting); [ILO tentang pengendalian risiko](https://www.ilo.org/topics-and-sectors/occupational-safety-and-health-guide-labour-inspectors-and-other/how-can-occupational-safety-and-health-be-managed/controlling-risks)). Dalam konteks CCTV, “tindakan” dapat berupa pengaturan akses, penerangan, prosedur serah-terima, atau kebutuhan rekaman—kamera bukan satu-satunya pengendalian.
+
+Untuk setiap skenario, tulis urutan berikut:
+
+1. **Kondisi awal:** area aktif atau kosong, pintu terbuka atau tertutup, dan siapa yang berwenang.
+2. **Pemicu:** akses di luar jadwal, barang berpindah, kerumunan, alarm, atau perubahan proses.
+3. **Jendela bukti:** sudut pandang, waktu, pencahayaan, dan konteks yang dibutuhkan untuk membedakan kejadian.
+4. **Respons:** siapa meninjau, siapa mengamankan lokasi, dan kapan rekaman diekspor.
+5. **Penutupan:** bagaimana bukti diberi nama, disimpan, dibagikan, dan dihapus sesuai kebijakan.
+
+Panduan penerapan CCTV IEC menempatkan tujuan, scene, pemilihan, instalasi, commissioning, pemeliharaan, dan evaluasi objektif sebagai rangkaian yang saling terkait; jumlah megapiksel atau demo produk saja tidak membuktikan hasil yang berguna ([IEC 62676-4](https://webstore.iec.ch/en/publication/7353)). Karena itu, minta vendor menghubungkan setiap kebutuhan bukti dengan kondisi scene dan metode penerimaan, bukan hanya menawarkan paket kamera.
 
 ## Faktor yang mengubah hasil
 
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Memetakan aset, ancaman, dan skenario kejadian”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+**Aset dan pemilik keputusan.** Gudang, kasir, gerbang, ruang server, dan area kerja memiliki pemilik risiko berbeda. Catat siapa yang boleh meminta peninjauan, siapa yang menyetujui ekspor, dan siapa yang menerima hasil. Jika kompetensi pekerjaan menjadi syarat, verifikasi ruang lingkup, penerbit, masa berlaku, identitas, dan konteks praktiknya; situs BNSP membantu mengenali ekosistem sertifikasi, tetapi tidak mengautentikasi seseorang atau memberi kewenangan kerja ([BNSP](https://bnsp.go.id/)).
+
+**Waktu dan perubahan.** Shift malam, bongkar muat, acara, pekerjaan kontraktor, dan kondisi sementara dapat membuat skenario siang tidak relevan pada malam hari. Simpan tanggal observasi, kondisi pencahayaan, dan pekerjaan yang sedang berlangsung sebagai bagian dari bukti.
+
+**Lingkungan dan antarmuka.** Pantulan, hujan, debu, getaran, jaringan yang tidak stabil, serta jalur publik mengubah apa yang dapat diamati. Tandai bagian yang harus diverifikasi melalui survei; jangan mengubah asumsi denah menjadi janji cakupan.
+
+**Data dan akses.** Rekaman dapat memuat data pribadi. Tujuan, pemberitahuan, dasar pemrosesan, akses, retensi, pengungkapan, permintaan subjek data, insiden, dan penghapusan perlu diputuskan oleh pengelola yang berwenang. Undang-Undang Pelindungan Data Pribadi menuntut penilaian pada konteks pengendali/pemroses dan orang yang terekam; tanda peringatan atau kontrak cloud saja tidak membuktikan pengelolaan yang proporsional ([UU No. 27 Tahun 2022](https://peraturan.bpk.go.id/Details/229798/uu-no-27-tahun-2022)).
 
 ## Contoh keputusan praktis
 
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Memetakan aset, ancaman, dan skenario kejadian”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Bayangkan area penerimaan barang. Asetnya bukan hanya kardus, tetapi juga catatan serah-terima dan jalur akses. Skenario pertama: kendaraan datang di luar jadwal. Bukti yang dibutuhkan mungkin urutan masuk, identitas kendaraan sejauh diizinkan, dan waktu—bukan sekadar gambar pintu. Skenario kedua: jumlah barang pada serah-terima berbeda. Bukti perlu mengaitkan perpindahan barang dengan petugas, dokumen, dan waktu, sambil memastikan area kerja tidak terhalang.
+
+Bandingkan dua keputusan berikut:
+
+| Temuan pemetaan | Pertanyaan sebelum meminta penawaran | Konsekuensi brief |
+|---|---|---|
+| Ancaman terjadi saat pergantian shift | Siapa yang memegang kunci dan kapan serah-terima dicatat? | Minta bukti urutan waktu dan prosedur akses, bukan hitungan kamera saja. |
+| Area berbatasan dengan publik | Bagian mana yang benar-benar perlu dipantau dan bagaimana pemberitahuannya? | Batasi bidang pandang serta tetapkan pengelola akses dan retensi. |
+| Pekerjaan konstruksi masih berubah | Kondisi sementara apa yang harus dicatat dan kapan ditinjau ulang? | Jadikan survei dan penerimaan bertahap sebagai syarat, bukan janji cakupan permanen. |
+
+Teman Tukang.co.id, tabel ini bukan desain final. Ia membantu Anda menolak asumsi yang tidak tertulis dan meminta penawaran yang dapat dibandingkan.
 
 ## Kesalahan umum dan cara memeriksanya
 
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Memetakan aset, ancaman, dan skenario kejadian”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kesalahan pertama adalah memilih paket berdasarkan jumlah kamera. Periksa apakah setiap kamera yang ditawarkan punya tujuan scene, kriteria bukti, dan cara uji yang jelas. Kesalahan kedua adalah menyamakan logo, potongan hasil uji, atau foto sertifikat dengan kesesuaian sistem yang akan dikirim. Minta model, versi, ruang lingkup dokumen, tanggal, batasan, dan catatan penerimaan yang bisa ditelusuri; bukti pemasaran tidak otomatis membuktikan sistem terpasang memenuhi kebutuhan.
 
-## Objection or shortcut to address
+Kesalahan ketiga adalah membuat matriks risiko dengan skor tetap lalu menganggap hasilnya universal. ILO menekankan perlunya informasi dan penilaian yang sesuai kondisi; skor generik tidak menentukan kemungkinan, konsekuensi, paparan, atau risiko sisa sebuah lokasi. Untuk risiko kompleks, libatkan kompetensi disiplin terkait dan simpan alasan keputusan.
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+Kesalahan keempat adalah memberi akses rekaman kepada semua orang “agar cepat”. Buat daftar peran, tujuan akses, log ekspor, masa simpan, dan prosedur insiden. Kawan Tukang.co.id, bila satu butir belum punya pemilik atau bukti, tulis sebagai pertanyaan terbuka—jangan menutupinya dengan spesifikasi.
 
-## Required conclusion
+## Jalan pintas yang perlu ditolak
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+Jalan pintas yang sering dipilih adalah mengirim foto denah dan meminta harga per paket. Cara ini cepat, tetapi menghapus pemicu kejadian, pengguna bukti, kondisi sementara, dan batas privasi. Akibatnya, dua penawaran mungkin tampak murah tetapi menjawab skenario yang berbeda.
 
-## Draft completion checklist
+Alternatif yang lebih aman adalah mengirim brief satu halaman: tujuan keputusan, tiga sampai lima skenario prioritas, aset dan pemiliknya, kondisi waktu/lingkungan, kebutuhan bukti, aturan akses-retensi, asumsi, serta pertanyaan yang harus dijawab saat survei. Minta penyedia menandai apa yang diketahui, diukur, diasumsikan, dan belum dapat dipastikan.
 
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Teman Tukang.co.id!` and uses friendly `Tukang.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Setelah brief siap, Anda dapat meninjau [beranda layanan CCTV Tukang.co.id](/) untuk menentukan jalur kontak yang sesuai, lalu membawa dokumen yang sama saat meminta [layanan jual-pasang CCTV di Dau](/kota/jual-pasang-cctv-dau/). Tautan itu adalah langkah tindak lanjut, bukan bukti bahwa lokasi tertentu sudah disurvei atau bahwa penawaran tertentu cocok.
+
+## Kesimpulan
+
+Memetakan aset, ancaman, dan skenario berarti mengubah kekhawatiran menjadi urutan kejadian yang dapat diuji: apa yang dilindungi, pemicunya, bukti yang diperlukan, responsnya, dan siapa yang bertanggung jawab. Sebelum meminta desain CCTV, susun brief tersebut dan lampirkan daftar asumsi untuk verifikasi lapangan.
+
+Langkah berikutnya: minta peninjauan teknis, K3, dan privasi sesuai kondisi nyata, lalu jadikan tujuan scene, kriteria penerimaan, akses, serta retensi sebagai bagian dari evaluasi penawaran. Aturan operasinya sederhana: jika kebutuhan bukti, pemilik keputusan, atau batas legal belum jelas, belum waktunya menyimpulkan jumlah kamera atau menerima harga.

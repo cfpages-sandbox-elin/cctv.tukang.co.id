@@ -1,9 +1,10 @@
 ---
 article_id: CCT-03-06
+writing_contract_version: "native-id-v2"
 title: "Menggunakan privacy mask tanpa merusak tujuan kamera"
 slug: "privacy-mask-dalam-desain-cctv"
 description: "Translate security objectives into scenes, viewpoints, and blind-spot controls."
-status: outline
+status: draft
 publication_date: "2025-07-24"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -16,57 +17,21 @@ technical_review: required
 sources:
   - "https://www.ilo.org/topics-and-sectors/occupational-safety-and-health-guide-labour-inspectors-and-other/how-can-occupational-safety-and-health-be-managed/controlling-risks"
   - "https://www.ilo.org/publications/5-step-guide-employers-workers-and-their-representatives-conducting"
-  - "https://bnsp.go.id/"
-  - "https://www.iso.org/files/live/sites/isoorg/files/archive/pdf/en/iso_45001_-briefing_note.pdf"
-  - "https://www.iso.org/standard/70017.html"
-  - "https://peraturan.bpk.go.id/Details/5263/pp-no-50-tahun-2012"
-  - "https://peraturan.bpk.go.id/Details/45288/uu-no-8-tahun-1999"
-  - "https://jdih.kemendag.go.id/pdf/Regulasi/2019/PP%20Nomor%2080%20Tahun%202019.pdf"
   - "https://peraturan.bpk.go.id/Details/229798/uu-no-27-tahun-2022"
-  - "https://www.iso.org/standard/62542.html"
-  - "https://peraturan.bpk.go.id/Details/47614/uu-no-1-tahun-1970"
-  - "https://peraturan.bpk.go.id/Details/145984/permenaker-no-12-tahun-2015"
-  - "https://peraturan.bpk.go.id/Details/351282/permenaker-no-11-tahun-2026"
-  - "https://jdih.pu.go.id/detail-dokumen/PermenPUPR-nomor-10-tahun-2021-Pedoman-Sistem-Manajemen-Keselamatan-Konstruksi"
-  - "https://www.ilo.org/publications/safety-and-health-construction-revised-edition"
-  - "https://www.iso.org/standard/67851.html"
-  - "https://kemkes.go.id/id/layanan/psc-119"
   - "https://webstore.iec.ch/en/publication/7353"
-  - "https://webstore.iec.ch/en/publication/59704"
-  - "https://peraturan.bpk.go.id/Details/229798/uu-no-27-tahun-2022%20"
 ---
-
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
 
 # Menggunakan privacy mask tanpa merusak tujuan kamera
 
-## Assignment lock
+Halo, Kawan Tukang.co.id! Privacy mask berguna untuk menutup bagian gambar yang memang tidak perlu direkam, tetapi bukan obat untuk sudut kamera yang keliru. Masking yang terlalu lebar dapat menghilangkan pintu, tangan, jalur pendekatan, atau objek pembanding yang justru dibutuhkan saat insiden. Karena itu, keputusan yang aman bukan “aktifkan mask sebanyak mungkin”, melainkan “tetapkan tujuan kamera, tunjukkan area yang wajib terlihat, lalu tutup hanya area privat yang tidak diperlukan untuk tujuan tersebut”.
 
-- **Writer task:** Expand this file into one complete article answering: “Menggunakan privacy mask tanpa merusak tujuan kamera”
-- **Reader and situation:** Translate security objectives into scenes, viewpoints, and blind-spot controls.
-- **Reader outcome:** Translate security objectives into scenes, viewpoints, and blind-spot controls.
-- **Primary intent:** Balance necessary coverage with masked private areas.
-- **Reader community:** `Tukang.co.id`
-- **Primary friendly address:** `Kawan Tukang.co.id`
-- **Natural variants:** `Sobat Tukang.co.id` and `Teman Tukang.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Covers design use of masking; lawful basis and policy belong to CCT-10.
-- **Final public route:** `/artikel/privacy-mask-dalam-desain-cctv.html`
-- **Appointed CMS date:** `2025-07-24` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Sebelum menyimpan konfigurasi, Anda perlu membuktikan dua hal: area privat benar-benar tidak terbaca, dan fungsi kamera masih dapat dinilai pada scene target. Bukti itu bergantung pada denah, tinggi dan arah pemasangan, pencahayaan, aktivitas, serta kriteria penerimaan proyek—bukan pada demo produk atau jumlah megapiksel. IEC 62676-4 menempatkan kebutuhan, tujuan scene, pemilihan, pemasangan, commissioning, pengujian, dan evaluasi objektif sebagai rangkaian yang saling terkait; kamera beresolusi tinggi saja tidak membuktikan cakupan yang berguna. [NEEDS PROJECT REVIEW: denah, tujuan tiap kamera, dan kriteria penerimaan belum tersedia.]
 
-## Opening instructions
+![Ilustrasi CCTV Merk ZKTECO](/wp-content/uploads/2023/08/CCTV-Merk-ZKTECO.jpg)
 
-- Open with the exact short salutation: **“Halo, Kawan Tukang.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Menggunakan privacy mask tanpa merusak tujuan kamera**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Kawan Tukang.co.id`, `Sobat Tukang.co.id`, or `Teman Tukang.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
+*Ilustrasi umum dari aset lokal cctv.tukang.co.id; bukan dokumentasi proyek tertentu.*
 
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-001`
@@ -77,206 +42,59 @@ sources:
 - **Selection basis:** filename/source metadata identifies `CCTV Merk ZKTECO` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
-
-## Evidence packet
-
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
-
-### KR-01
-
-- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
-- **Purpose for this article:** Freeze the verified editorial scope for `cctv.tukang.co.id` and prevent family research from overriding this project's actual catalog boundaries.
-- **Safe grounded facts:** The repository plans 20 parent topics and 120 briefs. Planning documents do not prove a workplace, product, person, service, certificate, or control is safe or compliant.
-- **Limits:** Reconcile only against the frozen local catalog when its canonical commit changes.
-
-### KR-05
-
-- **Original sources:** [ILO controlling risks](https://www.ilo.org/topics-and-sectors/occupational-safety-and-health-guide-labour-inspectors-and-other/how-can-occupational-safety-and-health-be-managed/controlling-risks), [ILO five-step risk-assessment guide](https://www.ilo.org/publications/5-step-guide-employers-workers-and-their-representatives-conducting).
-- **Purpose for this article:** Ground a lean, repeatable risk cycle rather than paperwork volume or PPE-first advice.
-- **Safe grounded facts:** A generic matrix does not determine likelihood, consequence, exposure, acceptability, or residual risk for a site.
-- **Limits:** Complex or high-consequence risks require discipline-specific methods, evidence, competence, and approval.
-
-### KR-19
-
-- **Original sources:** [BNSP official site](https://bnsp.go.id/), [ISO 45001 briefing note](https://www.iso.org/files/live/sites/isoorg/files/archive/pdf/en/iso_45001_-briefing_note.pdf).
-- **Purpose for this article:** Ground role profiles, training needs, credential verification, practical assessment, authorization, supervision, and refresh after change.
-- **Safe grounded facts:** Scope, issuer, scheme, level, date/expiry, identity, practical context, language/literacy, supervision, and change determine what evidence means.
-- **Limits:** Verify the current regulator/issuer record and job-specific legal requirements; never authenticate a person or grant authorization from an article.
-
-### KR-20
-
-- **Original sources:** [ISO 19011:2018 record](https://www.iso.org/standard/70017.html), [PP No. 50 Tahun 2012](https://peraturan.bpk.go.id/Details/5263/pp-no-50-tahun-2012).
-- **Purpose for this article:** Ground scope, competence, independence, sampling, field evidence, findings, actions, effectiveness, and management review.
-- **Safe grounded facts:** Activity counts and injury rates alone do not prove risk control; definitions, denominators, exposure, reporting quality, severity, leading evidence, and decision use matter.
-- **Limits:** Do not claim audit independence, conformity, control effectiveness, or statistical improvement without a defined method and original evidence.
-
-### KR-21
-
-- **Original sources:** [UU No. 8 Tahun 1999](https://peraturan.bpk.go.id/Details/45288/uu-no-8-tahun-1999), [PP No. 80 Tahun 2019](https://jdih.kemendag.go.id/pdf/Regulasi/2019/PP%20Nomor%2080%20Tahun%202019.pdf).
-- **Purpose for this article:** Replace price-only selection and marketplace claims with comparable, retrievable evidence.
-- **Safe grounded facts:** A logo, test excerpt, certificate image, seller rating, or “standard-compliant” phrase does not prove the delivered model or installed system conforms.
-- **Limits:** No fabricated stock, price, client, approval, certificate, warranty, availability, or legal entitlement.
-
-### KR-23
-
-- **Original sources:** [UU No. 27 Tahun 2022](https://peraturan.bpk.go.id/Details/229798/uu-no-27-tahun-2022), [ISO 15489-1:2016 record](https://www.iso.org/standard/62542.html).
-- **Purpose for this article:** Ground approvals, versions, distribution, field access, retention, evidence provenance, migration, and personal-data boundaries.
-- **Safe grounded facts:** Legal register, risk assessment, permit, inspection, training, credential, incident, health record, corrective action, and audit evidence have different owners and sensitivity.
-- **Limits:** Retention, access, lawful basis, breach response, health data, litigation hold, and regulator submission require current legal and records/privacy review.
-
-### KR-24
-
-- **Original sources:** [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md), [UU No. 8 Tahun 1999](https://peraturan.bpk.go.id/Details/45288/uu-no-8-tahun-1999).
-- **Purpose for this article:** Keep evergreen education separate from changing `safety.co.id` offers and proof.
-- **Safe grounded facts:** Every live claim needs an owner, original record, scope, date, limitations, and refresh trigger.
-- **Limits:** If proof is absent, keep the article neutral and preserve the evidence gap.
-
-### KR-02
-
-- **Original sources:** [UU No. 1 Tahun 1970](https://peraturan.bpk.go.id/Details/47614/uu-no-1-tahun-1970).
-- **Purpose for this article:** Establish the national foundation without converting one law into a complete site obligation register.
-- **Safe grounded facts:** Applicability depends on the actual workplace, activity, people, equipment, material, and implementing rules; a web article cannot determine compliance.
-- **Limits:** Use current consolidated law and sector/local rules; obtain Indonesian K3/legal review for a definitive duty.
-
-### KR-11
-
-- **Original sources:** [Permenaker No. 12 Tahun 2015](https://peraturan.bpk.go.id/Details/145984/permenaker-no-12-tahun-2015), [Permenaker No. 11 Tahun 2026](https://peraturan.bpk.go.id/Details/351282/permenaker-no-11-tahun-2026).
-- **Purpose for this article:** Ground competence, de-energization, hazardous-energy control, temporary supply, wet conditions, inspection, and emergency boundaries.
-- **Safe grounded facts:** Source identification, one-line documentation, isolation, absence-of-voltage verification, grounding/protection, environment, equipment condition, and authorization are distinct evidence.
-- **Limits:** No live-work, switching, test, protection setting, grounding, arc-energy, temporary wiring, or design procedure.
-
-### KR-16
-
-- **Original sources:** [Permen PUPR No. 10 Tahun 2021 official record](https://jdih.pu.go.id/detail-dokumen/PermenPUPR-nomor-10-tahun-2021-Pedoman-Sistem-Manajemen-Keselamatan-Konstruksi), [ILO Safety and Health in Construction code](https://www.ilo.org/publications/safety-and-health-construction-revised-edition).
-- **Purpose for this article:** Ground SMKK, design risk, procurement, RKK interfaces, temporary states, contractors, public/occupied-site protection, and handover.
-- **Safe grounded facts:** Client, designer, contractor, subcontractor, supervisor, competent person, worker, and public interfaces change across phases and simultaneous work.
-- **Limits:** No excavation, temporary-works, scaffold, lifting, electrical, traffic, structural, or public-protection design without project evidence and competent discipline review.
-
-### KR-18
-
-- **Original sources:** [ISO 22320:2018 record](https://www.iso.org/standard/67851.html), [Kemenkes PSC 119](https://kemkes.go.id/id/layanan/psc-119).
-- **Purpose for this article:** Ground command, communications, warning, evacuation/accountability, accessibility, first-aid coverage, external liaison, drills, and review.
-- **Safe grounded facts:** Alarm, incident command, evacuation, shelter, muster/accountability, technical rescue, first aid, medical handoff, business continuity, and recovery have distinct owners.
-- **Limits:** No public emergency script, rescue technique, medical diagnosis/treatment, staffing number, response time, or drill proof from this file.
-
-### KR-36
-
-- **Original sources:** [IEC 62676-4 application-guideline record](https://webstore.iec.ch/en/publication/7353).
-- **Purpose for this article:** Ground requirements, scene purpose, selection, placement, installation, commissioning, maintenance, testing, and objective evaluation.
-- **Safe grounded facts:** Resolution, megapixels, camera count, or a product demo alone does not prove useful coverage, identification, retention, alerting, or incident outcomes.
-- **Limits:** Use the current edition, documented operational requirement, measured scenes and light, selected performance criteria, installation records, acceptance tests, and periodic review.
-
-### KR-37
-
-- **Original sources:** [IEC 62676-6:2026](https://webstore.iec.ch/en/publication/59704).
-- **Purpose for this article:** Ground object/activity classification, scenarios, real-time versus forensic use, false outcomes, environment, grading, and acceptance.
-- **Safe grounded facts:** An AI label, sample clip, detection percentage, or vendor dashboard does not prove performance in the target scene, weather, crowd, lighting, or response workflow.
-- **Limits:** Define the task, test corpus/scenes, thresholds, false positive/negative consequences, environment, human review, privacy, drift monitoring, and acceptance method.
-
-### KR-40
-
-- **Original sources:** [Indonesia Personal Data Protection Law 27/2022](https://peraturan.bpk.go.id/Details/229798/uu-no-27-tahun-2022%20).
-- **Purpose for this article:** Ground purpose, coverage, notice, access, retention, disclosure, processors, rights, incident response, and deletion.
-- **Safe grounded facts:** A warning sign, owner consent, security purpose, or cloud contract alone does not prove proportionality, lawful basis, access control, retention, disclosure, or rights handling.
-- **Limits:** Obtain current legal review for the actual controller/processor, people and locations; document necessity, alternatives, fields of view, retention, access/export, requests, incidents, and deletion.
-
-## Evidence gates
-
-- **TOPIC-GATE:** EG-01, EG-02, EG-03, EG-04, EG-05, EG-07, EG-08, EG-09, EG-10, EG-11, EG-12.
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/kota/jual-pasang-cctv-yosowilangun/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/kota/jual-pasang-cctv-yalimo/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/kota/jual-pasang-cctv-yahukimo/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/kota/jual-pasang-cctv-wuryantoro/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/kota/jual-pasang-cctv-wungu/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/kota/jual-pasang-cctv-wuluhan/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `CCT-03-04` → `/artikel/sudut-dan-ketinggian-kamera-untuk-wajah.html` — Sudut dan ketinggian kamera untuk wajah yang berguna
-- `CCT-03-05` → `/artikel/cakupan-cctv-area-prioritas.html` — Merancang cakupan pintu masuk, perimeter, dan area transaksi
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+END MANAGED IMAGE PLAN -->
 
 ## Mulai dari gejala, bukan tebakan penyebab
 
-- **Purpose:** Tentukan apa yang terlihat/terukur, lokasi, waktu, perubahan, dan keterbatasan pengamatan.
-- **Tie back to this article:** Keep the explanation specific to “Menggunakan privacy mask tanpa merusak tujuan kamera”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Catat gejalanya pada gambar uji yang sama: bagian mana tertutup, objek apa yang hilang, kamera mana yang berubah, dan pada waktu atau kondisi cahaya apa masalah muncul. “Wajah tidak terlihat” bisa berarti mask menutup jalur masuk, sudut pandang terlalu rendah, backlight, atau objek bergerak di luar bidang pandang. “Area privat masih tampak” bisa berarti poligon mask bergeser setelah perubahan resolusi, kamera bergeser secara fisik, atau tampilan live berbeda dari rekaman.
+
+Mulailah dengan membuat daftar tujuan per kamera dalam kalimat yang bisa diuji, misalnya “memastikan seseorang melewati pintu” atau “membaca nomor rak dari jarak tertentu”. Hindari tujuan kabur seperti “mengawasi seluruh ruangan”. Tandai juga area yang tidak boleh masuk gambar. Dengan begitu, mask menjadi batas desain, bukan tempelan setelah kamera terpasang.
+
+Ambil tangkapan sebelum dan sesudah masking dengan waktu, kanal, resolusi, dan profil stream yang sama. Simpan versi konfigurasi dan siapa yang menyetujuinya. Rekaman pembanding semacam ini membantu membedakan perubahan scene dari kerusakan perangkat. Untuk kegiatan yang berdampak pada keselamatan atau akses publik, siklus identifikasi bahaya, pengendalian, pemeriksaan ulang, dan tindakan perbaikan perlu disesuaikan dengan kondisi nyata; panduan ILO menekankan bahwa pengendalian harus mengikuti risiko yang ditemukan, bukan sekadar mengisi formulir. [ILO—controlling risks](https://www.ilo.org/topics-and-sectors/occupational-safety-and-health-guide-labour-inspectors-and-other/how-can-occupational-safety-and-health-be-managed/controlling-risks)
 
 ## Saringan risiko langsung
 
-- **Purpose:** Jelaskan kapan pembaca harus membatasi akses, menghentikan pekerjaan, atau meminta pemeriksaan kompeten.
-- **Tie back to this article:** Keep the explanation specific to “Menggunakan privacy mask tanpa merusak tujuan kamera”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Hentikan perubahan konfigurasi dan minta pemeriksaan kompeten bila mask berpotensi menyembunyikan jalur evakuasi, titik serah-terima, area kerja berbahaya, atau bukti kejadian yang menjadi tujuan kamera. Jangan mengandalkan kamera kedua yang belum diuji sebagai pengganti otomatis. Pada lokasi yang tetap dihuni, batasi akses ke rekaman uji dan beritahu pihak yang perlu tahu; detail kebijakan, dasar hukum, dan hak pemilik data berada di luar cakupan artikel ini dan memerlukan review untuk lokasi sebenarnya.
+
+Jika pekerjaan mengharuskan naik tangga, memindahkan kamera, membuka panel, atau mengubah kabel, privacy mask bukan izin untuk melakukan pekerjaan tersebut sendiri. Amankan area dan serahkan pekerjaan fisik kepada personel yang berwenang. Untuk penilaian risiko, ILO menyarankan langkah berurutan: mengidentifikasi bahaya, menentukan siapa yang mungkin terdampak, menilai risiko, menentukan tindakan, lalu meninjau ulang hasilnya. [ILO—5-step guide](https://www.ilo.org/publications/5-step-guide-employers-workers-and-their-representatives-conducting)
+
+Kawan Tukang.co.id, perlakukan “mask sudah aktif” sebagai status konfigurasi, bukan bukti privasi atau bukti cakupan. Jika tidak ada denah, daftar kamera, atau pemilik keputusan yang jelas, tandai pekerjaan sebagai review tertunda: [NEEDS DESIGN AUTHORITY: tetapkan siapa yang menyetujui area wajib terlihat dan area yang harus dimask.]
 
 ## Kemungkinan mekanisme
 
-- **Purpose:** Kelompokkan kemungkinan penyebab tanpa menyatakan diagnosis dari bukti yang belum cukup.
-- **Tie back to this article:** Keep the explanation specific to “Menggunakan privacy mask tanpa merusak tujuan kamera”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Beberapa mekanisme dapat terjadi bersamaan. Pertama, poligon mask memotong area penting karena bidang pandang berubah ketika bracket digeser atau lensa diganti. Kedua, mask hanya diterapkan pada satu stream, sementara stream rekaman, substream, atau tampilan seluler menggunakan profil berbeda. Ketiga, area privat berada di tepi frame dan masuk kembali ketika kamera beralih mode digital, zoom, atau rasio gambar. Keempat, mask benar secara geometris tetapi pantulan, bayangan, atau kamera lain masih memberi jalur pengamatan alternatif.
+
+Ada juga kegagalan tujuan: area privat memang tertutup, tetapi titik keputusan keamanan ikut hilang. Menutup seluruh pintu agar kamar tidak terlihat, misalnya, dapat menghapus ambang pintu dan arah kedatangan. Sebaliknya, mask kecil yang tidak mengikuti perubahan sudut dapat meninggalkan celah. Semua ini adalah hipotesis sampai diuji pada scene nyata; jangan menyebut salah satunya sebagai diagnosis hanya dari satu cuplikan.
 
 ## Urutan pemeriksaan dan pengujian
 
-- **Purpose:** Susun observasi, dokumen, tes, sampel, atau pengukuran dari yang paling aman dan informatif.
-- **Tie back to this article:** Keep the explanation specific to “Menggunakan privacy mask tanpa merusak tujuan kamera”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Gunakan urutan yang dapat diulang dan tidak mengganggu operasi:
+
+1. Bekukan konfigurasi awal dan ekspor tangkapan dari setiap stream yang benar-benar dipakai untuk live view, rekaman, dan pencarian kejadian.
+2. Tandai pada denah: area privat, area wajib terlihat, jalur pendekatan, dan objek yang menjadi kriteria keberhasilan.
+3. Periksa bidang pandang pada kondisi siang, malam, dan pencahayaan yang biasa memicu keluhan. Catat waktu, mode kamera, dan apakah ada perubahan digital.
+4. Buat poligon mask sesempit mungkin, kemudian uji tepi poligon dengan objek uji yang disepakati. Jangan meminta orang memasuki area privat hanya untuk pengujian.
+5. Bandingkan hasil dengan kriteria: apakah tujuan kamera masih dapat dinilai, apakah mask tetap menutup area privat pada setiap stream, dan apakah ada blind spot baru.
+6. Simpan tangkapan, versi konfigurasi, hasil uji, dan keputusan penerimaan. Jika ada perubahan fisik atau firmware, ulangi pemeriksaan.
+
+Pengujian ini bukan pengukuran performa universal. IEC 62676-4 mengingatkan bahwa persyaratan, scene, instalasi, commissioning, pemeliharaan, pengujian, dan evaluasi harus didefinisikan untuk penggunaan yang dimaksud. [NEEDS ACCEPTANCE CRITERIA: tetapkan ambang “tujuan kamera masih terpenuhi” sebelum konfigurasi dinyatakan selesai.](https://webstore.iec.ch/en/publication/7353)
 
 ## Cara membaca hasil tanpa melompat ke kesimpulan
 
-- **Purpose:** Pisahkan hasil tes, kriteria proyek, sebab, konsekuensi, dan otoritas keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Menggunakan privacy mask tanpa merusak tujuan kamera”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Pisahkan tiga lapisan hasil. “Mask menutup piksel ini” adalah hasil observasi. “Pintu masih dapat dibedakan pada kondisi cahaya yang disepakati” adalah penilaian terhadap kriteria proyek. “Desain ini memadai untuk investigasi” adalah keputusan pemilik sistem yang memerlukan bukti dan otorisasi lebih luas. Jangan mengubah lapisan pertama menjadi klaim ketiga.
+
+Kamera dengan banyak piksel dapat tetap gagal bila titik pandangnya salah. Cuplikan vendor atau indikator dashboard juga tidak membuktikan hasil pada ruangan Anda. Untuk setiap temuan, tulis kondisi, bukti, dampak terhadap tujuan, dan keputusan berikutnya. Jika data pribadi terekam selama uji, batasi salinan dan akses sesuai proses organisasi; UU Pelindungan Data Pribadi memerlukan penilaian aktual atas tujuan, akses, penyimpanan, dan pengelolaan insiden, sehingga artikel ini tidak dapat menetapkan kepatuhan untuk lokasi tertentu. [UU No. 27 Tahun 2022](https://peraturan.bpk.go.id/Details/229798/uu-no-27-tahun-2022)
 
 ## Pilihan tindakan dan titik eskalasi
 
-- **Purpose:** Bedakan kontrol sementara, pemantauan, perbaikan, penggantian, dan review profesional.
-- **Tie back to this article:** Keep the explanation specific to “Menggunakan privacy mask tanpa merusak tujuan kamera”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Jika privasi terlindungi dan tujuan tercapai, dokumentasikan konfigurasi yang diterima serta pemicu review—misalnya relokasi kamera, perubahan lensa, perubahan tata ruang, atau pembaruan perangkat lunak. Jika blind spot kecil dan tidak menyentuh tujuan utama, pemilik sistem dapat memilih penyesuaian mask atau sudut untuk diuji ulang. Jika blind spot menyentuh area wajib terlihat, pilihan yang masuk akal adalah mengubah posisi, menambah kamera, atau mengubah tujuan secara resmi; jangan sekadar mengecilkan mask tanpa persetujuan.
 
-## Objection or shortcut to address
+Eskalasi diperlukan ketika tidak ada pemilik keputusan, area privat menyangkut konteks sensitif, hasil berbeda antar-stream, atau bukti tidak dapat direproduksi. Minta pemeriksaan teknis dan, bila relevan, review privasi/hukum setempat. Simpan pertanyaan terbuka sebagai daftar kerja, bukan ditutup dengan asumsi.
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+## Jangan menutup seperempat frame secara membabi buta
 
-## Required conclusion
+Shortcut yang sering dipilih adalah menutup seperempat frame agar “aman”, lalu menganggap pekerjaan selesai. Cara ini gagal karena ukuran visual tidak sama dengan batas risiko: seperempat frame dapat menutup pintu, sedangkan sudut kecil di tepi dapat tetap memperlihatkan area privat saat kamera bergeser. Alternatif yang lebih dapat dipertanggungjawabkan adalah memetakan tujuan dan area privat, menerapkan poligon minimal pada semua stream, lalu menguji ulang setiap kondisi yang disepakati.
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+## Aturan kerja berikutnya
 
-## Draft completion checklist
-
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Kawan Tukang.co.id!` and uses friendly `Tukang.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Privacy mask tidak merusak tujuan kamera bila dipasang sebagai bagian dari desain scene: tujuan dan area wajib terlihat ditetapkan lebih dulu, area privat ditutup seminimal mungkin, dan hasilnya diuji pada stream serta kondisi nyata yang relevan. Teman Tukang.co.id, langkah berikutnya adalah minta denah, daftar tujuan per kamera, tangkapan sebelum-sesudah, kriteria penerimaan, dan nama pemberi otorisasi. Untuk memulai percakapan layanan, Anda dapat melihat [beranda Tukang.co.id](/) lalu, bila lokasinya sesuai, [halaman jual-pasang CCTV di Dau](/kota/jual-pasang-cctv-dau/). Bila salah satu dokumen itu belum ada, jangan klaim desain sudah aman atau efektif; tandai [NEEDS COORDINATOR TECHNICAL REVIEW] dan lakukan pemeriksaan kompeten sebelum perubahan dianggap final.

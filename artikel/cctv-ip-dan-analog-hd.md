@@ -2,8 +2,9 @@
 article_id: CCT-02-01
 title: "CCTV IP dan analog HD: perbedaan arsitektur"
 slug: "cctv-ip-dan-analog-hd"
-description: "Understand camera families, recorder relationships, and the specification language needed to shortlist a system."
-status: outline
+description: "Memahami keluarga kamera, hubungan recorder, dan istilah spesifikasi untuk menyaring pilihan sistem."
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2025-06-07"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -14,59 +15,88 @@ reader_address: "Sobat Tukang.co.id"
 final_route: "/artikel/cctv-ip-dan-analog-hd.html"
 technical_review: required
 sources:
-  - "https://www.ilo.org/topics-and-sectors/occupational-safety-and-health-guide-labour-inspectors-and-other/how-can-occupational-safety-and-health-be-managed/controlling-risks"
-  - "https://www.ilo.org/publications/5-step-guide-employers-workers-and-their-representatives-conducting"
-  - "https://bnsp.go.id/"
-  - "https://www.iso.org/files/live/sites/isoorg/files/archive/pdf/en/iso_45001_-briefing_note.pdf"
-  - "https://www.iso.org/standard/70017.html"
-  - "https://peraturan.bpk.go.id/Details/5263/pp-no-50-tahun-2012"
   - "https://peraturan.bpk.go.id/Details/45288/uu-no-8-tahun-1999"
-  - "https://jdih.kemendag.go.id/pdf/Regulasi/2019/PP%20Nomor%2080%20Tahun%202019.pdf"
   - "https://peraturan.bpk.go.id/Details/229798/uu-no-27-tahun-2022"
-  - "https://www.iso.org/standard/62542.html"
-  - "https://peraturan.bpk.go.id/Details/47614/uu-no-1-tahun-1970"
-  - "https://peraturan.bpk.go.id/Details/145984/permenaker-no-12-tahun-2015"
-  - "https://peraturan.bpk.go.id/Details/351282/permenaker-no-11-tahun-2026"
-  - "https://jdih.pu.go.id/detail-dokumen/PermenPUPR-nomor-10-tahun-2021-Pedoman-Sistem-Manajemen-Keselamatan-Konstruksi"
-  - "https://www.ilo.org/publications/safety-and-health-construction-revised-edition"
-  - "https://www.iso.org/standard/67851.html"
-  - "https://kemkes.go.id/id/layanan/psc-119"
   - "https://webstore.iec.ch/en/publication/7353"
   - "https://www.onvif.org/profiles/profile-t/"
   - "https://www.onvif.org/"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
-
 # CCTV IP dan analog HD: perbedaan arsitektur
 
-## Assignment lock
+Halo, Sobat Tukang.co.id! Kalau Anda sedang memilih CCTV IP atau analog HD, perbedaan terpenting bukan label resolusinya, melainkan arsitektur jalur videonya. CCTV IP mengirim data sebagai lalu lintas jaringan dari kamera ke switch atau jaringan lain, lalu ke network video recorder (NVR). Analog HD mengirim sinyal video melalui kabel koaksial ke digital video recorder (DVR); daya dan jalur data biasanya dirancang sebagai bagian terpisah atau melalui perangkat pendukung.
 
-- **Writer task:** Expand this file into one complete article answering: “CCTV IP dan analog HD: perbedaan arsitektur”
-- **Reader and situation:** Understand camera families, recorder relationships, and the specification language needed to shortlist a system.
-- **Reader outcome:** Understand camera families, recorder relationships, and the specification language needed to shortlist a system.
-- **Primary intent:** Understand the architectural choice between network and coaxial video systems.
-- **Reader community:** `Tukang.co.id`
-- **Primary friendly address:** `Sobat Tukang.co.id`
-- **Natural variants:** `Kawan Tukang.co.id` and `Teman Tukang.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Explains system families; excludes brand rankings and exact model recommendations.
-- **Final public route:** `/artikel/cctv-ip-dan-analog-hd.html`
-- **Appointed CMS date:** `2025-06-07` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Keduanya dapat dipakai untuk pemantauan, tetapi keputusan berubah menurut kabel yang sudah tersedia, jarak, kebutuhan integrasi jaringan, kondisi cahaya, tata letak, dan cara rekaman akan ditinjau. Jangan menyimpulkan dari megapiksel atau demo satu kamera saja. Pedoman aplikasi CCTV IEC menekankan bahwa tujuan adegan, penempatan, instalasi, pengujian penerimaan, dan evaluasi berkala harus ditetapkan sebelum kinerja dianggap berguna ([IEC 62676-4](https://webstore.iec.ch/en/publication/7353)).
 
-## Opening instructions
-
-- Open with the exact short salutation: **“Halo, Sobat Tukang.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **CCTV IP dan analog HD: perbedaan arsitektur**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Sobat Tukang.co.id`, `Kawan Tukang.co.id`, or `Teman Tukang.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
+![Ilustrasi CCTV Merk ZKTECO](/wp-content/uploads/2023/08/CCTV-Merk-ZKTECO.jpg)
 
 
-<!-- BEGIN MANAGED IMAGE PLAN -->
+*Aset lokal situs; gambar ini bukan dokumentasi proyek tertentu.*
+
+## Masalah keputusan yang sebenarnya
+
+Orang sering membandingkan kamera IP dengan kamera analog HD seolah-olah hanya berbeda merek atau ketajaman gambar. Padahal yang berubah adalah tempat pemrosesan, jenis kabel, perangkat perekam, dan pekerjaan konfigurasi. Pada sistem IP, alamat jaringan, switch, bandwidth, dan keamanan akses ikut menjadi bagian dari rancangan. Pada sistem analog HD, DVR, kabel koaksial, konektor, dan jalur daya menjadi perhatian utama.
+
+Pertanyaan awal yang lebih berguna adalah: apakah proyek mempertahankan kabel koaksial yang masih layak, atau memang membutuhkan jaringan data baru untuk kamera, akses, dan analitik? Jawaban itu menghindarkan Anda dari membeli kamera yang tidak cocok dengan recorder. Untuk lokasi yang sedang beroperasi, metode pemasangan dan gangguan pekerjaan juga perlu disepakati sebelum memilih keluarga sistem.
+
+## Bedakan objek sebelum membandingkan
+
+Kamera IP memiliki antarmuka jaringan. Kamera menghasilkan aliran video digital, kemudian NVR atau perangkat lunak menerima, menyimpan, dan menayangkannya. Switch jaringan dapat menghubungkan beberapa kamera, sedangkan pengaturan alamat, segmentasi, autentikasi, dan pembaruan perangkat lunak menjadi bagian dari pengelolaan.
+
+Kamera analog HD menghasilkan sinyal video yang dirancang untuk media koaksial dan diterima DVR. DVR mengubah sinyal tersebut menjadi data rekaman. Jarak, mutu kabel, terminasi, dan catu daya sangat menentukan stabilitas jalur. Adaptor atau pengubah media dapat membuat sistem tampak fleksibel, tetapi tidak otomatis mengubah seluruh arsitekturnya menjadi IP.
+
+Istilah “hybrid” biasanya berarti recorder menerima lebih dari satu jenis masukan. Itu bukan jaminan semua fitur kamera akan tersedia. Saat sebuah penawaran menyebut ONVIF, periksa profil, peran perangkat, firmware, dan alur yang benar-benar diuji. ONVIF Profile T mencakup fungsi streaming dan fitur terkait, tetapi panduan konformansi ONVIF sendiri mengingatkan bahwa logo atau kotak centang protokol tidak membuktikan seluruh fitur opsional, kompatibilitas recorder, atau dukungan sepanjang siklus hidup ([Profile T](https://www.onvif.org/profiles/profile-t/); [panduan ONVIF](https://www.onvif.org/)).
+
+## Kriteria perbandingan yang relevan
+
+Bandingkan sistem pada enam lapisan berikut, bukan pada satu angka di brosur.
+
+1. **Media dan topologi.** Catat jenis kabel, jalur cadangan, panjang lintasan, titik terminasi, dan ruang untuk switch atau DVR/NVR. Denah aktual lebih bernilai daripada asumsi jarak.
+2. **Perekam dan kapasitas kerja.** Minta daftar jumlah kanal, format stream, penyimpanan, ekspor bukti, dan cara pemulihan saat perangkat gagal. Kapasitas harus dihitung dari kebutuhan adegan dan masa simpan yang disetujui, bukan dari angka promosi.
+3. **Kebutuhan adegan.** Tulis apakah kamera dipakai untuk mendeteksi gerak, mengenali orang, membaca nomor, atau sekadar mengawasi area. IEC 62676-4 menempatkan tujuan operasional dan evaluasi objektif sebagai dasar pemilihan, sehingga kamera beresolusi tinggi tetap bisa gagal bila sudut, cahaya, atau fokus tidak sesuai.
+4. **Operasi dan akses.** Tentukan siapa yang melihat langsung, mengekspor rekaman, mengubah konfigurasi, dan menerima alarm. Pisahkan akun operator dari akun pemeliharaan serta catat perubahan.
+5. **Pemeliharaan.** Untuk IP, masukkan inventaris alamat, versi firmware, sertifikat, dan ketergantungan switch. Untuk analog HD, masukkan pemeriksaan konektor, kabel, catu daya, dan kanal DVR. Keduanya membutuhkan pengujian ulang setelah perubahan.
+6. **Bukti dan privasi.** Minta lembar spesifikasi model yang tepat, hasil uji alur kamera–recorder, denah cakupan, berita acara penerimaan, dan aturan akses. Rekaman dapat memuat data pribadi; penggunaan, akses, dan masa simpan harus ditinjau menurut konteks pemrosesan dan [UU Pelindungan Data Pribadi](https://peraturan.bpk.go.id/Details/229798/uu-no-27-tahun-2022). Klaim penjual juga perlu dapat ditelusuri; hak konsumen tidak mengubah kebutuhan untuk memeriksa barang dan konfigurasi yang benar-benar dikirim ([UU Perlindungan Konsumen](https://peraturan.bpk.go.id/Details/45288/uu-no-8-tahun-1999)).
+
+## Kapan masing-masing pilihan masuk akal
+
+IP masuk akal ketika lokasi memiliki jaringan yang dikelola dengan baik, kamera perlu ditempatkan di banyak titik, atau ada kebutuhan integrasi dengan sistem lain. Anda perlu memastikan switch, daya, jalur jaringan, dan kebijakan keamanan sanggup mendukung beban tersebut. Jika jaringan akan dipakai bersama layanan penting, mintalah desain segmentasi dan uji pemulihan dari pihak yang kompeten.
+
+Analog HD masuk akal ketika kabel koaksial yang ada masih terpetakan dan dapat diuji, perubahan fisik harus diminimalkan, serta kebutuhan integrasi jaringan sederhana. Keuntungannya dapat hilang bila kabel tidak terdokumentasi, banyak sambungan, atau DVR yang dipilih tidak mendukung format kamera yang direncanakan.
+
+Teman Tukang.co.id, sistem campuran bisa menjadi jembatan saat perlu mengganti sebagian kamera. Perlakukan setiap kanal sebagai kombinasi kamera, media, daya, dan recorder yang harus diuji. [NEEDS PROJECT EVIDENCE: kondisi kabel, jarak lintasan, kebutuhan retensi, dan model recorder belum ditetapkan; jangan menyimpulkan pilihan final.]
+
+## Kesalahan perbandingan yang sering terjadi
+
+Pertama, memilih dari megapiksel tertinggi. Angka itu tidak menjelaskan cahaya, lensa, sudut pandang, kompresi, atau hasil identifikasi pada adegan yang sebenarnya. Kedua, menganggap semua perangkat berlabel ONVIF pasti plug-and-play. Profil dan fitur wajib/bersyarat harus dicocokkan pada model dan firmware yang sama, lalu diuji pada alur yang akan dipakai.
+
+Ketiga, menghitung kamera tanpa menghitung recorder, penyimpanan, dan ekspor bukti. Sistem dapat merekam, tetapi gagal saat operator mencari kejadian atau saat penyimpanan penuh. Keempat, memakai password bawaan dan membuka akses jarak jauh tanpa pemilik, batas hak akses, dan rencana pembaruan. Kelima, mengira mengganti DVR dengan NVR otomatis menyelesaikan masalah kabel; media fisik dan perangkat antara tetap menentukan.
+
+## Bukti yang perlu diminta sebelum memilih
+
+Sebelum menyetujui penawaran, minta satu paket yang bisa diperiksa bersama:
+
+- denah titik kamera, tujuan setiap adegan, kondisi cahaya, dan jalur kabel;
+- daftar model kamera, DVR/NVR, switch, catu daya, media penyimpanan, serta versi firmware;
+- diagram arsitektur yang menunjukkan aliran video, daya, jaringan, dan titik akses;
+- matriks kompatibilitas untuk fitur yang benar-benar diperlukan, termasuk profil ONVIF bila dipakai;
+- hasil uji sampel pada adegan siang dan malam, pencarian rekaman, ekspor, pemutaran, dan pemulihan gangguan;
+- aturan akun, akses, retensi, penghapusan, serta penanggung jawab persetujuan privasi;
+- berita acara penerimaan, daftar konfigurasi akhir, dan rencana pemeliharaan.
+
+Kawan Tukang.co.id, minta pihak pemasang menandatangani batas tanggung jawabnya: apa yang diuji, pada kondisi apa, dan apa yang belum dapat dibuktikan. Tanpa itu, “kompatibel” hanya menjadi pendapat penjual, bukan bukti sistem terpasang.
+
+## Jalan pintas yang tampak hemat
+
+Jalan pintas yang sering dipilih adalah memakai recorder lama lalu membeli kamera baru dengan spesifikasi tertinggi. Cara ini mungkin menghemat pembelian awal, tetapi konektor, format sinyal, bandwidth, daya, atau fitur pencarian dapat tidak cocok. Alternatif yang lebih aman adalah menguji satu jalur lengkap—kamera, kabel atau switch, recorder, penyimpanan, dan aplikasi—sebelum memperbanyak titik. Jika perubahan menyentuh jaringan, listrik, atau lokasi yang tetap dihuni, minta tinjauan teknis dan keselamatan sesuai kondisi proyek.
+
+## Kesimpulan: pilih arsitektur, bukan label
+
+CCTV IP berpusat pada jaringan dan NVR; analog HD berpusat pada koaksial dan DVR. Tidak ada pemenang universal. Pilihan yang masuk akal adalah yang memenuhi tujuan adegan, cocok dengan media dan recorder, dapat dipelihara, serta memiliki bukti uji dan aturan akses yang jelas.
+
+Langkah berikutnya: buat denah, tulis tujuan tiap kamera, inventaris kabel dan perangkat yang ada, lalu minta uji satu jalur lengkap beserta dokumen konfigurasi. Untuk mencari tim di area tertentu, Anda dapat mulai dari layanan pemasangan CCTV di [Yosowilangun](/kota/jual-pasang-cctv-yosowilangun/) atau [Wungu](/kota/jual-pasang-cctv-wungu/), lalu tetap minta bukti uji yang sama. Sobat Tukang.co.id, tahan keputusan final sampai kondisi proyek, model perangkat, dan kebutuhan retensi ditinjau oleh pihak yang berwenang; artikel ini tidak menggantikan persetujuan profesional.
+
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-001`
@@ -77,199 +107,4 @@ sources:
 - **Selection basis:** filename/source metadata identifies `CCTV Merk ZKTECO` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
-
-## Evidence packet
-
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
-
-### KR-01
-
-- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
-- **Purpose for this article:** Freeze the verified editorial scope for `cctv.tukang.co.id` and prevent family research from overriding this project's actual catalog boundaries.
-- **Safe grounded facts:** The repository plans 20 parent topics and 120 briefs. Planning documents do not prove a workplace, product, person, service, certificate, or control is safe or compliant.
-- **Limits:** Reconcile only against the frozen local catalog when its canonical commit changes.
-
-### KR-05
-
-- **Original sources:** [ILO controlling risks](https://www.ilo.org/topics-and-sectors/occupational-safety-and-health-guide-labour-inspectors-and-other/how-can-occupational-safety-and-health-be-managed/controlling-risks), [ILO five-step risk-assessment guide](https://www.ilo.org/publications/5-step-guide-employers-workers-and-their-representatives-conducting).
-- **Purpose for this article:** Ground a lean, repeatable risk cycle rather than paperwork volume or PPE-first advice.
-- **Safe grounded facts:** A generic matrix does not determine likelihood, consequence, exposure, acceptability, or residual risk for a site.
-- **Limits:** Complex or high-consequence risks require discipline-specific methods, evidence, competence, and approval.
-
-### KR-19
-
-- **Original sources:** [BNSP official site](https://bnsp.go.id/), [ISO 45001 briefing note](https://www.iso.org/files/live/sites/isoorg/files/archive/pdf/en/iso_45001_-briefing_note.pdf).
-- **Purpose for this article:** Ground role profiles, training needs, credential verification, practical assessment, authorization, supervision, and refresh after change.
-- **Safe grounded facts:** Scope, issuer, scheme, level, date/expiry, identity, practical context, language/literacy, supervision, and change determine what evidence means.
-- **Limits:** Verify the current regulator/issuer record and job-specific legal requirements; never authenticate a person or grant authorization from an article.
-
-### KR-20
-
-- **Original sources:** [ISO 19011:2018 record](https://www.iso.org/standard/70017.html), [PP No. 50 Tahun 2012](https://peraturan.bpk.go.id/Details/5263/pp-no-50-tahun-2012).
-- **Purpose for this article:** Ground scope, competence, independence, sampling, field evidence, findings, actions, effectiveness, and management review.
-- **Safe grounded facts:** Activity counts and injury rates alone do not prove risk control; definitions, denominators, exposure, reporting quality, severity, leading evidence, and decision use matter.
-- **Limits:** Do not claim audit independence, conformity, control effectiveness, or statistical improvement without a defined method and original evidence.
-
-### KR-21
-
-- **Original sources:** [UU No. 8 Tahun 1999](https://peraturan.bpk.go.id/Details/45288/uu-no-8-tahun-1999), [PP No. 80 Tahun 2019](https://jdih.kemendag.go.id/pdf/Regulasi/2019/PP%20Nomor%2080%20Tahun%202019.pdf).
-- **Purpose for this article:** Replace price-only selection and marketplace claims with comparable, retrievable evidence.
-- **Safe grounded facts:** A logo, test excerpt, certificate image, seller rating, or “standard-compliant” phrase does not prove the delivered model or installed system conforms.
-- **Limits:** No fabricated stock, price, client, approval, certificate, warranty, availability, or legal entitlement.
-
-### KR-23
-
-- **Original sources:** [UU No. 27 Tahun 2022](https://peraturan.bpk.go.id/Details/229798/uu-no-27-tahun-2022), [ISO 15489-1:2016 record](https://www.iso.org/standard/62542.html).
-- **Purpose for this article:** Ground approvals, versions, distribution, field access, retention, evidence provenance, migration, and personal-data boundaries.
-- **Safe grounded facts:** Legal register, risk assessment, permit, inspection, training, credential, incident, health record, corrective action, and audit evidence have different owners and sensitivity.
-- **Limits:** Retention, access, lawful basis, breach response, health data, litigation hold, and regulator submission require current legal and records/privacy review.
-
-### KR-24
-
-- **Original sources:** [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md), [UU No. 8 Tahun 1999](https://peraturan.bpk.go.id/Details/45288/uu-no-8-tahun-1999).
-- **Purpose for this article:** Keep evergreen education separate from changing `safety.co.id` offers and proof.
-- **Safe grounded facts:** Every live claim needs an owner, original record, scope, date, limitations, and refresh trigger.
-- **Limits:** If proof is absent, keep the article neutral and preserve the evidence gap.
-
-### KR-02
-
-- **Original sources:** [UU No. 1 Tahun 1970](https://peraturan.bpk.go.id/Details/47614/uu-no-1-tahun-1970).
-- **Purpose for this article:** Establish the national foundation without converting one law into a complete site obligation register.
-- **Safe grounded facts:** Applicability depends on the actual workplace, activity, people, equipment, material, and implementing rules; a web article cannot determine compliance.
-- **Limits:** Use current consolidated law and sector/local rules; obtain Indonesian K3/legal review for a definitive duty.
-
-### KR-11
-
-- **Original sources:** [Permenaker No. 12 Tahun 2015](https://peraturan.bpk.go.id/Details/145984/permenaker-no-12-tahun-2015), [Permenaker No. 11 Tahun 2026](https://peraturan.bpk.go.id/Details/351282/permenaker-no-11-tahun-2026).
-- **Purpose for this article:** Ground competence, de-energization, hazardous-energy control, temporary supply, wet conditions, inspection, and emergency boundaries.
-- **Safe grounded facts:** Source identification, one-line documentation, isolation, absence-of-voltage verification, grounding/protection, environment, equipment condition, and authorization are distinct evidence.
-- **Limits:** No live-work, switching, test, protection setting, grounding, arc-energy, temporary wiring, or design procedure.
-
-### KR-16
-
-- **Original sources:** [Permen PUPR No. 10 Tahun 2021 official record](https://jdih.pu.go.id/detail-dokumen/PermenPUPR-nomor-10-tahun-2021-Pedoman-Sistem-Manajemen-Keselamatan-Konstruksi), [ILO Safety and Health in Construction code](https://www.ilo.org/publications/safety-and-health-construction-revised-edition).
-- **Purpose for this article:** Ground SMKK, design risk, procurement, RKK interfaces, temporary states, contractors, public/occupied-site protection, and handover.
-- **Safe grounded facts:** Client, designer, contractor, subcontractor, supervisor, competent person, worker, and public interfaces change across phases and simultaneous work.
-- **Limits:** No excavation, temporary-works, scaffold, lifting, electrical, traffic, structural, or public-protection design without project evidence and competent discipline review.
-
-### KR-18
-
-- **Original sources:** [ISO 22320:2018 record](https://www.iso.org/standard/67851.html), [Kemenkes PSC 119](https://kemkes.go.id/id/layanan/psc-119).
-- **Purpose for this article:** Ground command, communications, warning, evacuation/accountability, accessibility, first-aid coverage, external liaison, drills, and review.
-- **Safe grounded facts:** Alarm, incident command, evacuation, shelter, muster/accountability, technical rescue, first aid, medical handoff, business continuity, and recovery have distinct owners.
-- **Limits:** No public emergency script, rescue technique, medical diagnosis/treatment, staffing number, response time, or drill proof from this file.
-
-### KR-36
-
-- **Original sources:** [IEC 62676-4 application-guideline record](https://webstore.iec.ch/en/publication/7353).
-- **Purpose for this article:** Ground requirements, scene purpose, selection, placement, installation, commissioning, maintenance, testing, and objective evaluation.
-- **Safe grounded facts:** Resolution, megapixels, camera count, or a product demo alone does not prove useful coverage, identification, retention, alerting, or incident outcomes.
-- **Limits:** Use the current edition, documented operational requirement, measured scenes and light, selected performance criteria, installation records, acceptance tests, and periodic review.
-
-### KR-38
-
-- **Original sources:** [ONVIF Profile T](https://www.onvif.org/profiles/profile-t/), [ONVIF conformant-product guidance](https://www.onvif.org/).
-- **Purpose for this article:** Ground streaming, imaging, events, metadata, PTZ, HTTPS, audio, device/client roles, and procurement verification.
-- **Safe grounded facts:** An ONVIF logo, protocol checkbox, or same-brand test does not prove every optional feature, recorder/client compatibility, cyber hardening, or lifecycle support.
-- **Limits:** Verify exact product/firmware, conformant profile and role, mandatory versus conditional features, tested workflows, certificates, updates, and support horizon.
-
-## Evidence gates
-
-- **TOPIC-GATE:** EG-01, EG-02, EG-03, EG-04, EG-05, EG-07, EG-08, EG-09, EG-10, EG-11, EG-12.
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/kota/jual-pasang-cctv-yosowilangun/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/kota/jual-pasang-cctv-yalimo/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/kota/jual-pasang-cctv-yahukimo/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/kota/jual-pasang-cctv-wuryantoro/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/kota/jual-pasang-cctv-wungu/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/kota/jual-pasang-cctv-wuluhan/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `CCT-02-02` → `/artikel/bentuk-kamera-dome-bullet-fixed-ptz.html` — Dome, bullet, fixed, dan PTZ: memilih bentuk kamera
-- `CCT-02-03` → `/artikel/sensor-resolusi-dan-megapiksel-cctv.html` — Memahami sensor, resolusi, dan megapiksel CCTV
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
-
-## Masalah keputusan yang sebenarnya
-
-- **Purpose:** Jelaskan konteks pemilihan dan mengapa dua opsi ini sering dianggap dapat saling menggantikan.
-- **Tie back to this article:** Keep the explanation specific to “CCTV IP dan analog HD: perbedaan arsitektur”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Bedakan objek sebelum membandingkan
-
-- **Purpose:** Definisikan setiap opsi, fungsi, batas sistem, dan bukti identitasnya.
-- **Tie back to this article:** Keep the explanation specific to “CCTV IP dan analog HD: perbedaan arsitektur”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Kriteria perbandingan yang relevan
-
-- **Purpose:** Susun kriteria berdasarkan penggunaan, kondisi, antarmuka, risiko, pelaksanaan, perawatan, dan bukti.
-- **Tie back to this article:** Keep the explanation specific to “CCTV IP dan analog HD: perbedaan arsitektur”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Kapan masing-masing pilihan masuk akal
-
-- **Purpose:** Berikan skenario bersyarat; jangan menyebut satu pemenang universal.
-- **Tie back to this article:** Keep the explanation specific to “CCTV IP dan analog HD: perbedaan arsitektur”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Kesalahan perbandingan yang sering terjadi
-
-- **Purpose:** Bongkar sedikitnya tiga shortcut atau asumsi yang membuat keputusan keliru.
-- **Tie back to this article:** Keep the explanation specific to “CCTV IP dan analog HD: perbedaan arsitektur”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Bukti yang perlu diminta sebelum memilih
-
-- **Purpose:** Buat checklist dokumen, data proyek, sampel/tes, persetujuan, dan pihak penanggung jawab.
-- **Tie back to this article:** Keep the explanation specific to “CCTV IP dan analog HD: perbedaan arsitektur”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Objection or shortcut to address
-
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
-
-## Required conclusion
-
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
-
-## Draft completion checklist
-
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Sobat Tukang.co.id!` and uses friendly `Tukang.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+END MANAGED IMAGE PLAN -->

@@ -3,7 +3,8 @@ article_id: CCT-04-06
 title: "Membuat uji penerimaan kualitas gambar CCTV"
 slug: "uji-penerimaan-kualitas-gambar-cctv"
 description: "Judge whether a proposed camera and configuration can produce useful images in the target scene."
-status: outline
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2025-08-17"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -15,57 +16,17 @@ final_route: "/artikel/uji-penerimaan-kualitas-gambar-cctv.html"
 technical_review: required
 sources:
   - "https://www.ilo.org/topics-and-sectors/occupational-safety-and-health-guide-labour-inspectors-and-other/how-can-occupational-safety-and-health-be-managed/controlling-risks"
-  - "https://www.ilo.org/publications/5-step-guide-employers-workers-and-their-representatives-conducting"
-  - "https://bnsp.go.id/"
-  - "https://www.iso.org/files/live/sites/isoorg/files/archive/pdf/en/iso_45001_-briefing_note.pdf"
-  - "https://www.iso.org/standard/70017.html"
-  - "https://peraturan.bpk.go.id/Details/5263/pp-no-50-tahun-2012"
-  - "https://peraturan.bpk.go.id/Details/45288/uu-no-8-tahun-1999"
-  - "https://jdih.kemendag.go.id/pdf/Regulasi/2019/PP%20Nomor%2080%20Tahun%202019.pdf"
-  - "https://peraturan.bpk.go.id/Details/229798/uu-no-27-tahun-2022"
-  - "https://www.iso.org/standard/62542.html"
-  - "https://peraturan.bpk.go.id/Details/47614/uu-no-1-tahun-1970"
-  - "https://peraturan.bpk.go.id/Details/145984/permenaker-no-12-tahun-2015"
-  - "https://peraturan.bpk.go.id/Details/351282/permenaker-no-11-tahun-2026"
-  - "https://jdih.pu.go.id/detail-dokumen/PermenPUPR-nomor-10-tahun-2021-Pedoman-Sistem-Manajemen-Keselamatan-Konstruksi"
-  - "https://www.ilo.org/publications/safety-and-health-construction-revised-edition"
-  - "https://www.iso.org/standard/67851.html"
-  - "https://kemkes.go.id/id/layanan/psc-119"
   - "https://webstore.iec.ch/en/publication/7353"
   - "https://webstore.iec.ch/en/publication/59704"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
-
 # Membuat uji penerimaan kualitas gambar CCTV
 
-## Assignment lock
+Halo, Teman Tukang.co.id! Kamera yang menampilkan gambar tajam di meja belum tentu berguna di pintu yang diuji pada malam hari. Uji penerimaan kualitas gambar CCTV dibuat untuk menjawab satu keputusan sederhana: apakah kamera dan konfigurasinya menghasilkan bukti visual yang dapat dipakai pada scene target, pada kondisi yang disepakati, sebelum tanda tangan serah terima.
 
-- **Writer task:** Expand this file into one complete article answering: “Membuat uji penerimaan kualitas gambar CCTV”
-- **Reader and situation:** Judge whether a proposed camera and configuration can produce useful images in the target scene.
-- **Reader outcome:** Judge whether a proposed camera and configuration can produce useful images in the target scene.
-- **Primary intent:** Specify reproducible day/night image checks before installation sign-off.
-- **Reader community:** `Tukang.co.id`
-- **Primary friendly address:** `Teman Tukang.co.id`
-- **Natural variants:** `Sobat Tukang.co.id` and `Kawan Tukang.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Defines image acceptance evidence; full system commissioning remains CCT-12.
-- **Final public route:** `/artikel/uji-penerimaan-kualitas-gambar-cctv.html`
-- **Appointed CMS date:** `2025-08-17` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Jawaban singkatnya: tetapkan tujuan gambar, tandai titik uji yang dapat diulang, rekam kondisi siang dan malam, lalu nilai hasil terhadap kriteria tertulis. Jangan meluluskan hanya karena live view menyala atau spesifikasi megapiksel terlihat tinggi. Tujuan scene, pencahayaan, gerak subjek, sudut pandang, kompresi, dan kebutuhan identifikasi menentukan apakah hasil itu cukup. Pedoman penerapan IEC 62676-4 menempatkan persyaratan, pemilihan, pemasangan, commissioning, pemeliharaan, pengujian, dan evaluasi objektif sebagai rangkaian yang saling terkait; halaman ini hanya membahas bukti kualitas gambar, bukan commissioning penuh ([IEC 62676-4](https://webstore.iec.ch/en/publication/7353)).
 
-## Opening instructions
-
-- Open with the exact short salutation: **“Halo, Teman Tukang.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Membuat uji penerimaan kualitas gambar CCTV**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Teman Tukang.co.id`, `Sobat Tukang.co.id`, or `Kawan Tukang.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-001`
@@ -76,199 +37,71 @@ sources:
 - **Selection basis:** filename/source metadata identifies `CCTV Merk ZKTECO` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+![Ilustrasi CCTV Merk ZKTECO](/wp-content/uploads/2023/08/CCTV-Merk-ZKTECO.jpg)
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
-
-### KR-01
-
-- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
-- **Purpose for this article:** Freeze the verified editorial scope for `cctv.tukang.co.id` and prevent family research from overriding this project's actual catalog boundaries.
-- **Safe grounded facts:** The repository plans 20 parent topics and 120 briefs. Planning documents do not prove a workplace, product, person, service, certificate, or control is safe or compliant.
-- **Limits:** Reconcile only against the frozen local catalog when its canonical commit changes.
-
-### KR-05
-
-- **Original sources:** [ILO controlling risks](https://www.ilo.org/topics-and-sectors/occupational-safety-and-health-guide-labour-inspectors-and-other/how-can-occupational-safety-and-health-be-managed/controlling-risks), [ILO five-step risk-assessment guide](https://www.ilo.org/publications/5-step-guide-employers-workers-and-their-representatives-conducting).
-- **Purpose for this article:** Ground a lean, repeatable risk cycle rather than paperwork volume or PPE-first advice.
-- **Safe grounded facts:** A generic matrix does not determine likelihood, consequence, exposure, acceptability, or residual risk for a site.
-- **Limits:** Complex or high-consequence risks require discipline-specific methods, evidence, competence, and approval.
-
-### KR-19
-
-- **Original sources:** [BNSP official site](https://bnsp.go.id/), [ISO 45001 briefing note](https://www.iso.org/files/live/sites/isoorg/files/archive/pdf/en/iso_45001_-briefing_note.pdf).
-- **Purpose for this article:** Ground role profiles, training needs, credential verification, practical assessment, authorization, supervision, and refresh after change.
-- **Safe grounded facts:** Scope, issuer, scheme, level, date/expiry, identity, practical context, language/literacy, supervision, and change determine what evidence means.
-- **Limits:** Verify the current regulator/issuer record and job-specific legal requirements; never authenticate a person or grant authorization from an article.
-
-### KR-20
-
-- **Original sources:** [ISO 19011:2018 record](https://www.iso.org/standard/70017.html), [PP No. 50 Tahun 2012](https://peraturan.bpk.go.id/Details/5263/pp-no-50-tahun-2012).
-- **Purpose for this article:** Ground scope, competence, independence, sampling, field evidence, findings, actions, effectiveness, and management review.
-- **Safe grounded facts:** Activity counts and injury rates alone do not prove risk control; definitions, denominators, exposure, reporting quality, severity, leading evidence, and decision use matter.
-- **Limits:** Do not claim audit independence, conformity, control effectiveness, or statistical improvement without a defined method and original evidence.
-
-### KR-21
-
-- **Original sources:** [UU No. 8 Tahun 1999](https://peraturan.bpk.go.id/Details/45288/uu-no-8-tahun-1999), [PP No. 80 Tahun 2019](https://jdih.kemendag.go.id/pdf/Regulasi/2019/PP%20Nomor%2080%20Tahun%202019.pdf).
-- **Purpose for this article:** Replace price-only selection and marketplace claims with comparable, retrievable evidence.
-- **Safe grounded facts:** A logo, test excerpt, certificate image, seller rating, or “standard-compliant” phrase does not prove the delivered model or installed system conforms.
-- **Limits:** No fabricated stock, price, client, approval, certificate, warranty, availability, or legal entitlement.
-
-### KR-23
-
-- **Original sources:** [UU No. 27 Tahun 2022](https://peraturan.bpk.go.id/Details/229798/uu-no-27-tahun-2022), [ISO 15489-1:2016 record](https://www.iso.org/standard/62542.html).
-- **Purpose for this article:** Ground approvals, versions, distribution, field access, retention, evidence provenance, migration, and personal-data boundaries.
-- **Safe grounded facts:** Legal register, risk assessment, permit, inspection, training, credential, incident, health record, corrective action, and audit evidence have different owners and sensitivity.
-- **Limits:** Retention, access, lawful basis, breach response, health data, litigation hold, and regulator submission require current legal and records/privacy review.
-
-### KR-24
-
-- **Original sources:** [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md), [UU No. 8 Tahun 1999](https://peraturan.bpk.go.id/Details/45288/uu-no-8-tahun-1999).
-- **Purpose for this article:** Keep evergreen education separate from changing `safety.co.id` offers and proof.
-- **Safe grounded facts:** Every live claim needs an owner, original record, scope, date, limitations, and refresh trigger.
-- **Limits:** If proof is absent, keep the article neutral and preserve the evidence gap.
-
-### KR-02
-
-- **Original sources:** [UU No. 1 Tahun 1970](https://peraturan.bpk.go.id/Details/47614/uu-no-1-tahun-1970).
-- **Purpose for this article:** Establish the national foundation without converting one law into a complete site obligation register.
-- **Safe grounded facts:** Applicability depends on the actual workplace, activity, people, equipment, material, and implementing rules; a web article cannot determine compliance.
-- **Limits:** Use current consolidated law and sector/local rules; obtain Indonesian K3/legal review for a definitive duty.
-
-### KR-11
-
-- **Original sources:** [Permenaker No. 12 Tahun 2015](https://peraturan.bpk.go.id/Details/145984/permenaker-no-12-tahun-2015), [Permenaker No. 11 Tahun 2026](https://peraturan.bpk.go.id/Details/351282/permenaker-no-11-tahun-2026).
-- **Purpose for this article:** Ground competence, de-energization, hazardous-energy control, temporary supply, wet conditions, inspection, and emergency boundaries.
-- **Safe grounded facts:** Source identification, one-line documentation, isolation, absence-of-voltage verification, grounding/protection, environment, equipment condition, and authorization are distinct evidence.
-- **Limits:** No live-work, switching, test, protection setting, grounding, arc-energy, temporary wiring, or design procedure.
-
-### KR-16
-
-- **Original sources:** [Permen PUPR No. 10 Tahun 2021 official record](https://jdih.pu.go.id/detail-dokumen/PermenPUPR-nomor-10-tahun-2021-Pedoman-Sistem-Manajemen-Keselamatan-Konstruksi), [ILO Safety and Health in Construction code](https://www.ilo.org/publications/safety-and-health-construction-revised-edition).
-- **Purpose for this article:** Ground SMKK, design risk, procurement, RKK interfaces, temporary states, contractors, public/occupied-site protection, and handover.
-- **Safe grounded facts:** Client, designer, contractor, subcontractor, supervisor, competent person, worker, and public interfaces change across phases and simultaneous work.
-- **Limits:** No excavation, temporary-works, scaffold, lifting, electrical, traffic, structural, or public-protection design without project evidence and competent discipline review.
-
-### KR-18
-
-- **Original sources:** [ISO 22320:2018 record](https://www.iso.org/standard/67851.html), [Kemenkes PSC 119](https://kemkes.go.id/id/layanan/psc-119).
-- **Purpose for this article:** Ground command, communications, warning, evacuation/accountability, accessibility, first-aid coverage, external liaison, drills, and review.
-- **Safe grounded facts:** Alarm, incident command, evacuation, shelter, muster/accountability, technical rescue, first aid, medical handoff, business continuity, and recovery have distinct owners.
-- **Limits:** No public emergency script, rescue technique, medical diagnosis/treatment, staffing number, response time, or drill proof from this file.
-
-### KR-36
-
-- **Original sources:** [IEC 62676-4 application-guideline record](https://webstore.iec.ch/en/publication/7353).
-- **Purpose for this article:** Ground requirements, scene purpose, selection, placement, installation, commissioning, maintenance, testing, and objective evaluation.
-- **Safe grounded facts:** Resolution, megapixels, camera count, or a product demo alone does not prove useful coverage, identification, retention, alerting, or incident outcomes.
-- **Limits:** Use the current edition, documented operational requirement, measured scenes and light, selected performance criteria, installation records, acceptance tests, and periodic review.
-
-### KR-37
-
-- **Original sources:** [IEC 62676-6:2026](https://webstore.iec.ch/en/publication/59704).
-- **Purpose for this article:** Ground object/activity classification, scenarios, real-time versus forensic use, false outcomes, environment, grading, and acceptance.
-- **Safe grounded facts:** An AI label, sample clip, detection percentage, or vendor dashboard does not prove performance in the target scene, weather, crowd, lighting, or response workflow.
-- **Limits:** Define the task, test corpus/scenes, thresholds, false positive/negative consequences, environment, human review, privacy, drift monitoring, and acceptance method.
-
-## Evidence gates
-
-- **TOPIC-GATE:** EG-01, EG-02, EG-03, EG-04, EG-05, EG-07, EG-08, EG-09, EG-10, EG-11, EG-12.
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/kota/jual-pasang-cctv-yosowilangun/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/kota/jual-pasang-cctv-yalimo/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/kota/jual-pasang-cctv-yahukimo/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/kota/jual-pasang-cctv-wuryantoro/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/kota/jual-pasang-cctv-wungu/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/kota/jual-pasang-cctv-wuluhan/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `CCT-04-04` → `/artikel/wdr-dan-backlight-cctv.html` — WDR dan backlight pada pintu atau jendela
-- `CCT-04-05` → `/artikel/motion-blur-frame-rate-dan-shutter-cctv.html` — Motion blur, frame rate, dan shutter pada CCTV
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
-
-## Jawaban singkat dan salah paham utama
-
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Membuat uji penerimaan kualitas gambar CCTV”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Ilustrasi umum dari aset lokal cctv.tukang.co.id; bukan dokumentasi proyek tertentu.
 
 ## Definisi dan batas objek
 
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Membuat uji penerimaan kualitas gambar CCTV”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Uji penerimaan di sini adalah pemeriksaan terencana atas keluaran gambar kamera pada lokasi dan kondisi target. “Lulus” berarti hasil memenuhi kriteria yang sudah disetujui untuk tujuan tertentu—misalnya melihat keberadaan orang, mengikuti aktivitas, atau membantu identifikasi—bukan berarti kamera terbaik untuk semua tujuan. Satu kamera dapat cukup untuk monitoring umum tetapi tidak cukup untuk mengenali wajah dari jarak yang sama.
+
+Objeknya adalah gambar: framing, fokus, detail, paparan, warna yang masih berguna, gangguan cahaya, blur gerak, dan konsistensi antara siang serta malam. Rekaman, jaringan, penyimpanan, alarm, integrasi, dan pemulihan gangguan tetap penting, tetapi itu masuk commissioning sistem penuh. Jika kriteria operasional, jarak subjek, atau kondisi cahaya belum ditetapkan, tandai keputusan sebagai **[NEEDS KRITERIA PENERIMAAN PROYEK]**, bukan menebak angka.
 
 ## Cara kerjanya
 
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Membuat uji penerimaan kualitas gambar CCTV”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Mulai dari lembar uji satu halaman untuk setiap kamera. Isi identitas kamera, scene, tujuan, lensa atau konfigurasi yang disetujui, tanggal, waktu, cuaca bila relevan, serta nama penguji dan pihak yang menyaksikan. Sertakan denah atau foto referensi yang tidak mengandung data pribadi berlebih. Catatan harus memungkinkan orang lain mengulang pengamatan, selaras dengan prinsip pengendalian risiko yang menuntut penilaian kondisi nyata dan tindakan yang dapat diverifikasi ([ILO, controlling risks](https://www.ilo.org/topics-and-sectors/occupational-safety-and-health-guide-labour-inspectors-and-other/how-can-occupational-safety-and-health-be-managed/controlling-risks)).
+
+Urutannya praktis:
+
+1. Kunci konfigurasi yang akan diuji. Catat resolusi, frame rate, mode siang/malam, WDR atau kompensasi cahaya, fokus, dan pengaturan yang memang diizinkan dalam spesifikasi proyek. Jangan mengubah parameter di tengah pengambilan tanpa mencatat perubahan.
+2. Tentukan titik dan gerakan uji. Gunakan posisi dekat, tengah, dan batas terjauh yang benar-benar relevan. Untuk objek bergerak, catat arah dan kecepatan relatif secara deskriptif; jangan mengarang angka kecepatan.
+3. Ambil bukti pada siang hari, lalu ulangi pada malam atau kondisi pencahayaan terendah yang disepakati. Simpan cuplikan asli dengan stempel waktu dan nama berkas yang menghubungkan kamera, titik, serta kondisi.
+4. Nilai setiap tujuan secara terpisah. Tanyakan, “Apakah pengamat yang berwenang dapat melakukan tugas yang diminta dari bukti ini?” Catat lulus, gagal, atau perlu perbaikan beserta alasan yang terlihat.
+5. Ulangi setelah perubahan sudut, fokus, lampu, firmware, atau konfigurasi. Hasil sebelum perubahan tidak otomatis berlaku sesudahnya.
+
+Untuk fungsi analitik atau klasifikasi objek, uji harus menyebut skenario, lingkungan, ambang, konsekuensi salah positif dan salah negatif, serta peran tinjauan manusia. Contoh klip vendor atau label AI tidak membuktikan kinerja di scene target; IEC 62676-6 menekankan perlunya tugas, skenario, lingkungan, penilaian, dan metode penerimaan yang didefinisikan ([IEC 62676-6](https://webstore.iec.ch/en/publication/59704)).
 
 ## Faktor yang mengubah hasil
 
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Membuat uji penerimaan kualitas gambar CCTV”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+**Scene dan tujuan.** Pintu masuk, lorong, area parkir, dan kasir menuntut pertanyaan berbeda. Sudut terlalu tinggi dapat memperlihatkan area tetapi mengurangi detail wajah; sudut terlalu rendah dapat membuat lampu atau latar mengambil porsi besar.
+
+**Cahaya.** Uji siang tidak menggantikan uji malam. Backlight, lampu kendaraan, pantulan lantai, dan perubahan dari terang ke gelap dapat mengubah wajah atau detail pakaian. Catat apakah lampu scene menyala, mati, atau berubah selama uji.
+
+**Gerak dan kompresi.** Subjek bergerak cepat dapat tampak kabur meski gambar diam terlihat tajam. Frame rate, shutter, dan kompresi memengaruhi hasil; pilih konfigurasi yang benar-benar akan dipakai dan simpan contoh gerakan, bukan hanya satu frame terbaik.
+
+**Konsistensi bukti.** Nama kamera, waktu, titik uji, dan versi konfigurasi harus cocok. Bila hanya cuplikan pilihan yang diserahkan, minta urutan asli atau log pengambilan. Kawan Tukang.co.id, bukti yang tidak bisa ditelusuri membuat perdebatan “terlihat bagus” menggantikan keputusan teknis.
 
 ## Contoh keputusan praktis
 
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Membuat uji penerimaan kualitas gambar CCTV”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Gunakan tabel ringkas berikut sebagai pola, lalu isi kriteria proyek yang sebenarnya.
+
+| Tujuan scene | Bukti yang diambil | Keputusan bersyarat |
+|---|---|---|
+| Monitoring umum lorong | Cuplikan siang dan malam dari titik terdekat hingga terjauh | Lulus hanya bila aktivitas tetap dapat dipantau tanpa area penting tertutup atau silau berlebihan |
+| Verifikasi orang di pintu | Urutan saat subjek mendekat dan melewati pintu, dengan pencahayaan yang disepakati | Tahan serah terima bila wajah atau ciri pembeda tidak dapat dinilai sesuai kriteria tertulis |
+| Kendaraan masuk | Urutan kendaraan siang/malam dan kondisi lampu depan | Jangan menyimpulkan kemampuan membaca pelat jika ukuran, sudut, atau kriteria itu tidak disepakati |
+| Analitik penghuni/objek | Beberapa skenario normal dan gangguan yang realistis | Minta metode uji, ambang, dan tinjauan manusia; demo vendor saja tidak cukup |
+
+Jika satu titik gagal, keputusan tidak harus menolak seluruh sistem. Pisahkan tindakan: ubah posisi, kendalikan cahaya, sesuaikan konfigurasi yang diizinkan, atau revisi tujuan bersama pemilik. Setelah tindakan, lakukan uji ulang dengan lembar dan kondisi yang sebanding. Jangan menutup kegagalan dengan memilih frame terbaik.
 
 ## Kesalahan umum dan cara memeriksanya
 
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Membuat uji penerimaan kualitas gambar CCTV”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kesalahan pertama adalah memakai megapiksel sebagai kriteria tunggal. Periksa apakah tujuan, jarak, sudut, dan cahaya tercatat sebelum membahas resolusi. Kedua, hanya menguji live view. Minta rekaman asli siang dan malam, termasuk gerakan yang relevan. Ketiga, mengubah fokus atau WDR tanpa jejak. Bandingkan nomor versi dan konfigurasi pada setiap pengambilan.
 
-## Objection or shortcut to address
+Keempat, menyamakan “gambar ada” dengan “gambar berguna”. Minta penguji menyatakan tugas yang dapat dilakukan dari klip, bukan sekadar memberi nilai subjektif. Kelima, mengabaikan privasi saat menyimpan bukti. Batasi akses, gunakan nama berkas yang tidak memuat identitas sensitif, dan ikuti kebijakan pemilik serta peninjauan hukum yang berlaku; artikel ini tidak menetapkan masa simpan atau dasar pemrosesan data.
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+Terakhir, meminta operator menandatangani area di luar kompetensinya. Teman Tukang.co.id, penguji boleh menilai bukti gambar sesuai perannya, tetapi perubahan listrik, jaringan, struktur, atau keputusan kepatuhan memerlukan orang berwenang dan review teknis terkait.
 
-## Required conclusion
+## Jalan pintas yang perlu dihindari
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+Shortcut yang sering dipilih adalah menerima kamera karena “contoh malam dari vendor jernih”. Contoh itu mungkin dibuat dengan scene, pencahayaan, jarak, dan konfigurasi yang berbeda. Ia tidak menjawab apakah kamera memenuhi tugas di lokasi Anda. Alternatif yang lebih dapat dipertanggungjawabkan adalah meminta file asli contoh hanya sebagai referensi, lalu menjalankan uji berulang di titik target dengan kriteria tertulis, menyimpan kondisi, dan mencatat setiap perubahan.
 
-## Draft completion checklist
+## Kesimpulan dan langkah berikutnya
 
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Teman Tukang.co.id!` and uses friendly `Tukang.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Membuat uji penerimaan kualitas gambar CCTV berarti mengubah kata “jernih” menjadi tugas, kondisi, bukti, dan keputusan yang dapat diulang: kunci konfigurasi, uji siang dan malam pada titik relevan, nilai tiap tujuan, lalu dokumentasikan lulus atau tindakan koreksi. Sobat Tukang.co.id, sebelum serah terima mintalah lembar uji, klip asli, dan kriteria yang disetujui pemilik.
+
+Jika kriteria scene, privasi, kelistrikan, atau commissioning belum jelas, hentikan klaim lulus dan minta review profesional yang sesuai. Aturan operasionalnya: tidak ada tanda tangan penerimaan kualitas gambar tanpa bukti kondisi target dan kriteria yang bisa ditelusuri.
+
+Untuk tindak lanjut lapangan, gunakan halaman [jual dan pasang CCTV di Dau](/kota/jual-pasang-cctv-dau/) atau [jual dan pasang CCTV di Bae](/kota/jual-pasang-cctv-bae/) hanya setelah lembar kriteria dan kebutuhan scene siap dibawa ke pembahasan teknis.

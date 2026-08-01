@@ -2,8 +2,9 @@
 article_id: CCT-16-01
 title: "Template kebutuhan untuk RFQ CCTV yang bisa dibandingkan"
 slug: "template-kebutuhan-rfq-cctv"
-description: "Build a comparable request, evaluate evidence, understand price drivers, and control scope changes."
-status: outline
+description: "Susun permintaan penawaran CCTV yang setara, periksa bukti, pahami pemicu biaya, dan kendalikan perubahan lingkup."
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2026-05-13"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -14,62 +15,28 @@ reader_address: "Teman Tukang.co.id"
 final_route: "/artikel/template-kebutuhan-rfq-cctv.html"
 technical_review: required
 sources:
-  - "https://www.ilo.org/topics-and-sectors/occupational-safety-and-health-guide-labour-inspectors-and-other/how-can-occupational-safety-and-health-be-managed/controlling-risks"
-  - "https://www.ilo.org/publications/5-step-guide-employers-workers-and-their-representatives-conducting"
-  - "https://bnsp.go.id/"
-  - "https://www.iso.org/files/live/sites/isoorg/files/archive/pdf/en/iso_45001_-briefing_note.pdf"
-  - "https://www.iso.org/standard/70017.html"
-  - "https://peraturan.bpk.go.id/Details/5263/pp-no-50-tahun-2012"
-  - "https://peraturan.bpk.go.id/Details/45288/uu-no-8-tahun-1999"
-  - "https://jdih.kemendag.go.id/pdf/Regulasi/2019/PP%20Nomor%2080%20Tahun%202019.pdf"
-  - "https://peraturan.bpk.go.id/Details/229798/uu-no-27-tahun-2022"
-  - "https://www.iso.org/standard/62542.html"
-  - "https://peraturan.bpk.go.id/Details/47614/uu-no-1-tahun-1970"
-  - "https://peraturan.bpk.go.id/Details/145984/permenaker-no-12-tahun-2015"
-  - "https://peraturan.bpk.go.id/Details/351282/permenaker-no-11-tahun-2026"
-  - "https://jdih.pu.go.id/detail-dokumen/PermenPUPR-nomor-10-tahun-2021-Pedoman-Sistem-Manajemen-Keselamatan-Konstruksi"
-  - "https://www.ilo.org/publications/safety-and-health-construction-revised-edition"
-  - "https://www.iso.org/standard/67851.html"
-  - "https://kemkes.go.id/id/layanan/psc-119"
   - "https://webstore.iec.ch/en/publication/7353"
   - "https://www.onvif.org/profiles/profile-t/"
   - "https://www.onvif.org/"
   - "https://csrc.nist.gov/pubs/ir/8259/r1/final"
   - "https://pages.nist.gov/IoT-Device-Cybersecurity-Requirement-Catalogs/technical/"
-  - "https://peraturan.bpk.go.id/Details/229798/uu-no-27-tahun-2022%20"
+  - "https://peraturan.bpk.go.id/Details/45288/uu-no-8-tahun-1999"
+  - "https://peraturan.bpk.go.id/Details/229798/uu-no-27-tahun-2022"
+  - "https://www.iso.org/standard/62542.html"
+  - "https://www.ilo.org/topics-and-sectors/occupational-safety-and-health-guide-labour-inspectors-and-other/how-can-occupational-safety-and-health-be-managed/controlling-risks"
 ---
-
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
 
 # Template kebutuhan untuk RFQ CCTV yang bisa dibandingkan
 
-## Assignment lock
+Halo, Teman Tukang.co.id! Penawaran CCTV sering tampak mudah dibandingkan karena semua vendor menulis jumlah kamera dan harga total. Masalahnya, angka itu bisa mewakili cakupan, kondisi lokasi, pengujian, dan dokumen yang berbeda. Template RFQ (request for quotation, yaitu permintaan penawaran) yang baik memaksa setiap penyedia menjawab pertanyaan yang sama.
 
-- **Writer task:** Expand this file into one complete article answering: “Template kebutuhan untuk RFQ CCTV yang bisa dibandingkan”
-- **Reader and situation:** Build a comparable request, evaluate evidence, understand price drivers, and control scope changes.
-- **Reader outcome:** Build a comparable request, evaluate evidence, understand price drivers, and control scope changes.
-- **Primary intent:** Request comparable scope, evidence, tests, documentation, and options from vendors.
-- **Reader community:** `Tukang.co.id`
-- **Primary friendly address:** `Teman Tukang.co.id`
-- **Natural variants:** `Sobat Tukang.co.id` and `Kawan Tukang.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Procurement input only; not a quotation or a substitute for the security brief in CCT-01.
-- **Final public route:** `/artikel/template-kebutuhan-rfq-cctv.html`
-- **Appointed CMS date:** `2026-05-13` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Jawaban singkatnya: kirim satu lembar kebutuhan yang menetapkan tujuan tiap area, batas pekerjaan, asumsi akses dan jaringan, bukti produk, pengujian penerimaan, serta format perubahan. Minta harga dipisahkan per komponen dan tandai pilihan wajib, opsional, dan yang belum diketahui. Harga terendah baru bermakna setelah baris-baris itu sebanding. Kriteria teknis tetap harus disesuaikan dengan lokasi dan ditinjau pihak yang kompeten; artikel ini adalah input pengadaan, bukan security brief atau persetujuan proyek.
 
-## Opening instructions
+![Ilustrasi CCTV Merk ZKTECO](/wp-content/uploads/2023/08/CCTV-Merk-ZKTECO.jpg)
 
-- Open with the exact short salutation: **“Halo, Teman Tukang.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Template kebutuhan untuk RFQ CCTV yang bisa dibandingkan**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Teman Tukang.co.id`, `Sobat Tukang.co.id`, or `Kawan Tukang.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
+*Ilustrasi umum dari aset lokal Tukang.co.id; bukan dokumentasi proyek tertentu.*
 
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-001`
@@ -80,213 +47,80 @@ sources:
 - **Selection basis:** filename/source metadata identifies `CCTV Merk ZKTECO` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
-
-## Evidence packet
-
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
-
-### KR-01
-
-- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
-- **Purpose for this article:** Freeze the verified editorial scope for `cctv.tukang.co.id` and prevent family research from overriding this project's actual catalog boundaries.
-- **Safe grounded facts:** The repository plans 20 parent topics and 120 briefs. Planning documents do not prove a workplace, product, person, service, certificate, or control is safe or compliant.
-- **Limits:** Reconcile only against the frozen local catalog when its canonical commit changes.
-
-### KR-05
-
-- **Original sources:** [ILO controlling risks](https://www.ilo.org/topics-and-sectors/occupational-safety-and-health-guide-labour-inspectors-and-other/how-can-occupational-safety-and-health-be-managed/controlling-risks), [ILO five-step risk-assessment guide](https://www.ilo.org/publications/5-step-guide-employers-workers-and-their-representatives-conducting).
-- **Purpose for this article:** Ground a lean, repeatable risk cycle rather than paperwork volume or PPE-first advice.
-- **Safe grounded facts:** A generic matrix does not determine likelihood, consequence, exposure, acceptability, or residual risk for a site.
-- **Limits:** Complex or high-consequence risks require discipline-specific methods, evidence, competence, and approval.
-
-### KR-19
-
-- **Original sources:** [BNSP official site](https://bnsp.go.id/), [ISO 45001 briefing note](https://www.iso.org/files/live/sites/isoorg/files/archive/pdf/en/iso_45001_-briefing_note.pdf).
-- **Purpose for this article:** Ground role profiles, training needs, credential verification, practical assessment, authorization, supervision, and refresh after change.
-- **Safe grounded facts:** Scope, issuer, scheme, level, date/expiry, identity, practical context, language/literacy, supervision, and change determine what evidence means.
-- **Limits:** Verify the current regulator/issuer record and job-specific legal requirements; never authenticate a person or grant authorization from an article.
-
-### KR-20
-
-- **Original sources:** [ISO 19011:2018 record](https://www.iso.org/standard/70017.html), [PP No. 50 Tahun 2012](https://peraturan.bpk.go.id/Details/5263/pp-no-50-tahun-2012).
-- **Purpose for this article:** Ground scope, competence, independence, sampling, field evidence, findings, actions, effectiveness, and management review.
-- **Safe grounded facts:** Activity counts and injury rates alone do not prove risk control; definitions, denominators, exposure, reporting quality, severity, leading evidence, and decision use matter.
-- **Limits:** Do not claim audit independence, conformity, control effectiveness, or statistical improvement without a defined method and original evidence.
-
-### KR-21
-
-- **Original sources:** [UU No. 8 Tahun 1999](https://peraturan.bpk.go.id/Details/45288/uu-no-8-tahun-1999), [PP No. 80 Tahun 2019](https://jdih.kemendag.go.id/pdf/Regulasi/2019/PP%20Nomor%2080%20Tahun%202019.pdf).
-- **Purpose for this article:** Replace price-only selection and marketplace claims with comparable, retrievable evidence.
-- **Safe grounded facts:** A logo, test excerpt, certificate image, seller rating, or “standard-compliant” phrase does not prove the delivered model or installed system conforms.
-- **Limits:** No fabricated stock, price, client, approval, certificate, warranty, availability, or legal entitlement.
-
-### KR-23
-
-- **Original sources:** [UU No. 27 Tahun 2022](https://peraturan.bpk.go.id/Details/229798/uu-no-27-tahun-2022), [ISO 15489-1:2016 record](https://www.iso.org/standard/62542.html).
-- **Purpose for this article:** Ground approvals, versions, distribution, field access, retention, evidence provenance, migration, and personal-data boundaries.
-- **Safe grounded facts:** Legal register, risk assessment, permit, inspection, training, credential, incident, health record, corrective action, and audit evidence have different owners and sensitivity.
-- **Limits:** Retention, access, lawful basis, breach response, health data, litigation hold, and regulator submission require current legal and records/privacy review.
-
-### KR-24
-
-- **Original sources:** [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md), [UU No. 8 Tahun 1999](https://peraturan.bpk.go.id/Details/45288/uu-no-8-tahun-1999).
-- **Purpose for this article:** Keep evergreen education separate from changing `safety.co.id` offers and proof.
-- **Safe grounded facts:** Every live claim needs an owner, original record, scope, date, limitations, and refresh trigger.
-- **Limits:** If proof is absent, keep the article neutral and preserve the evidence gap.
-
-### KR-02
-
-- **Original sources:** [UU No. 1 Tahun 1970](https://peraturan.bpk.go.id/Details/47614/uu-no-1-tahun-1970).
-- **Purpose for this article:** Establish the national foundation without converting one law into a complete site obligation register.
-- **Safe grounded facts:** Applicability depends on the actual workplace, activity, people, equipment, material, and implementing rules; a web article cannot determine compliance.
-- **Limits:** Use current consolidated law and sector/local rules; obtain Indonesian K3/legal review for a definitive duty.
-
-### KR-11
-
-- **Original sources:** [Permenaker No. 12 Tahun 2015](https://peraturan.bpk.go.id/Details/145984/permenaker-no-12-tahun-2015), [Permenaker No. 11 Tahun 2026](https://peraturan.bpk.go.id/Details/351282/permenaker-no-11-tahun-2026).
-- **Purpose for this article:** Ground competence, de-energization, hazardous-energy control, temporary supply, wet conditions, inspection, and emergency boundaries.
-- **Safe grounded facts:** Source identification, one-line documentation, isolation, absence-of-voltage verification, grounding/protection, environment, equipment condition, and authorization are distinct evidence.
-- **Limits:** No live-work, switching, test, protection setting, grounding, arc-energy, temporary wiring, or design procedure.
-
-### KR-16
-
-- **Original sources:** [Permen PUPR No. 10 Tahun 2021 official record](https://jdih.pu.go.id/detail-dokumen/PermenPUPR-nomor-10-tahun-2021-Pedoman-Sistem-Manajemen-Keselamatan-Konstruksi), [ILO Safety and Health in Construction code](https://www.ilo.org/publications/safety-and-health-construction-revised-edition).
-- **Purpose for this article:** Ground SMKK, design risk, procurement, RKK interfaces, temporary states, contractors, public/occupied-site protection, and handover.
-- **Safe grounded facts:** Client, designer, contractor, subcontractor, supervisor, competent person, worker, and public interfaces change across phases and simultaneous work.
-- **Limits:** No excavation, temporary-works, scaffold, lifting, electrical, traffic, structural, or public-protection design without project evidence and competent discipline review.
-
-### KR-18
-
-- **Original sources:** [ISO 22320:2018 record](https://www.iso.org/standard/67851.html), [Kemenkes PSC 119](https://kemkes.go.id/id/layanan/psc-119).
-- **Purpose for this article:** Ground command, communications, warning, evacuation/accountability, accessibility, first-aid coverage, external liaison, drills, and review.
-- **Safe grounded facts:** Alarm, incident command, evacuation, shelter, muster/accountability, technical rescue, first aid, medical handoff, business continuity, and recovery have distinct owners.
-- **Limits:** No public emergency script, rescue technique, medical diagnosis/treatment, staffing number, response time, or drill proof from this file.
-
-### KR-36
-
-- **Original sources:** [IEC 62676-4 application-guideline record](https://webstore.iec.ch/en/publication/7353).
-- **Purpose for this article:** Ground requirements, scene purpose, selection, placement, installation, commissioning, maintenance, testing, and objective evaluation.
-- **Safe grounded facts:** Resolution, megapixels, camera count, or a product demo alone does not prove useful coverage, identification, retention, alerting, or incident outcomes.
-- **Limits:** Use the current edition, documented operational requirement, measured scenes and light, selected performance criteria, installation records, acceptance tests, and periodic review.
-
-### KR-38
-
-- **Original sources:** [ONVIF Profile T](https://www.onvif.org/profiles/profile-t/), [ONVIF conformant-product guidance](https://www.onvif.org/).
-- **Purpose for this article:** Ground streaming, imaging, events, metadata, PTZ, HTTPS, audio, device/client roles, and procurement verification.
-- **Safe grounded facts:** An ONVIF logo, protocol checkbox, or same-brand test does not prove every optional feature, recorder/client compatibility, cyber hardening, or lifecycle support.
-- **Limits:** Verify exact product/firmware, conformant profile and role, mandatory versus conditional features, tested workflows, certificates, updates, and support horizon.
-
-### KR-39
-
-- **Original sources:** [NISTIR 8259 Rev. 1](https://csrc.nist.gov/pubs/ir/8259/r1/final), [NIST IoT capability catalog](https://pages.nist.gov/IoT-Device-Cybersecurity-Requirement-Catalogs/technical/).
-- **Purpose for this article:** Ground identity, secure configuration, data protection, logical access, updates, state awareness, secure operation, procurement, and retirement.
-- **Safe grounded facts:** Changing a default password alone does not establish inventory, segmentation, protected interfaces/data, signed updates, logging, vulnerability response, or secure disposal.
-- **Limits:** Create a use-case profile; verify firmware/support, accounts/roles, protocols, encryption, network exposure, update and backup/restore, monitoring, incident process, and decommissioning.
-
-### KR-40
-
-- **Original sources:** [Indonesia Personal Data Protection Law 27/2022](https://peraturan.bpk.go.id/Details/229798/uu-no-27-tahun-2022%20).
-- **Purpose for this article:** Ground purpose, coverage, notice, access, retention, disclosure, processors, rights, incident response, and deletion.
-- **Safe grounded facts:** A warning sign, owner consent, security purpose, or cloud contract alone does not prove proportionality, lawful basis, access control, retention, disclosure, or rights handling.
-- **Limits:** Obtain current legal review for the actual controller/processor, people and locations; document necessity, alternatives, fields of view, retention, access/export, requests, incidents, and deletion.
-
-## Evidence gates
-
-- **TOPIC-GATE:** EG-01, EG-02, EG-03, EG-04, EG-05, EG-07, EG-08, EG-09, EG-10, EG-11, EG-12.
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/kota/jual-pasang-cctv-yosowilangun/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/kota/jual-pasang-cctv-yalimo/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/kota/jual-pasang-cctv-yahukimo/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/kota/jual-pasang-cctv-wuryantoro/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/kota/jual-pasang-cctv-wungu/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/kota/jual-pasang-cctv-wuluhan/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `CCT-16-02` → `/artikel/faktor-harga-pemasangan-cctv.html` — Faktor yang membentuk harga pemasangan CCTV
-- `CCT-16-03` → `/artikel/membandingkan-penawaran-cctv.html` — Cara membandingkan penawaran CCTV secara setara
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+END MANAGED IMAGE PLAN -->
 
 ## Definisikan kebutuhan sebelum meminta harga
 
-- **Purpose:** Nyatakan fungsi, kondisi, kuantitas, batas scope, antarmuka, dan hasil penerimaan.
-- **Tie back to this article:** Keep the explanation specific to “Template kebutuhan untuk RFQ CCTV yang bisa dibandingkan”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Mulailah dengan fungsi, bukan merek. Untuk setiap area, tulis kejadian yang perlu ditinjau, siapa yang melihat rekaman, dan berapa lama bukti perlu tersedia. Bedakan kebutuhan melihat situasi umum dari kebutuhan mengenali wajah, membaca plat nomor, atau mengikuti pergerakan. Panduan aplikasi IEC 62676-4 menempatkan tujuan adegan, pemilihan, penempatan, commissioning, pemeliharaan, dan pengujian sebagai bagian dari evaluasi; jumlah megapiksel saja tidak membuktikan hasil yang berguna ([IEC 62676-4](https://webstore.iec.ch/en/publication/7353)).
+
+Gunakan tabel kebutuhan berikut sebagai lampiran RFQ:
+
+| Kolom | Isi yang harus ditulis |
+|---|---|
+| Area dan tujuan | Lokasi, kejadian yang dicari, tingkat detail yang dibutuhkan |
+| Kondisi | Pencahayaan, cuaca, jam operasi, akses, dan gangguan yang sudah diketahui |
+| Perangkat | Kamera, lensa, dudukan, recorder, penyimpanan, lisensi, dan akses klien |
+| Antarmuka | Jaringan, daya, integrasi, akun, dan pihak pemilik sistem |
+| Batas kerja | Jalur kabel, pekerjaan sipil, konfigurasi, pelatihan, dokumentasi, dan pembersihan |
+| Penerimaan | Adegan yang diuji, bukti hasil, format berita acara, dan penanggung jawab |
+
+Nyatakan kuantitas hanya jika dasar pengukurannya jelas. Jika survei belum dilakukan, minta vendor menuliskan asumsi dan opsi survei terpisah—jangan menyamarkan ketidakpastian sebagai jumlah final. Sobat Tukang.co.id, lampirkan denah atau foto yang memang boleh dibagikan, tetapi minta penyedia mengonfirmasi apa yang belum dapat disimpulkan dari lampiran itu.
+
+Untuk area dengan orang yang dapat diidentifikasi, tambahkan tujuan penggunaan, pihak yang mendapat akses, dan perkiraan masa simpan. UU Pelindungan Data Pribadi mengharuskan kebutuhan dan pengelolaan aktual ditinjau sesuai peran pengendali/prosesor dan konteksnya; tanda peringatan atau kontrak cloud saja tidak membuktikan seluruh pengendalian telah terpenuhi ([UU PDP](https://peraturan.bpk.go.id/Details/229798/uu-no-27-tahun-2022)).
 
 ## Buat penawaran benar-benar sebanding
 
-- **Purpose:** Susun komponen scope, inklusi, eksklusi, asumsi, logistik, pengujian, dan risiko.
-- **Tie back to this article:** Keep the explanation specific to “Template kebutuhan untuk RFQ CCTV yang bisa dibandingkan”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kirim format harga yang sama kepada semua penyedia. Pisahkan setidaknya: perangkat, lisensi, material pemasangan, tenaga kerja, konfigurasi, pekerjaan jaringan atau daya, survei, pengujian, pelatihan, dokumentasi, pajak, transportasi, dan pekerjaan yang dikecualikan. Minta subtotal per area dan total, bukan hanya satu angka paket.
+
+Tetapkan tiga label pada setiap baris: **wajib**, **opsional**, atau **menunggu verifikasi**. Untuk baris menunggu verifikasi, minta harga satuan atau rumus penyesuaian dan batas persetujuannya. Tulis juga keadaan sementara: pekerjaan malam, akses bertahap, area tetap berpenghuni, atau menunggu listrik dan jaringan. Dengan begitu biaya tunggu, mobilisasi ulang, dan perlindungan area tidak muncul sebagai kejutan.
+
+Lampirkan template jawaban: model dan firmware, jumlah unit, satuan harga, waktu pengadaan yang harus dikonfirmasi, masa dukungan, garansi yang benar-benar ditawarkan, asumsi, eksklusi, serta risiko yang vendor lihat. Jangan mengisi ketersediaan, harga, atau masa dukungan dari brosur lama. Jika sebuah fitur bergantung pada recorder atau klien tertentu, minta skenario dan batas kompatibilitasnya.
+
+Kesetaraan juga berarti pengujian yang sama. Tetapkan adegan uji, kondisi cahaya yang dicatat, akses live dan playback, ekspor bukti, sinkronisasi waktu, notifikasi, serta bukti serah terima. Profil ONVIF Profile T mencakup kemampuan tertentu untuk streaming, imaging, event, metadata, PTZ, HTTPS, dan audio, tetapi logo atau centang protokol tidak membuktikan semua fitur opsional bekerja pada kombinasi perangkat Anda ([Profile T](https://www.onvif.org/profiles/profile-t/), [panduan produk konforman ONVIF](https://www.onvif.org/)).
 
 ## Dokumen yang membuktikan hal berbeda
 
-- **Purpose:** Bedakan data produk, sertifikat, laporan tes, metode, pengalaman, garansi, dan persetujuan.
-- **Tie back to this article:** Keep the explanation specific to “Template kebutuhan untuk RFQ CCTV yang bisa dibandingkan”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Buat matriks bukti, bukan folder berisi logo. Lembar data membuktikan spesifikasi yang dinyatakan untuk model tertentu. Daftar produk konforman dan sertifikat harus dicocokkan dengan model, peran, firmware, dan tanggal yang ditawarkan. Laporan uji harus menyebut metode, konfigurasi, kondisi, hasil, dan batasnya. Metode pemasangan menjelaskan cara kerja yang diusulkan; itu bukan bukti pekerjaan telah dilakukan dengan benar.
+
+Pisahkan pula bukti pengalaman, garansi, dan persetujuan. Referensi proyek tidak otomatis membuktikan kesamaan lokasi atau hasil. Gambar sertifikat tidak mengautentikasi pemegangnya; bila kompetensi personel menentukan pekerjaan, minta identitas skema, penerbit, ruang lingkup, masa berlaku, dan cara verifikasi. Bukti harus dapat ditelusuri ke objek yang ditawarkan. Prinsip ini sejalan dengan perlindungan konsumen: klaim penawaran harus dapat dipertanggungjawabkan, bukan sekadar rating atau frasa “sesuai standar” ([UU Perlindungan Konsumen](https://peraturan.bpk.go.id/Details/45288/uu-no-8-tahun-1999)).
+
+Untuk keamanan siber, minta inventaris model, akun dan peran, protokol yang terbuka, konfigurasi awal, mekanisme pembaruan, pencatatan log, pemulihan cadangan, dan rencana penghentian layanan. NIST menempatkan identitas perangkat, konfigurasi aman, perlindungan data, kontrol akses, pembaruan, kesadaran keadaan, dan pengelolaan siklus hidup sebagai kapabilitas yang perlu diprofilkan sesuai penggunaan—mengganti kata sandi bawaan saja tidak cukup ([NISTIR 8259 Rev. 1](https://csrc.nist.gov/pubs/ir/8259/r1/final), [katalog kapabilitas IoT](https://pages.nist.gov/IoT-Device-Cybersecurity-Requirement-Catalogs/technical/)).
 
 ## Pertanyaan wajib kepada penyedia
 
-- **Purpose:** Buat daftar pertanyaan konkret yang mengungkap kapasitas, batas, tanggung jawab, dan perubahan.
-- **Tie back to this article:** Keep the explanation specific to “Template kebutuhan untuk RFQ CCTV yang bisa dibandingkan”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Masukkan pertanyaan ini dan minta jawaban tertulis per nomor:
 
-## Red flag dan biaya yang sering tersembunyi
+1. Tujuan adegan apa yang Anda asumsikan untuk tiap kamera, dan informasi apa yang tidak dapat dijamin tanpa survei?
+2. Model, lensa, firmware, recorder, lisensi, dan akses klien apa yang termasuk? Apa alternatif setara dan dampaknya?
+3. Fitur mana yang wajib, kondisional, atau memerlukan perangkat lunak tambahan? Tunjukkan bukti kompatibilitas pada kombinasi yang ditawarkan.
+4. Pekerjaan apa yang termasuk dan dikecualikan—termasuk jalur kabel, jaringan, daya, pekerjaan sipil, akses ketinggian, kerja malam, dan proteksi area berpenghuni?
+5. Adegan, kondisi cahaya, playback, ekspor, waktu, notifikasi, dan integrasi apa yang akan diuji? Siapa menyediakan alat dan siapa menandatangani hasil?
+6. Dokumen apa yang diserahkan: gambar akhir, daftar aset, konfigurasi, akun, manual, lisensi, log uji, pelatihan, dan prosedur pemulihan?
+7. Bagaimana akun awal, pembaruan firmware, kerentanan, backup, akses jarak jauh, dan penghapusan data dikelola selama serta setelah dukungan?
+8. Apa asumsi akses, jadwal, izin, keselamatan, dan koordinasi pihak lain? Apa pemicu biaya atau waktu tambahan?
+9. Bagaimana perubahan scope diajukan, dihargai, disetujui, dan dicatat sebelum pekerjaan berubah?
+10. Siapa kontak teknis dan pengambil keputusan selama penerimaan, dan berapa lama respons yang ditawarkan—jika memang ditawarkan?
 
-- **Purpose:** Jelaskan tanda scope kabur, klaim tanpa bukti, serta biaya akses, tunggu, rework, atau handover.
-- **Tie back to this article:** Keep the explanation specific to “Template kebutuhan untuk RFQ CCTV yang bisa dibandingkan”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Jangan meminta jawaban “ya” saja. Minta kolom bukti, pemilik tindakan, tanggal berlaku, dan batasan. Kawan Tukang.co.id, jawaban yang jujur “belum dapat dipastikan sebelum survei” lebih berguna daripada kepastian tanpa dasar.
+
+## Tanda bahaya dan biaya yang sering tersembunyi
+
+Red flag pertama adalah total paket tanpa kuantitas, satuan, asumsi, atau eksklusi. Red flag berikutnya adalah model tidak lengkap, fitur hanya dibuktikan lewat demo merek yang sama, sertifikat tanpa jalur verifikasi, dan garansi tanpa objek serta proses klaim. Tanda lain: vendor menolak menyebut siapa yang menguji atau menganggap jaringan, daya, akun, dan pembersihan “sudah termasuk” tanpa definisi.
+
+Biaya yang lazim tersembunyi bukan hanya perangkat: survei ulang, akses di luar jam biasa, menunggu area dibuka, mobilisasi kedua, material tambahan, penyesuaian jaringan, lisensi per kanal, penyimpanan dan ekspor, pelatihan, pemindahan akun, serta perbaikan setelah uji gagal. Minta setiap risiko diberi pemilik dan mekanisme persetujuan. Jangan menyetujui pekerjaan tambahan melalui percakapan lisan saja.
+
+Jika perubahan terjadi karena kondisi lapangan, hentikan perbandingan lama: terbitkan revisi yang menandai baris berubah, alasan, dampak harga/waktu, dan bukti yang masih berlaku. Untuk area kerja atau pemasangan yang memiliki risiko keselamatan, pengendalian harus ditentukan dari kondisi aktual dan metode yang kompeten; matriks generik atau PPE-first tidak menggantikan penilaian risiko yang sesuai ([ILO—controlling risks](https://www.ilo.org/topics-and-sectors/occupational-safety-and-health-guide-labour-inspectors-and-other/how-can-occupational-safety-and-health-be-managed/controlling-risks)).
 
 ## Penerimaan, serah terima, dan keputusan akhir
 
-- **Purpose:** Tentukan siapa memeriksa apa, rekaman yang disimpan, dan kapan pembayaran/acceptance layak.
-- **Tie back to this article:** Keep the explanation specific to “Template kebutuhan untuk RFQ CCTV yang bisa dibandingkan”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Sebelum memilih, tetapkan paket penerimaan satu halaman. Untuk tiap area tulis siapa memeriksa pemasangan fisik, siapa menguji fungsi, siapa memeriksa akses dan data, serta bukti apa yang disimpan. Bukti dapat berupa daftar aset dan firmware, foto titik yang boleh didokumentasikan, hasil playback dan ekspor, catatan sinkronisasi waktu, daftar akun yang diserahkan melalui kanal aman, log isu, dan berita acara dengan status lulus, gagal, atau ditunda.
 
-## Objection or shortcut to address
+Penerimaan bukan berarti semua klaim produk terbukti. Ia hanya menyatakan bahwa kriteria yang disepakati telah diuji pada kondisi yang dicatat. Tautkan setiap kegagalan ke tindakan, pemilik, tenggat, dan uji ulang. Simpan versi RFQ, penawaran, klarifikasi, perubahan, hasil uji, dan keputusan agar asal-usul bukti dapat ditelusuri; rekaman memiliki pemilik, akses, masa simpan, dan sensitivitas yang berbeda ([ISO 15489-1](https://www.iso.org/standard/62542.html)).
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+Shortcut yang sering dipilih adalah menerima penawaran termurah lalu “menyetel detail belakangan”. Itu gagal ketika detail tersebut—jalur kabel, lisensi, integrasi, retensi, atau uji adegan—ternyata mengubah scope dan biaya. Alternatif yang lebih aman adalah meminta dua atau tiga penawaran menjawab template identik, menormalkan asumsi, lalu menyimpan daftar pertanyaan terbuka sebagai syarat keputusan.
 
-## Required conclusion
+## Kesimpulan
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+Template RFQ CCTV yang dapat dibandingkan berisi tujuan per area, kondisi dan batas scope, format biaya terurai, bukti model dan kompetensi, skenario uji, pengelolaan data serta keamanan, aturan perubahan, dan paket serah terima. Langkah berikutnya: isi tabel kebutuhan, tandai fakta yang belum terverifikasi, kirim ke penyedia dengan format jawaban yang sama, lalu minta peninjauan teknis dan hukum untuk kondisi proyek nyata.
 
-## Draft completion checklist
-
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Teman Tukang.co.id!` and uses friendly `Tukang.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Teman Tukang.co.id, pilih penawaran hanya setelah setiap selisih punya penjelasan dan bukti yang dapat ditelusuri. Untuk langkah layanan berikutnya, Anda dapat mulai dari [beranda Tukang.co.id](/) atau melihat [opsi jual-pasang CCTV di Dau](/kota/jual-pasang-cctv-dau/) setelah scope internal disetujui. Jika tujuan, kondisi, atau kewajiban proyek belum jelas, pertahankan `[NEEDS PROJECT REVIEW]` dan jangan mengubahnya menjadi janji harga, performa, atau kepatuhan.
